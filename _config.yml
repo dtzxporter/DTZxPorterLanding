@@ -6,8 +6,8 @@ description: "Reverse Engineer, Software Engineer, Tool Builder."
 avatar: assets/avatar.png
 favicon: assets/favicon.png
 
-header_text:
-header_feature_image: assets/banner.png
+header_text: "Reverse Engineer, Software Engineer, Tool Builder."
+header_feature_image: assets/banner.jpeg
 header_feature_image_responsive: true
 footer_text: >
   Copyright © 2023 DTZxPorter. All Rights Reserved.
