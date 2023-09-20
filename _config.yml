@@ -1,0 +1,52 @@
+baseurl: ""
+url: "https://dtzxporter.com"
+
+title: DTZxPorter
+description: "A website with blog posts and pages"
+avatar: assets/img/triangle.png
+favicon: assets/favicon.ico
+
+header_text: Change <code>header_text</code> in <code>_config.yml</code> # Change Blog header text
+header_feature_image: assets/img/header/triangular.jpeg
+header_feature_image_responsive: true
+footer_text: >
+  Copyright 2023 DTZxPorter. All Rights Reserved.
+
+excerpt: true
+post_navigation: true
+color_image: /assets/img/lineart.png
+
+katex: false
+mermaid: default
+google_analytics:
+cookie_consent: false
+color_theme: dark
+
+comments:
+  disqus_shortname:
+  cusdis_app_id:
+  utterances:
+    repo:
+    issue-term:
+
+paginate: 5
+paginate_path: "/blog/page:num"
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:name
+
+sass:
+  style: compressed
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+exclude:
+  [
+    ".jekyll-cache",
+    ".jekyll-metadata",
+    ".idea",
+    "vendor/*",
+    "assets/node_modules/*",
+  ]
+
+remote_theme: sylhare/Type-on-Strap
