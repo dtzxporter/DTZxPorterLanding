@@ -2,7 +2,7 @@
     {% assign ordered_tools = site.tools | sort:"order" %}
     {% for item in ordered_tools %}
     <a class="container d-block rounded border border-secondary mb-3 text-reset text-decoration-none" href="{{ item.url | relative_url }}">
-        <div class="row align-items-center p-2">
+        <div class="row align-items-center p-4">
             {% if item.img %}
             <div class="col-md-4 text-center">
                 <img class="img-fluid rounded-start" src="{{ item.img | relative_url }}">
@@ -14,7 +14,7 @@
             {% else %}
             <div class="col-md-12">
                 <h4 class="card-title">{{ item.title }}</h4>
-                <p>{{ item.description }}</p>
+                <p class="mb-0">{{ item.description }}</p>
             </div>
             {% endif %}
         </div>
