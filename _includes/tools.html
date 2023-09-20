@@ -1,1 +1,7 @@
-<div>hi tools</div>
+<div class="tools">
+    {% for item in site.tools %}
+        <div class="card">
+            {{ item.title }}
+        </div>
+    {% endfor %}
+</div>
