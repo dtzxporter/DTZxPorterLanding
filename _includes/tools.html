@@ -1,13 +1,14 @@
-{% for item in site.portfolio %}
-<div class="rounded border border-info mb-3">
+{% for item in site.tools %}
+<a class="container d-block rounded border border-secondary mb-3 text-reset text-decoration-none"
+    href="{{ item.url | relative_url }}">
     <div class="row align-items-center">
         <div class="col-md-4 text-center">
             <img class="img-fluid rounded-start" src="{{ item.img | relative_url }}" />
         </div>
         <div class="col-md-8">
             <h4 class="card-title">{{ item.title }}</h4>
-            <p>{{ item.description }}</p>
+            <p class="text-primary">{{ item.description }}</p>
         </div>
     </div>
-</div>
+</a>
 {% endfor %}
