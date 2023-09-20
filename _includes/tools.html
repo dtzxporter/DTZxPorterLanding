@@ -1,5 +1,5 @@
 <div>
-    {% for item in site.tools %}
+    {% for item in site.tools | sort:"order" %}
     <a class="container d-block rounded border border-secondary mb-3 text-reset text-decoration-none" href="{{ item.url | relative_url }}">
         <div class="row align-items-center p-2">
             <div class="col-md-4 text-center">
