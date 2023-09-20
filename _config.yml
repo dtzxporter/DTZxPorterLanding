@@ -3,8 +3,8 @@ url: "https://dtzxporter.com"
 
 title: DTZxPorter
 description: "A website with blog posts and pages"
-avatar: assets/img/triangle.png
-favicon: assets/favicon.ico
+avatar: assets/avatar.png
+favicon: assets/favicon.png
 
 header_text: Change <code>header_text</code> in <code>_config.yml</code> # Change Blog header text
 header_feature_image: assets/img/header/triangular.jpeg
