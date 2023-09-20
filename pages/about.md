@@ -3,7 +3,7 @@ layout: page
 title: Home
 permalink: /
 feature-img:
-tags: [Page]
+tags:
 ---
 
 This is about page.
