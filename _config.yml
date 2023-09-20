@@ -17,7 +17,7 @@ post_navigation: true
 color_image: /assets/img/lineart.png
 
 katex: false
-mermaid: default
+mermaid:
 google_analytics:
 cookie_consent: false
 color_theme: dark
