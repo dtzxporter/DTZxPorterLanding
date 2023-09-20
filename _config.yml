@@ -2,7 +2,7 @@ baseurl: ""
 url: "https://dtzxporter.com"
 
 title: DTZxPorter
-description: "A website with blog posts and pages"
+description: "Reverse Engineer, Software Engineer, Tool Builder."
 avatar: assets/avatar.png
 favicon: assets/favicon.png
 
@@ -10,7 +10,7 @@ header_text: Change <code>header_text</code> in <code>_config.yml</code> # Chang
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: >
-  Copyright 2023 DTZxPorter. All Rights Reserved.
+  Copyright © 2023 DTZxPorter. All Rights Reserved.
 
 excerpt: true
 post_navigation: true
