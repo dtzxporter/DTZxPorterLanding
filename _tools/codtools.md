@@ -2,7 +2,7 @@
 layout: post
 title: CODTools
 img: assets/tools/codtools.png
-description: "Exports xmodel, xanim export and bin files directly from Maya (2013+)."
+description: "Exports xmodel, xanim export and bin files directly from Maya (2013+)"
 date: 2019-01-04
 ---
 
