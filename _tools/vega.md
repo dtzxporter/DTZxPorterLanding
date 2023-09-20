@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Vega
-img: "assets/tools/vega.png"
+feature-img: assets/maya.png
+img: assets/tools/vega.png
 description: "The Doom Eternal Asset Extractor"
 tags: [Doom, Doom Eternal]
 ---
