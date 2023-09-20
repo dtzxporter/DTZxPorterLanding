@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Home2
 permalink: /
 feature-img:
 tags:
