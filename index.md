@@ -4,8 +4,7 @@ layout: home
 ---
 
 ## I'm DTZxPorter, but feel free to call me Nick 🖥️🖱️
-I am a full stack software engineer and expert reverse engineer in the USA.
-I have professional experience designing large scale microservices and mesh systems as well as experience in cable modem and router industry. I also have extensive knowledge deploying and managing infrastructure on AWS/DO. I also have a lot of experience with Rust ⚙️. I build tools to extract assets from popular games.
+I am a highly skilled software engineer with expertise in both full-stack development and reverse engineering, based in the USA. My professional background includes designing complex microservices and mesh systems at a large scale, with additional experience in the cable modem and router industry. I possess extensive expertise in deploying and managing infrastructure on AWS and DigitalOcean. Furthermore, I am well-versed in Rust ⚙️ and have utilized it extensively. I specialize in creating tools for extracting assets from popular video games.
 
 ### 💼 Where i am currently working at/as
 - Quebic, Inc: [Here](https://quebic.com)

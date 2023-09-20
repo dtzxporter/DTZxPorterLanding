@@ -36,6 +36,9 @@ collections:
   tools:
     output: true
     permalink: /:collection/:name
+    order:
+      - vega.md
+      - legion.md
 
 sass:
   style: compressed

@@ -20,8 +20,8 @@ Extracts various assets from the game "Apex Legends". This software is developed
 
 - Download Link: [Legion (v2.43)](https://mega.nz/file/sMBzGYTR#j2TLjuXbHrWhN2J99ZwyhEkZkCKi6_GWt-M0QIWJbrA).
 - Download Link (TF2 Supported) *NOT FOR APEX*: [Legion Legacy (v2.13)](https://mega.nz/file/4NJSyQyA#4B-XEiAOujpWsECRHsxHwT9PzL_OUY8X9Rf56JA2KYA)
+- Open source (Legion development discontinued): [Github](https://github.com/dtzxporter/Legion)
 - Requires Visual Studio 2022 x64 Redist: [Redist](https://aka.ms/vs/17/release/VC_redist.x64.exe).
-- Currently works as of 12/7/2021 updates.
 
 ## ⚙️ Usage:
 Using Legion is fairly simple as the tool only requires the files located within "Apex\paks\Win64" in order to function.
