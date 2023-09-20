@@ -3,7 +3,7 @@ layout: post
 title: L3akMod
 img: assets/tools/l3akmod.png
 description: "Enables lua (LUI) support in Black Ops 3"
-order: 6
+order: 9999
 date: 2019-01-02
 ---
 
