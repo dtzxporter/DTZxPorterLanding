@@ -3,7 +3,7 @@ layout: post
 title: ExportX
 img: assets/tools/exportx.png
 description: "Converts COD xmodel_* and xanim_* to _bin or _export"
-order: 4
+order: 5
 date: 2021-11-04
 ---
 
