@@ -1,9 +1,13 @@
-<div class="bootstrap-iso">
-    {% for item in site.portfolio %}
-        <div class="card">
-            <div class="card-body">
-                <h5 class="card-title">{{ item.title }}</h5>
-            </div>
+{% for item in site.portfolio %}
+<div class="rounded border border-info mb-3">
+    <div class="row align-items-center">
+        <div class="col-md-4 text-center">
+            <img class="img-fluid rounded-start" src="{{ item.img | relative_url }}" />
         </div>
-    {% endfor %}
+        <div class="col-md-8">
+            <h4 class="card-title">{{ item.title }}</h4>
+            <p>{{ item.description }}</p>
+        </div>
+    </div>
 </div>
+{% endfor %}
