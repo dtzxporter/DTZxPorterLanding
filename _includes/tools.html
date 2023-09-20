@@ -1,7 +1,9 @@
 <div class="bootstrap-iso">
     {% for item in site.portfolio %}
         <div class="card">
-            {{ item.title }}
+            <div class="card-body">
+                <h5 class="card-title">{{ item.title }}</h5>
+            </div>
         </div>
     {% endfor %}
 </div>
