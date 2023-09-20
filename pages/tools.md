@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tools
-permalink: /
+permalink: /tools
 feature-img: assets/maya.png
 tags:
 ---
