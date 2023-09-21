@@ -1,3 +1,6 @@
-- tools:
-  title: Tools
-  url: https://tools.modme.co
+- discord:
+  title: Discord
+  url: https://discord.com
+- modme:
+  title: Modme
+  url: https://modme.co
