@@ -19,7 +19,7 @@ _Download and version info:_
 
 ## Donate:
 - I take time out of my day to make this happen.
-- Show your support: [HERE](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=686S5QL7Z4HKQ)
+- Show your support: [HERE](https://dtzxporter.com/donate)
 
 ## Usage:
 Using DayZATool just requires one of the following formats:
