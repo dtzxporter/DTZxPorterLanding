@@ -4,6 +4,7 @@ title: Thanks for Supporting
 bootstrap: true
 hide: true
 permalink: /thanks-for-supporting
+feature-img: assets/donate.png
 ---
 
 # Thank you for your support

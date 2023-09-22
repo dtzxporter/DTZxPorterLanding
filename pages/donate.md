@@ -4,6 +4,7 @@ title: Donate
 bootstrap: true
 hide: true
 permalink: /donate
+feature-img: assets/donate.png
 ---
 
 # Donate to support my tools
