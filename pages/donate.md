@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Donate
-bootstrap: true
 hide: true
 permalink: /donate
 feature-img: assets/donate.png
