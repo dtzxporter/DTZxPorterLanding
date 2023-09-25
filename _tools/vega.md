@@ -19,9 +19,9 @@ Extracts various assets from the game "Doom Eternal". This software was develope
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
 
-- Download (Windows x64): [Vega (v2.11)](https://mega.nz/file/FQ402D7K#xe3jIycJSARlohLkznWFAnAyG9yeBUkIV6oiyP-PP30).
-- Download (Linux x64): [Vega (v2.10)](https://mega.nz/file/VJpRRB4T#34XNOh7hGezVWfDFuWq2zMQfH3MkqhG4_Tq2A4Vr9YM).
-- Download (macOS ARM): [Vega (v2.10)](https://mega.nz/file/pUh2RB4R#KE_HE3FmhmESXtN3hiPgmSPWqcPGL05Ph1plInOiIpU).
+- Download (Windows x64): [Vega (v2.12)](https://mega.nz/file/0Z4mhbiY#dhcrXOhDUnm3Gp59I2-qxUK-kDOXueZIKjMZgdvt79c).
+- Download (Linux x64): [Vega (v2.12)](https://mega.nz/file/NEYVlSyS#kTHoJTUYL_00y8njE5ysKjXxfd0ld1oPNocSoSohNfY).
+- Download (macOS ARM): [Vega (v2.12)](https://mega.nz/file/FB5nCbDI#e5OpLTgQh1mTRHGUd_wA26F58QQUjEXI1x4O1LDWsxc).
 
 ## ⚙️ Usage:
 Using Vega is fairly simple as the tool only requires the files located within "base" in order to function.
@@ -49,3 +49,4 @@ Using Vega is fairly simple as the tool only requires the files located within "
 - 2.01 - Animations are properly marked as looping/additive. Fix for single channel images writing as full RGBA. Fix text overflow. Add progress text over progress bar. Add "Exporting..." status for assets.
 - 2.10 - Fixed issue exporting some textures that would cause an 'Error'. Fixed issue with some UVs on some static models. Added ability to preview models, materials, and images using 'P'.
 - 2.11 - (Windows only): Fixed a crash that would happen when performing certain actions on the UI on windows.
+- 2.12 - Performance improvements, automatically reload when changing the 'Load' settings. New loading indicator.
