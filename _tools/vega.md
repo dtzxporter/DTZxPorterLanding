@@ -5,7 +5,7 @@ feature-img: assets/maya.png
 img: assets/tools/vega.png
 description: "The Doom Eternal Asset Extractor"
 order: 0
-date: 2023-09-22
+date: 2023-09-28
 ---
 
 # Vega - The Doom Eternal Asset Extractor
@@ -19,9 +19,9 @@ Extracts various assets from the game "Doom Eternal". This software was develope
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
 
-- Download (Windows x64): [Vega (v2.12)](https://mega.nz/file/0Z4mhbiY#dhcrXOhDUnm3Gp59I2-qxUK-kDOXueZIKjMZgdvt79c).
-- Download (Linux x64): [Vega (v2.12)](https://mega.nz/file/NEYVlSyS#kTHoJTUYL_00y8njE5ysKjXxfd0ld1oPNocSoSohNfY).
-- Download (macOS ARM): [Vega (v2.12)](https://mega.nz/file/FB5nCbDI#e5OpLTgQh1mTRHGUd_wA26F58QQUjEXI1x4O1LDWsxc).
+- Download (Windows x64): [Vega (v2.13)](https://mega.nz/file/0BRzzKhC#VsoTjldd8dTpgZb4wV_tv53kfn_1C7q9nkzfMWAnn1g).
+- Download (Linux x64): [Vega (v2.13)](https://mega.nz/file/NAwggJQL#pghvZEOMb59erKHidgkU6K3dqXYJs2Qyr8cEbUB1dbI).
+- Download (macOS ARM): [Vega (v2.13)](https://mega.nz/file/VNxXGTTS#AuXzakCc7Mi4cHNhRLsdnzwRC09K_8e0LSsEE-Pa2Ls).
 
 ## ⚙️ Usage:
 Using Vega is fairly simple as the tool only requires the files located within "base" in order to function.
@@ -50,3 +50,4 @@ Using Vega is fairly simple as the tool only requires the files located within "
 - 2.10 - Fixed issue exporting some textures that would cause an 'Error'. Fixed issue with some UVs on some static models. Added ability to preview models, materials, and images using 'P'.
 - 2.11 - (Windows only): Fixed a crash that would happen when performing certain actions on the UI on windows.
 - 2.12 - Performance improvements, automatically reload when changing the 'Load' settings. New loading indicator.
+- 2.13 - Fixed issue with some materials 'Error'ing when exporting, missing their textures; also with models. Added option to hide the preview controls overlay. Added option to switch between Maya / Blender controls for the previewer. Drag & drop file load support.
