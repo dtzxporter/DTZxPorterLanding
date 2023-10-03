@@ -24,7 +24,7 @@ Converts *.seanim and *.semodel to *.cast without losing any information.
 - Download (macOS ARM): [SECast (v1.00)](https://mega.nz/file/dVAQEDrY#vVM0OJ3wHt-_zzcWKSxpXHvwRXctsPSNnebeyjmPjW0).
 
 ## ⚙️ Usage:
-Using Vega is simple. Just drag and drop a SEAnim or SEModel or a folder to the application and it will convert in-place.
+Using SECast is simple. Just drag and drop a SEAnim or SEModel or a folder to the application and it will convert in-place.
 
 - The tool features a command line interface, where you can modify the output scale using `--scale 1.0`.
 
