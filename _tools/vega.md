@@ -33,8 +33,8 @@ Using Vega is fairly simple as the tool only requires the files located within "
 ## Ripping:
 - The **.resource** files contain various encoded assets that Vega can export; and, as of now the currently supported assets are:
   - Textures as [Dds, Png, Tiff]
-  - Models as [SEModel, OBJ, XNALara, SMD, CoD XModel, Maya, Kaydara FBX, Cast].
-  - Animations as [SEAnim, Cast].
+  - Models as [Cast, SEModel, OBJ, XNALara, SMD, CoD XModel, Maya, Kaydara FBX].
+  - Animations as [Cast, SEAnim].
 
 > **NOTICE:** You should select all `_patchX` .resource files in order to export assets properly. Order doesn't matter.
 
