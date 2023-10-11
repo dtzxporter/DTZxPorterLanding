@@ -5,7 +5,7 @@ feature-img: assets/maya.png
 img: assets/tools/vega.png
 description: "The Doom Eternal Asset Extractor"
 order: 0
-date: 2023-10-06
+date: 2023-10-11
 ---
 
 # Vega - The Doom Eternal Asset Extractor
@@ -19,9 +19,9 @@ Extracts various assets from the game "Doom Eternal". This software was develope
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
 
-- Download (Windows x64): [Vega (v2.15)](https://mega.nz/file/IQJnALJQ#G3Mn34Hazn4iWr__Ybl94KoEHeVmvJoW8saPcB4t6Y0).
-- Download (Linux x64): [Vega (v2.15)](https://mega.nz/file/QNgXzRoL#5FIRRJubxiAtrc1KWUYQLjvsXQQ6paqekdcX2yBG_ls).
-- Download (macOS ARM): [Vega (v2.15)](https://mega.nz/file/xd4jXQiA#5KbcwfHwePiF5E5IzOMRw5d5_Ad3gRqNWID6CWX-AIY).
+- Download (Windows x64): [Vega (v2.16)](https://mega.nz/file/BZQ3DQCA#jy6DBE4C7-W4Znf6NrROalHdkLsf_tNBG4IV5I1ElWU).
+- Download (Linux x64): [Vega (v2.16)](https://mega.nz/file/0RhDhC7K#-NRzL8-gutZs_cvtDCBuNgCrVXrDyFGvWNGoQtRdUaI).
+- Download (macOS ARM): [Vega (v2.16)](https://mega.nz/file/JF5hSIBb#UPkEtUzBWbbeffCYMYkR_7j7gvEyxGoYRSYG8o5G1WU).
 
 ## ⚙️ Usage:
 Using Vega is fairly simple as the tool only requires the files located within "base" in order to function.
@@ -53,3 +53,4 @@ Using Vega is fairly simple as the tool only requires the files located within "
 - 2.13 - Fixed issue with some materials 'Error'ing when exporting, missing their textures; also with models. Added option to hide the preview controls overlay. Added option to switch between Maya / Blender controls for the previewer. Drag & drop file load support.
 - 2.14 - FBX files now include scales, bringing their rigs and weights 1:1 with other formats. Material assignment overhaul with better detection for which maps are which.
 - 2.15 - Fixed an issue with certain DDS files failing to load.
+- 2.16 - Added ability to toggle automatic asset scaling. Added support for sRGB tiff files.
