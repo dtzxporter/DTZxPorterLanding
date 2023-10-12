@@ -24,9 +24,7 @@ Extracts various assets from the game "Doom Eternal". This software was develope
 - Download (macOS ARM): [Vega (v2.16)](https://mega.nz/file/JF5hSIBb#UPkEtUzBWbbeffCYMYkR_7j7gvEyxGoYRSYG8o5G1WU).
 
 ## ⚙️ Usage:
-Using Vega is fairly simple as the tool only requires the files located within "base" in order to function.
-
-- The tool features a user interface, just open up a resource file using `Load File`
+Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
 
 > **IMPORTANT:** Both the tool and the game **require** the entirety of the base folder to be intact and must not be modified in any way.
 
