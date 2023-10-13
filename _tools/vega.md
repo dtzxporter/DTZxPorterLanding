@@ -51,4 +51,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 2.13 - Fixed issue with some materials 'Error'ing when exporting, missing their textures; also with models. Added option to hide the preview controls overlay. Added option to switch between Maya / Blender controls for the previewer. Drag & drop file load support.
 - 2.14 - FBX files now include scales, bringing their rigs and weights 1:1 with other formats. Material assignment overhaul with better detection for which maps are which.
 - 2.15 - Fixed an issue with certain DDS files failing to load.
-- 2.16 - Added ability to toggle automatic asset scaling. Added support for sRGB tiff files.
+- 2.16 (Final Update) - Added ability to toggle automatic asset scaling. Added support for sRGB tiff files.
