@@ -5,7 +5,7 @@ feature-img: assets/maya.png
 img: assets/tools/secast.png
 description: "Lossless SEAnim & SEModel to Cast converter"
 order: 2
-date: 2023-10-20
+date: 2023-10-22
 ---
 
 # SECast - Lossless SEAnim & SEModel to Cast converter
@@ -19,9 +19,9 @@ Converts *.seanim and *.semodel to *.cast without losing any information.
 
 > **IMPORTANT:** This software comes with no warranty what so ever.
 
-- Download (Windows x64): [SECast (v1.01)](https://mega.nz/file/NBwjiQCA#Z_JQTtU7AyUKJzJSUVVMn3xvejcDTuwECQAaEIxxf3I).
-- Download (Linux x64): [SECast (v1.01)](https://mega.nz/file/gcoFlJ6I#D-QatbmBwsXkxBQGiuCBtr5DyWjNaZ5GonZJ7iLZlA0).
-- Download (macOS ARM): [SECast (v1.01)](https://mega.nz/file/oNwUUJgB#xtnxvetoO6goyAvcx7VuAzeJp_a0sbLNlUaRCu93gpA).
+- Download (Windows x64): [SECast (v1.02)](https://mega.nz/file/ZF5RUBiL#7n6-Mh8pjMmXZsFRBIUjtWBKeZT05s8DiyrEkgGW4wY).
+- Download (Linux x64): [SECast (v1.02)](https://mega.nz/file/RIhQ1SQT#hFBlHinVrsOvOTP2fjC2HK8V7avIqXssAY4YT4iWOWs).
+- Download (macOS ARM): [SECast (v1.02)](https://mega.nz/file/JE5zHbQK#LKwmu6udqy8m6p4jkDVNLV_X_cCq374qNI6XmAfdt_g).
 
 ## ⚙️ Usage:
 Using SECast is simple. Just drag and drop a SEAnim or SEModel or a folder to the application and it will convert in-place.
@@ -31,3 +31,4 @@ Using SECast is simple. Just drag and drop a SEAnim or SEModel or a folder to th
 ## 📌 Versioning:
 - 1.00 - Initial Release.
 - 1.01 - Fixed issue with some SEAnim animations that are relative and had incorrect rotation curves. Added `--skip-pause` command line argument.
+- 1.02 - Fixed issue generating animation curves for animations with no keyframes.
