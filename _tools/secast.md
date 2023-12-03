@@ -4,7 +4,7 @@ title: SECast
 feature-img: assets/maya.png
 img: assets/tools/secast.png
 description: "Lossless SEAnim & SEModel to Cast converter"
-order: 2
+order: 5
 date: 2023-10-22
 ---
 
@@ -27,6 +27,7 @@ Converts *.seanim and *.semodel to *.cast without losing any information.
 Using SECast is simple. Just drag and drop a SEAnim or SEModel or a folder to the application and it will convert in-place.
 
 - The tool features a command line interface, where you can modify the output scale using `--scale 1.0`.
+- You can also specify `--skip-pause` to prevent the pause at the end.
 
 ## 📌 Versioning:
 - 1.00 - Initial Release.
