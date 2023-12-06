@@ -36,6 +36,7 @@ Here is a list of all of the configurable tool settings and a description that g
 - Load Images - Show assets that are images.
 - Load Materials - Show assets that are materials.
 - Load Sounds - Show assets that are sounds.
+- Load Raw Files - Show assets that are loose files, or not directly convertable.
 
 You can customize the export directory using the "Browse" button.
 
