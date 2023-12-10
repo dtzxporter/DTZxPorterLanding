@@ -9,7 +9,7 @@ date: 2023-12-10
 ---
 
 # Hunter - The TD2, Avatar Asset Extractor
-Extracts all assets the games "The Division 2" and "Avatar Frontiers of Pandora". This software was developed by [DTZxPorter](https://twitter.com/dtzxporter).
+Extracts all assets from the games "The Division 2" and "Avatar Frontiers of Pandora". This software was developed by [DTZxPorter](https://twitter.com/dtzxporter).
 
 ## ❤️ Donate:
 - I take time out of my day to make this happen.
