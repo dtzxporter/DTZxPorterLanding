@@ -3,12 +3,12 @@ layout: post
 title: Hunter
 feature-img: assets/maya.png
 img: assets/tools/hunter.png
-description: "TD2, Avatar Asset Extractor"
+description: "The TD2, Avatar Asset Extractor"
 order: 1
 date: 2023-12-10
 ---
 
-# Hunter - TD2, Avatar Asset Extractor
+# Hunter - The TD2, Avatar Asset Extractor
 Extracts all assets the games "The Division 2" and "Avatar Frontiers of Pandora". This software was developed by [DTZxPorter](https://twitter.com/dtzxporter).
 
 ## ❤️ Donate:
