@@ -46,11 +46,11 @@ You can customize the export directory using the "Browse" button.
   - If the game uses centimeters, then the units will be `*= 1.0`.
 
 ### Settings - Models
+- Cast - Export models in cast format. [Plugins](https://github.com/dtzxporter/cast)
 - OBJ - Export models in obj format.
 - Valve SMD - Export models in smd format. [SDK](https://developer.valvesoftware.com/wiki/Maya#Source_SDK_plug-ins)
 - XNALara - Export models in xnalara format. [Blender](https://github.com/johnzero7/XNALaraMesh)
 - CoD XModel - Export models in xmodel_export format.
-- Cast - Export models in cast format. [Plugins](https://github.com/dtzxporter/cast)
 - SEModel - Export models in semodel format. [Maya](https://github.com/dtzxporter/SETools) / [Blender](https://github.com/dtzxporter/io_model_semodel)
 - Autodesk Maya - Export models in ma format. [Maya](https://www.autodesk.com/products/maya)
 - FBX - Export models in fbx format.
