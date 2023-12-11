@@ -24,7 +24,7 @@ Extracts all assets from the games "The Division 2" and "Avatar Frontiers of Pan
 ## ⚙️ Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
 
-> **IMPORTANT:** Both the tool and the game **require** the entirety of the rouge folder to be intact and must not be modified in any way.
+> **IMPORTANT:** Both the tool and the game **require** the entirety of the rogue folder to be intact and must not be modified in any way.
 
 ## Ripping:
 - The **.sdftoc** files contain various encoded assets that Hunter can export; and, as of now the currently supported assets are:
