@@ -14,8 +14,3 @@ Creating the best game ripping and modding tools takes a lot of time. Any amount
     <input type="hidden" name="hosted_button_id" value="6DFRTDDU7RHNE" />
     <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 </form>
-
----
-
-## Support my company
-If you can't support with a donation, the next best thing would be supporting my startup Quebic: [Here](https://quebic.com/invest).

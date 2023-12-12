@@ -4,7 +4,7 @@ title: Vega
 feature-img: assets/maya.png
 img: assets/tools/vega.png
 description: "The Doom Eternal Asset Extractor"
-order: 0
+order: 1
 date: 2023-10-11
 ---
 
