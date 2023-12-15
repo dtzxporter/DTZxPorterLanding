@@ -19,7 +19,7 @@ Extracts all assets from the games "The Division 2" and "Avatar Frontiers of Pan
 
 > **IMPORTANT:** This software comes with no warranty what so ever.
 
-- Download (Windows x64): [Hunter (v1.54)](https://mega.nz/file/ldYyXbIS#nS8RfVdSZm8W9sHjGJF3SMSId9F-hCiZTgj4svpzvns).
+- Download (Windows x64): [Hunter (v1.55)](https://mega.nz/file/cEAxjK6T#OcQW1MVhRbZjK8hAU1T3TxfhUjowtxJug9X--cfdL84).
 
 ## ⚙️ Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
@@ -41,3 +41,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 1.52 - Fix weights for some models with a lot of bones.
 - 1.53 - Loading and export performance improvements. Placeholder detection for locales.
 - 1.54 - Even faster loading performance. Fix crash on `stf_streaming` toc files from TD2. Specify avatar in load dialog.
+- 1.55 - Fix issue with some rawfiles not exporting in TD2/Avatar (they were encrypted). Label reference models as placeholder.
