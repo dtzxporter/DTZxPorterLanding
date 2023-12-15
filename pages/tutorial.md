@@ -27,6 +27,13 @@ The cancel button will cancel the export job after the current asset exports.
 ## 🔍 Previewing an asset
 To preview an asset, you can press (P) to open the preview window. Select the asset you want to view in the list of assets to preview it.
 
+## 🚦 Asset status
+- Loaded - The asset is ready to be exported.
+- Placeholder - The asset is empty, a reference, or has nothing to export at this time.
+- Exporting - The asset is currently exporting in parellel.
+- Exported - The asset was exported successfully.
+- Error - An error occured while exporting this asset, you should report the name of it to me. (Make sure you didn't run out of disk space.)
+
 ## ⚙️ Tool Settings
 Here is a list of all of the configurable tool settings and a description that goes with it:
 
