@@ -51,4 +51,4 @@ exclude:
 
 markdown: kramdown
 
-remote_theme: sylhare/Type-on-Strap
+remote_theme: sylhare/Type-on-Strap@v2.4.7
