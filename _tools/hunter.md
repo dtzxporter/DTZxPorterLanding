@@ -19,7 +19,7 @@ Extracts all assets from the games "The Division 2" and "Avatar Frontiers of Pan
 
 > **IMPORTANT:** This software comes with no warranty what so ever.
 
-- Download (Windows x64): [Hunter (v1.59)](https://mega.nz/file/YApBATgK#HJM7lbrLYF1NKT32b7ULKl-YP7wmrXLyaECTBd2618M).
+- Download (Windows x64): [Hunter (v1.60)](https://mega.nz/file/QM5XRb6S#RStypuIHVSx1QhLr1hbli2qm4VJNEfJEZuLddNS8WvI).
 
 ## ⚙️ Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
@@ -46,3 +46,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 1.57 - Fixed weights for some complex models.
 - 1.58 - Fixed crash exporting some textures due to non block size and gpu issues.
 - 1.59 - Fixed another crash around gpu buffers.
+- 1.60 - Fixed valve smd exporter.
