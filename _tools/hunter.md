@@ -5,7 +5,7 @@ feature-img: assets/maya.png
 img: assets/tools/hunter.png
 description: "The TD2, Avatar Asset Extractor"
 order: 0
-date: 2023-12-16
+date: 2023-12-19
 ---
 
 # Hunter - The TD2, Avatar Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the games "The Division 2" and "Avatar Frontiers of Pan
 
 > **IMPORTANT:** This software comes with no warranty what so ever.
 
-- Download (Windows x64): [Hunter (v1.60)](https://mega.nz/file/QM5XRb6S#RStypuIHVSx1QhLr1hbli2qm4VJNEfJEZuLddNS8WvI).
+- Download (Windows x64): [Hunter (v1.61)](https://mega.nz/file/NZ5TwaiC#7hEu_dVha_1mlLG6FH7bLP2FP6P9Nd3l0xidr6avVWs).
 
 ## ⚙️ Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
@@ -30,6 +30,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - The **.sdftoc** files contain various encoded assets that Hunter can export; and, as of now the currently supported assets are:
   - Textures as [Dds, Png, Tiff]
   - Models as [Cast, SEModel, OBJ, XNALara, SMD, CoD XModel, Maya, Kaydara FBX].
+  - Animations as [Cast, SEAnim].
   - Raw Files as-is.
 
 > **NOTE:** This tool only exports assets as-is, without attempting to link models to their materials, and materials to their images. The game uses complex scene graphs which would require too much effort to automate, however, most of a model's textures have similar names to each other. It's very easy to locate the textures for a model yourself.
@@ -47,3 +48,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 1.58 - Fixed crash exporting some textures due to non block size and gpu issues.
 - 1.59 - Fixed another crash around gpu buffers.
 - 1.60 - Fixed valve smd exporter.
+- 1.61 - Initial support for exporting animations. 70% of all animations are supported at this time.
