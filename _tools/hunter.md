@@ -19,7 +19,7 @@ Extracts all assets from the games "The Division 2" and "Avatar Frontiers of Pan
 
 > **IMPORTANT:** This software comes with no warranty what so ever.
 
-- Download (Windows x64): [Hunter (v1.62)](https://mega.nz/file/UZhF3J4R#XW2tdNi5k7PslVRb7OXzgnwux0xjvPUq4XznQ4qv7PE).
+- Download (Windows x64): [Hunter (v1.63)](https://mega.nz/file/9B5lAArT#-CYKbbtTjyOSDBd2W92QuE0xXLkqLTki3HY3_tl2L7k).
 
 ## ⚙️ Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
@@ -50,3 +50,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 1.60 - Fixed valve smd exporter.
 - 1.61 - Initial support for exporting animations. 70% of all animations are supported at this time.
 - 1.62 - Support for more animation formats. 99% of all animations are now supported.
+- 1.63 - Update program library for new settings.
