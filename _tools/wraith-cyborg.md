@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Wraith Cyborg
+img: assets/tools/wraith-cyborg.png
 description: "The Call of Duty ONLINE Asset Extractor"
-order: 10000
+order: 9999
 date: 2018-07-28
 ---
 

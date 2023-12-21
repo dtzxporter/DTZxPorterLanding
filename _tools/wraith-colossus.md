@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Wraith Colossus
+img: assets/tools/wraith-colossus.png
 description: "The Wolfenstein Asset Extractor"
-order: 10000
+order: 9999
 date: 2021-11-06
 ---
 
