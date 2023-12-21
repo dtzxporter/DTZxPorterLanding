@@ -2,13 +2,13 @@
 layout: post
 title: Wraith Revenant
 img: assets/tools/wraith-revenant.png
-description: "The Doom 2016 Extractor"
+description: "The Doom 2016 Asset Extractor"
 order: 9999
 date: 2021-11-06
 ---
 
 # Wraith Revenant - The Doom 2016 Extractor
-Extracts models and their mega textures from `Doom 2016`
+Extracts various assets from the `Doom 2016` game.
 
 ## [>> Download <<](https://mega.nz/file/ANhUTTga#Fevma9rWyRlSJpCyjyqMyVZNV52juiZ2-naboHmzYCE)
 
