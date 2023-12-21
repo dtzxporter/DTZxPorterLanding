@@ -5,7 +5,7 @@ feature-img: assets/maya.png
 img: assets/tools/vega.png
 description: "The Doom Eternal Asset Extractor"
 order: 1
-date: 2023-10-11
+date: 2023-12-21
 ---
 
 # Vega - The Doom Eternal Asset Extractor
@@ -19,9 +19,9 @@ Extracts various assets from the game "Doom Eternal". This software was develope
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
 
-- Download (Windows x64): [Vega (v2.16)](https://mega.nz/file/BZQ3DQCA#jy6DBE4C7-W4Znf6NrROalHdkLsf_tNBG4IV5I1ElWU).
-- Download (Linux x64): [Vega (v2.16)](https://mega.nz/file/0RhDhC7K#-NRzL8-gutZs_cvtDCBuNgCrVXrDyFGvWNGoQtRdUaI).
-- Download (macOS ARM): [Vega (v2.16)](https://mega.nz/file/JF5hSIBb#UPkEtUzBWbbeffCYMYkR_7j7gvEyxGoYRSYG8o5G1WU).
+- Download (Windows x64): [Vega (v2.17)](https://mega.nz/file/BVwSlbxL#78wYTqZaHXI_iJC1CMr2SCZQgwOBSurNU7J-A3X_Mnc).
+- Download (Linux x64): [Vega (v2.17)](https://mega.nz/file/9dpGFICY#ERa9SeOiA_-tlP5AEoIUMn8tewjSb5YQzQkuaF632jk).
+- Download (macOS ARM): [Vega (v2.17)](https://mega.nz/file/lEo2AarB#jOU-NgPXpxIig-VZbVo8YXGnG5WmozD8xIBp_Pq8cf4).
 
 ## ⚙️ Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
@@ -51,4 +51,5 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 2.13 - Fixed issue with some materials 'Error'ing when exporting, missing their textures; also with models. Added option to hide the preview controls overlay. Added option to switch between Maya / Blender controls for the previewer. Drag & drop file load support.
 - 2.14 - FBX files now include scales, bringing their rigs and weights 1:1 with other formats. Material assignment overhaul with better detection for which maps are which.
 - 2.15 - Fixed an issue with certain DDS files failing to load.
-- 2.16 (Final Update) - Added ability to toggle automatic asset scaling. Added support for sRGB tiff files.
+- 2.16 - Added ability to toggle automatic asset scaling. Added support for sRGB tiff files. (Final Major Update)
+- 2.17 - Update project library dependencies.
