@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Wraith Laura
+img: assets/tools/wraith-laura.png
 description: "The Evil Within Asset Extractor"
-order: 10000
+order: 9999
 date: 2021-11-06
 ---
 

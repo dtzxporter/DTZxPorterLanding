@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Wraith Revenant
+img: assets/tools/wraith-revenant.png
 description: "The Doom 2016 Extractor"
-order: 10000
+order: 9999
 date: 2021-11-06
 ---
 
