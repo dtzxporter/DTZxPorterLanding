@@ -2,13 +2,13 @@
 layout: post
 title: Wraith Colossus
 img: assets/tools/wraith-colossus.png
-description: "The Wolfenstein Asset Extractor"
-order: 9999
+description: "The Wolfenstein 2 Asset Extractor"
+order: 10000
 date: 2021-11-06
 ---
 
-# Wraith Colossus - The Wolfenstein Asset Extractor
-Extracts models and their mega textures from `Wolfenstein`
+# Wraith Colossus - The Wolfenstein 2 Asset Extractor
+Extracts models and their mega textures from `Wolfenstein 2`
 
 ## [>> Download <<](https://mega.nz/file/UYxCWD7C#CkKled84lbIvSMS1lAG8uYnCyyNd6m0TK6Dgh-Av530)
 
@@ -21,7 +21,6 @@ Using Wraith Colossus is easy, it works by simply using `Load File` to open one 
 
 | Game | Models | Images | Anims
 | ----- | ----- | ----- | -----
-| Wolfenstein | TBD | TBD | TBD
 | Wolfenstein 2 | RESOURCES Files | RESOURCES Files | TBD
 
 Key:
