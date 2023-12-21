@@ -14,6 +14,7 @@ Extracts various assets from the `CODOL` game
 
 _Download and version info:_
 - Download (Agreeing to the [EULA](http://aviacreations.com/wraith/): [Wraith Cyborg (v1.0.6)](https://mega.nz/#!BUgDWaZB!CYzhqTcOhaEpan4xs8cxbkOBAUsOASuX73ugQVF4al0)
+- Open source (Wraith Cyborg is discontinued): [Github](https://github.com/dtzxporter/WraithXOL)
 - Game version: 3.10.23.2 (Exe version, **differs from site**...)
 - Game SHA1: "bdf7d6fa9005539cfb962d82eed3a8c042828728"
 
