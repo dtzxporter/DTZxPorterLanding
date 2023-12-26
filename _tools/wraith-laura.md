@@ -19,11 +19,9 @@ Using Wraith Laura is easy, it works by simply using `Load File` to open one of 
 
 ## Game support information
 
-| Game | Models | Images | Anims
-| ----- | ----- | ----- | -----
-| The Evil Within | TANGORESOURCE Files | TANGORESOURCE Files | TBD
-| The Evil Within 2 | PTR Files | PTR Files | TBD
+| Game              | Models              | Images              |
+| ----------------- | ------------------- | ------------------- |
+| The Evil Within   | TANGORESOURCE Files | TANGORESOURCE Files |
+| The Evil Within 2 | PTR Files           | PTR Files           |
 
-Key:
-- Some features aren't necessarily coming, so they are marked TBD or 'to be determined'
 - File type exporting is just opening the file via `Load File` or `drag and drop`.

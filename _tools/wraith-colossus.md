@@ -19,10 +19,8 @@ Using Wraith Colossus is easy, it works by simply using `Load File` to open one 
 
 ##  Game support information
 
-| Game | Models | Images | Anims
-| ----- | ----- | ----- | -----
-| Wolfenstein 2 | RESOURCES Files | RESOURCES Files | TBD
+| Game          | Models          | Images          |
+| ------------- | --------------- | --------------- |
+| Wolfenstein 2 | RESOURCES Files | RESOURCES Files |
 
-Key:
-- Some features aren't necessarily coming, so they are marked TBD or 'to be determined'
 - File type exporting is just opening the file via `Load File` or `drag and drop`.

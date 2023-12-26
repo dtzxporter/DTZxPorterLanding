@@ -5,7 +5,7 @@ feature-img: assets/maya.png
 img: assets/tools/hunter.png
 description: "The TD2, Avatar Asset Extractor"
 order: 0
-date: 2023-12-20
+date: 2023-12-26
 ---
 
 # Hunter - The TD2, Avatar Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the games "The Division 2" and "Avatar Frontiers of Pan
 
 > **IMPORTANT:** This software comes with no warranty what so ever.
 
-- Download (Windows x64): [Hunter (v1.63)](https://mega.nz/file/9B5lAArT#-CYKbbtTjyOSDBd2W92QuE0xXLkqLTki3HY3_tl2L7k).
+- Download (Windows x64): [Hunter (v1.64)](https://mega.nz/file/cNoQUCyC#XzDvKHqv3eO0Jr5zR1hvzqx4kVYzVYMQVzlyB8fSuBI).
 
 ## ⚙️ Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
@@ -51,3 +51,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 1.61 - Initial support for exporting animations. 70% of all animations are supported at this time.
 - 1.62 - Support for more animation formats. 99% of all animations are now supported.
 - 1.63 - Update program library for new settings.
+- 1.64 - Update program library to fix weights in some export formats in some cases (Maya, SMD).
