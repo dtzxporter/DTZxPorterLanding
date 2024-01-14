@@ -31,6 +31,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
   - Textures as [Dds, Png, Tiff]
   - Models as [Cast, SEModel, OBJ, XNALara, SMD, CoD XModel, Maya, Kaydara FBX].
   - Animations as [Cast, SEAnim].
+  - Raw Files as-is.
 
 > **NOTICE:** Patches are automatically loaded for you.
 
