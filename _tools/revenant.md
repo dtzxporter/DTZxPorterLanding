@@ -27,7 +27,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **IMPORTANT:** Both the tool and the game **require** the entirety of the base folder to be intact and must not be modified in any way.
 
 ## Ripping:
-- The **.index** files contain various encoded assets that Vega can export; and, as of now the currently supported assets are:
+- The **.index** files contain various encoded assets that Revenant can export; and, as of now the currently supported assets are:
   - Textures as [Dds, Png, Tiff]
   - Models as [Cast, SEModel, OBJ, XNALara, SMD, CoD XModel, Maya, Kaydara FBX].
   - Animations as [Cast, SEAnim].
