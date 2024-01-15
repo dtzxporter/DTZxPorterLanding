@@ -3,7 +3,7 @@ layout: page
 title: Thanks for Supporting
 hide: true
 permalink: /thanks-for-supporting
-feature-img: assets/donate.png
+feature-img: assets/donate.jpg
 ---
 
 # Thank you for your support

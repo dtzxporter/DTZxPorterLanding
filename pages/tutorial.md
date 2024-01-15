@@ -3,7 +3,7 @@ layout: page
 title: Game Tools Tutorial
 hide: true
 permalink: /game-tools-tutorial
-feature-img: assets/donate.png
+feature-img: assets/donate.jpg
 ---
 
 # Game Tools Tutorial

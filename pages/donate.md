@@ -3,7 +3,7 @@ layout: page
 title: Donate
 hide: true
 permalink: /donate
-feature-img: assets/donate.png
+feature-img: assets/donate.jpg
 ---
 
 # Donate to support my tools

@@ -3,7 +3,7 @@ layout: page
 title: About Me
 hide: true
 permalink: /about
-feature-img: assets/donate.png
+feature-img: assets/donate.jpg
 ---
 
 # 2008
