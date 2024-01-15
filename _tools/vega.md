@@ -5,7 +5,7 @@ feature-img: assets/maya.png
 img: assets/tools/vega.png
 description: "The Doom Eternal Asset Extractor"
 order: 1
-date: 2024-01-02
+date: 2024-01-15
 ---
 
 # Vega - The Doom Eternal Asset Extractor
@@ -19,9 +19,9 @@ Extracts various assets from the game "Doom Eternal". This software was develope
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
 
-- Download (Windows x64): [Vega (v2.19)](https://mega.nz/file/NJoVmChY#jd-KegmkZ_2U1Db5QPic6_JISuVvPADFgT7dcaS_LLU).
-- Download (Linux x64): [Vega (v2.19)](https://mega.nz/file/MUADQAqY#4y9yX38o6AzLpAGwwuNxaesS7yTxdz9hB4sUrfrQpHA).
-- Download (macOS ARM): [Vega (v2.19)](https://mega.nz/file/RZBC2YTD#YnZovizjIpTNbK22hnK6ESxVi_oj8jDIeNTMALEch3E).
+- Download (Windows x64): [Vega (v2.20)](https://mega.nz/file/1JgwELaQ#2haC9xro4l35V91fxuYpEnqPtqE89t1gAdWn8yZQOEc).
+- Download (Linux x64): [Vega (v2.20)](https://mega.nz/file/UJo0SL7I#pCqNvOdpi5xrL0yvtPOBwTgZKWo9-MXXRkZ4LZclQhU).
+- Download (macOS ARM): [Vega (v2.20)](https://mega.nz/file/sBRHUSBC#hVpcbDbx7eYB2TT8_6WLWPL230QG60bimt50AdpWkrM).
 
 ## ⚙️ Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
@@ -33,6 +33,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
   - Textures as [Dds, Png, Tiff]
   - Models as [Cast, SEModel, OBJ, XNALara, SMD, CoD XModel, Maya, Kaydara FBX].
   - Animations as [Cast, SEAnim].
+  - Worlds as [Cast].
   - Raw Files as-is.
 
 > **NOTICE:** You should select all `_patchX` .resource files in order to export assets properly. Order doesn't matter.
@@ -56,3 +57,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 2.17 - Update project library dependencies.
 - 2.18 - Update program library for maya/smd weight fixes.
 - 2.19 - Fixed texture linking issue due to last update.
+- 2.20 - Support for exporting maps (worlds) with the new cast world specification.
