@@ -5,7 +5,7 @@ feature-img: assets/maya.png
 img: assets/tools/revenant.png
 description: "The Doom 2016 Asset Extractor"
 order: 2
-date: 2024-01-25
+date: 2024-02-04
 ---
 
 # Revenant - The Doom 2016 Asset Extractor

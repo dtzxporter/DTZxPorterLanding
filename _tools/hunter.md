@@ -5,7 +5,7 @@ feature-img: assets/maya.png
 img: assets/tools/hunter.png
 description: "The TD2, Avatar Asset Extractor"
 order: 0
-date: 2024-01-25
+date: 2024-02-04
 ---
 
 # Hunter - The TD2, Avatar Asset Extractor
