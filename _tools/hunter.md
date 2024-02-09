@@ -57,4 +57,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 1.67 - Update program library for crash fixes, texture export performance.
 - 1.68 - Update program library to fix ui bugs.
 - 1.70 - Support for more animation formats, an uncommon model format, and more.
-- 1.71 - Fixed crash with previous model format update. Fixed bug exporting some images. Support more image formats.
+- 1.71 - Fixed crash with previous model format update. Fixed bug exporting some images. Support more image formats. Support some models with mutliple uv layers.
