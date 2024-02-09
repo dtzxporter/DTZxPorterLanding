@@ -9,7 +9,7 @@ date: 2024-02-04
 ---
 
 # Revenant - The Doom 2016 Asset Extractor
-Extracts various assets from the game "Doom 2016". This software was developed by [DTZxPorter](https://twitter.com/dtzxporter) & id-daemon.
+Extracts all assets from the game "Doom 2016". This software was developed by [DTZxPorter](https://twitter.com/dtzxporter) & id-daemon.
 
 ## ❤️ Donate:
 - I take time out of my day to make this happen.
