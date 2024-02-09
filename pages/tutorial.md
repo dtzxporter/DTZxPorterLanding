@@ -62,6 +62,8 @@ You can customize the export directory using the "Browse" button.
 - Autodesk Maya - Export models in ma format. [Maya](https://www.autodesk.com/products/maya)
 - FBX - Export models in fbx format.
 
+> **WARNING:** Some model formats only support a limited amount of model features. For the best compatibility with any game, use Cast with a proper plugin.
+
 ### Settings - Images
 - Image file type `DDS`:
   - Typically the source format for the game.
