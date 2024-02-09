@@ -19,7 +19,7 @@ Extracts all assets from the games "The Division 2" and "Avatar Frontiers of Pan
 
 > **IMPORTANT:** This software comes with no warranty what so ever.
 
-- Download (Windows x64): [Hunter (v1.71)](https://mega.nz/file/AZB1iCJD#91tS_WIRf6gsfKVePSrqwY4QjEIDpPwIan2L_9ap0-o).
+- Download (Windows x64): [Hunter (v1.72)](https://mega.nz/file/JBJgHDgJ#5BbtYZdBKsb7ajStnEDKUQPKtEhpQGfKKHq6TIF_Jtc).
 
 ## ⚙️ Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
@@ -58,3 +58,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 1.68 - Update program library to fix ui bugs.
 - 1.70 - Support for more animation formats, an uncommon model format, and more.
 - 1.71 - Fixed crash with previous model format update. Fixed bug exporting some images. Support more image formats. Support some models with mutliple uv layers.
+- 1.72 - Fixed more image issues. Fixed ui resize bug introduced in last update.
