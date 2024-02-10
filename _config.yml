@@ -2,11 +2,11 @@ baseurl: ""
 url: "https://dtzxporter.com"
 
 title: DTZxPorter
-description: "Reverse Engineer, Software Engineer, Problem Solver."
+description: "Software Engineer, Reverse Engineer, Problem Solver."
 avatar: assets/avatar.png
 favicon: assets/favicon.png
 
-header_text: "Reverse Engineer, Software Engineer, Problem Solver."
+header_text: "Software Engineer, Reverse Engineer, Problem Solver."
 header_feature_image: assets/banner.jpeg
 header_feature_image_responsive: true
 footer_text: >
