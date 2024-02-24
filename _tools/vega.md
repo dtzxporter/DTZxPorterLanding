@@ -22,7 +22,7 @@ Extracts all assets from the game "Doom Eternal". This software was developed by
 - Download (Windows x64): [Vega (v2.25)](https://mega.nz/file/hBoX2DYJ#GGNzEgD_1LTd-gkIZw2NztYOpx8nAtXYo-Rw2E2g_uM).
   - Windows 10+ officially supported.
   - Requires a CPU with SSE4.2 support.
-- Download (Linux x64): [Vega (v2.25)](https://mega.nz/file/BMATUJYR#syLqsFWUk32_dojCKlkf-sVSRQhniQr8nZ491_DmMpg).
+- Download (Linux x64): [Vega (v2.25)](https://mega.nz/file/9ZYglbpK#Zljj1dL6c6IpUfnuk-or3gcRNoQ28kjFj5fGvtiG6-0).
   - Requires a CPU with SSE4.2 support.
 - Download (macOS ARM): [Vega (v2.25)](https://mega.nz/file/gFBFTBBQ#RuqFq1EZ0zS5tQ8kYFMGZAXA4iphpXIICVj8PbRUQUU).
 
