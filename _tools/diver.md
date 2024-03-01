@@ -26,7 +26,7 @@ Extracts all assets from the game "Helldivers 2". This software was developed by
 ## ⚙️ Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
 
-> **IMPORTANT:** Both the tool and the game **require** the entirety of the data folder to be intact and must not be modified in any way.
+> **IMPORTANT:** Both the tool and the game **require** the entirety of the data folder to be intact and must not be modified in any way. Diver loads all of the files in the data folder at once after picking a file to load.
 
 ## Ripping:
 - The **.stream** and **.gpu_resources** files contain various encoded assets that Diver can export; and, as of now the currently supported assets are:
