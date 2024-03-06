@@ -37,6 +37,9 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 
 > **NOTE:** This tool does it's best to export known materials with a model. In some cases, the models use dynamic shaders, and materials (for skins, variants, etc) and you won't get textures with that model. You can export materials separately as well as images.
 
+## Asset Names:
+There is a community effort to name assets for easier use. You can download or contribute to the database here: [hd2-name-db](https://github.com/dtzxporter/hd2-name-db).
+
 ## 📌 Versioning:
 - 1.00 (BETA) - Initial Release with support for models, materials, and textures.
 - 1.01 - Fixed model position bugs, material assignment, exports multi-layer images for dds, png, and tiff, export all material references.
