@@ -19,7 +19,7 @@ Extracts all assets from the game "Helldivers 2". This software was developed by
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
 
-- Download (Windows x64): [Diver (v1.11)](https://mega.nz/file/EFgTjLaC#Pg-tlVj_G0vfJIrvQBBsGB0FBcrSPdRFxf0xzihBeDY).
+- Download (Windows x64): [Diver (v1.12)](https://mega.nz/file/QEI2GY6S#RP3oMUbbKSf3MGp-w8tiDMXFGW4mJ8ZOjb4fsjjNn_g).
   - Windows 10+ officially supported.
   - Requires a CPU with SSE4.2 support.
 
@@ -42,4 +42,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 1.01 - Fixed model position bugs, material assignment, exports multi-layer images for dds, png, and tiff, export all material references.
 - 1.02 - Fixed export of a very small group of models that have hilarious data. All models should export correctly as of now.
 - 1.10 - Initial support for exporting animations, 65% are currently exportable.
-- 1.11 - Support for more animation types. Add support for loading an asset name database `assets.pndb` if one exists next to the application.
+- 1.12 - Support for more animation types. Add support for loading an asset name database `assets.pndb` if one exists next to the application.
