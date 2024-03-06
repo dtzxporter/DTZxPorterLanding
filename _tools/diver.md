@@ -5,7 +5,7 @@ feature-img: assets/maya.png
 img: assets/tools/diver.png
 description: "The Helldivers 2 Asset Extractor"
 order: 1
-date: 2024-03-03
+date: 2024-03-06
 ---
 
 # Diver - The Helldivers 2 Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the game "Helldivers 2". This software was developed by
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
 
-- Download (Windows x64): [Diver (v1.02)](https://mega.nz/file/0RZTADpB#YPGerhqkzGpoiuRJ2VLSQQfq9fG6CfyKs7sDeYV0b7k).
+- Download (Windows x64): [Diver (v1.10)](https://mega.nz/file/Vd4RlJhK#hbRnqSj41sN3f-64_7S-CBpHQuCksyzFIgdNU6OXccA).
   - Windows 10+ officially supported.
   - Requires a CPU with SSE4.2 support.
 
@@ -32,6 +32,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - The **.stream** and **.gpu_resources** files contain various encoded assets that Diver can export; and, as of now the currently supported assets are:
   - Textures as [Dds, Png, Tiff]
   - Models as [Cast, SEModel, OBJ, XNALara, SMD, CoD XModel, Maya, Kaydara FBX].
+  - Animations as [Cast, SEAnim].
   - Raw Files as-is.
 
 > **NOTE:** This tool does it's best to export known materials with a model. In some cases, the models use dynamic shaders, and materials (for skins, variants, etc) and you won't get textures with that model. You can export materials separately as well as images.
@@ -40,3 +41,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 1.00 (BETA) - Initial Release with support for models, materials, and textures.
 - 1.01 - Fixed model position bugs, material assignment, exports multi-layer images for dds, png, and tiff, export all material references.
 - 1.02 - Fixed export of a very small group of models that have hilarious data. All models should export correctly as of now.
+- 1.10 - Initial support for exporting animations, 65% are currently exportable.
