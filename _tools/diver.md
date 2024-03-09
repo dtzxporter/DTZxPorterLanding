@@ -19,7 +19,7 @@ Extracts all assets from the game "Helldivers 2". This software was developed by
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
 
-- Download (Windows x64): [Diver (v1.12)](https://mega.nz/file/QEI2GY6S#RP3oMUbbKSf3MGp-w8tiDMXFGW4mJ8ZOjb4fsjjNn_g).
+- Download (Windows x64): [Diver (v1.13)](https://mega.nz/file/8dpmFSIL#w3ztfOhj7x0zsxCdN9CoeQHmYFkilVf35XBVVw3WQxg).
   - Windows 10+ officially supported.
   - Requires a CPU with SSE4.2 support.
 
@@ -33,6 +33,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
   - Textures as [Dds, Png, Tiff]
   - Models as [Cast, SEModel, OBJ, XNALara, SMD, CoD XModel, Maya, Kaydara FBX].
   - Animations as [Cast, SEAnim].
+  - Sounds as [Wem, Bnk].
   - Raw Files as-is.
 
 > **NOTE:** This tool does it's best to export known materials with a model. In some cases, the models use dynamic shaders, and materials (for skins, variants, etc) and you won't get textures with that model. You can export materials separately as well as images.
@@ -46,3 +47,4 @@ There is a community effort to name assets for easier use. You can download or c
 - 1.02 - Fixed export of a very small group of models that have hilarious data. All models should export correctly as of now.
 - 1.10 - Initial support for exporting animations, 65% are currently exportable.
 - 1.12 - Support for more animation types. Add support for loading an asset name database `assets.pndb` if one exists next to the application.
+- 1.13 - Support for exporting sounds (as wem) and sound banks (as bnk).
