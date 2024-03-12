@@ -25,7 +25,16 @@ To export an asset you can:
 The cancel button will cancel the export job after the current asset exports.
 
 ## 🔍 Previewing an asset
-To preview an asset, you can press (P) to open the preview window. Select the asset you want to view in the list of assets to preview it.
+To preview an asset, you can press (P) to open the preview window. Select the asset you want to view in the list of assets to preview it. You can change the controls in settings.
+
+- Controls (Autodesk Maya):
+  - `Ctrl/Alt + Left Mouse` = Rotate.
+  - `Ctrl/Alt + Middle Mouse` = Pan.
+  - `Ctrl/Alt + Right Mouse` = Zoom.
+- Controls (Blender):
+  - `Middle Mouse` = Rotate.
+  - `Shift + Middle Mouse` = Pan.
+  - `Alt + Middle Mouse` = Zoom.
 
 ## 🚦 Asset status
 - Loaded - The asset is ready to be exported.
