@@ -19,7 +19,7 @@ Extracts all assets from the game "Helldivers 2". This software was developed by
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
 
-- Download (Windows x64): [Diver (v1.14)](https://mega.nz/file/MFg3HTKR#9ttf4Zn_2XVD_DghWJIffhW3ZuWxlHIS57Ozc9-DblE).
+- Download (Windows x64): [Diver (v1.15)](https://mega.nz/file/AEoFwSKQ#01EPi4T5pfhHE6EzGC6PcXCG2b8yb8NIVNkwKMLBMcE).
   - Windows 10+ officially supported.
   - Requires a CPU with SSE4.2 support.
 
@@ -49,3 +49,4 @@ There is a community effort to name assets for easier use. You can download or c
 - 1.12 - Support for more animation types. Add support for loading an asset name database `assets.pndb` if one exists next to the application.
 - 1.13 - Support for exporting sounds (as wem) and sound banks (as bnk).
 - 1.14 - Support for more animations. ~99% are exportable.
+- 1.15 - Added all in-use file type names and verified them.
