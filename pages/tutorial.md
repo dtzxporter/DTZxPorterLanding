@@ -39,7 +39,7 @@ To preview an asset, you can press (P) to open the preview window. Select the as
 ## 🚦 Asset status
 - Loaded - The asset is ready to be exported.
 - Placeholder - The asset is empty, a reference, or has nothing to export at this time.
-- Exporting - The asset is currently exporting in parellel.
+- Exporting - The asset is currently exporting in parallel.
 - Exported - The asset was exported successfully.
 - Error - An error occured while exporting this asset, you should report the name of it to me. (Make sure you didn't run out of disk space.)
 
