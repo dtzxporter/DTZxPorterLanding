@@ -19,7 +19,7 @@ Extracts all assets from the game "Helldivers 2". This software was developed by
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
 
-- Download (Windows x64): [Diver (v1.17)](https://mega.nz/file/9IZwEbhL#IJ0VgMjjfORglF68mP_9MnGMXsw7EY2NgbTM67RNO74).
+- Download (Windows x64): [Diver (v1.18)](https://mega.nz/file/pU43DKIS#zfjXL-E-TjL9RIW_HSMwbfcMBJUfHHMntQuRVpElKDc).
   - Windows 10+ officially supported.
   - Requires a CPU with SSE4.2 support.
 
@@ -52,3 +52,4 @@ There is a community effort to name assets for easier use. You can download or c
 - 1.15 - Added all in-use file type names and verified them.
 - 1.16 - Fixed models which have no lods (uncommon).
 - 1.17 - Relaxed placeholder model constraints so that base skeletons can be exported.
+- 1.18 - Enabled normal map conversion toggle in settings.
