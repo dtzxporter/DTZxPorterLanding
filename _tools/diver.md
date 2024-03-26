@@ -5,7 +5,7 @@ feature-img: assets/maya.png
 img: assets/tools/diver.png
 description: "The Helldivers 2 Asset Extractor"
 order: 1
-date: 2024-03-20
+date: 2024-03-26
 ---
 
 # Diver - The Helldivers 2 Asset Extractor
