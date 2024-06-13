@@ -5,7 +5,7 @@ feature-img: assets/maya.png
 img: assets/tools/vega.png
 description: "The Doom Eternal Asset Extractor"
 order: 2
-date: 2024-03-29
+date: 2024-06-13
 ---
 
 # Vega - The Doom Eternal Asset Extractor
@@ -19,12 +19,12 @@ Extracts all assets from the game "Doom Eternal". This software was developed by
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
 
-- Download (Windows x64): [Vega (v2.26)](https://mega.nz/file/pERAAbqJ#BbfXRKDA93stCpRicXhRmlwj4SLeDIHRpRSwtcyoTvE).
+- Download (Windows x64): [Vega (v2.27)](https://mega.nz/file/8dhBDSwC#xtNcBF56zrxccnUA67iUNV_KkUNdr3pq8yidudaV7QI).
   - Windows 10+ officially supported.
   - Requires a CPU with SSE4.2 support.
-- Download (Linux x64): [Vega (v2.26)](https://mega.nz/file/NZhEzaJL#4dh0pBVC0ZO8Pz5vwesUrOIFjbT_GdA1LUvVvhEWCic).
+- Download (Linux x64): [Vega (v2.27)](https://mega.nz/file/dY4RXaxT#r4F9lGfgKsZM5X4Ok940K0JS6Xb8K-zmsQzkai0135w).
   - Requires a CPU with SSE4.2 support.
-- Download (macOS ARM): [Vega (v2.26)](https://mega.nz/file/hB5RxRSL#fRUT2xY8zSY0rrlY1Xy45HPDqZG2LhFqGB7naSzFtA4).
+- Download (macOS ARM): [Vega (v2.27)](https://mega.nz/file/YJwgSSRa#Ay9yzFz8YQDSds15YYh6j1IA5QoqRuJ60cnSOEyP9c4).
 
 ## ⚙️ Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
@@ -67,3 +67,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 2.24 - Add support for initial instanced world entities. Export inherited material textures.
 - 2.25 - Update program library for ui tweaks, fixes, and performance. Fix some assets stuck exporting.
 - 2.26 - Update program library for ui tweaks and improvements.
+- 2.27 - Update program library for ui fixes, fixed FBX export compatibility.
