@@ -19,7 +19,7 @@ Extracts all assets from the game "Helldivers 2". This software was developed by
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
 
-- Download (Windows x64): [Diver (v1.24)](https://mega.nz/file/sAQlhA7S#lcfhLz0IDCvUcv0rW1y8Saa22CFGpGLRH88jwPGniqs).
+- Download (Windows x64): [Diver (v1.25)](https://mega.nz/file/gAg1US5C#yo45N12ax3WqSO91bkK2iDEf07mNsN3yafYX9GnxLZo).
   - Windows 10+ officially supported.
   - Requires a CPU with SSE4.2 support.
 
@@ -59,3 +59,4 @@ There is a community effort to name assets for easier use. You can download or c
 - 1.22 - Added support for remainder of animation sets.
 - 1.23 - Update program library for ui fixes, fixed FBX export compatibility.
 - 1.24 - Fix animation exporting due to a bug with keyframes.
+- 1.25 - Fixed console window by accident.
