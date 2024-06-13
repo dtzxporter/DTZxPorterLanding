@@ -5,7 +5,7 @@ feature-img: assets/maya.png
 img: assets/tools/diver.png
 description: "The Helldivers 2 Asset Extractor"
 order: 1
-date: 2024-04-14
+date: 2024-06-13
 ---
 
 # Diver - The Helldivers 2 Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the game "Helldivers 2". This software was developed by
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
 
-- Download (Windows x64): [Diver (v1.22)](https://mega.nz/file/oF432bbC#vuVP4QluCdaxXxbTFBkl3tN4LgQzbiMTseTzLmChPck).
+- Download (Windows x64): [Diver (v1.23)](https://mega.nz/file/NB4FSRyL#ojjppsZKwvoRP2cxOy2m1L8OZsLQdOtYfXHTV1twjJE).
   - Windows 10+ officially supported.
   - Requires a CPU with SSE4.2 support.
 
@@ -57,3 +57,4 @@ There is a community effort to name assets for easier use. You can download or c
 - 1.20 - Update program library for ui tweaks and improvements.
 - 1.21 - Fixed an issue with a specific weapon not exporting.
 - 1.22 - Added support for remainder of animation sets.
+- 1.23 - Update program library for ui fixes, fixed FBX export compatibility.
