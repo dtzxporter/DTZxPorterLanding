@@ -21,7 +21,6 @@ Extracts all assets from the games "The Division 2", "Avatar Frontiers of Pandor
 
 - Download (Windows x64): [Hunter (v1.82)](https://mega.nz/file/YYYB3bYJ#-1GvMyCZP8243gUl5b60kuWTDTvutsJ18mtzGXZv578).
   - Windows 10+ officially supported.
-  - Requires a CPU with SSE4.2 support.
 
 ## ⚙️ Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).

@@ -21,7 +21,6 @@ Extracts all assets from the game "Helldivers 2". This software was developed by
 
 - Download (Windows x64): [Diver (v1.25)](https://mega.nz/file/gAg1US5C#yo45N12ax3WqSO91bkK2iDEf07mNsN3yafYX9GnxLZo).
   - Windows 10+ officially supported.
-  - Requires a CPU with SSE4.2 support.
 
 ## ⚙️ Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
