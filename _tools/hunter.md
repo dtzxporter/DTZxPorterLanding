@@ -25,7 +25,7 @@ Extracts all assets from the games "The Division 2", "Avatar Frontiers of Pandor
 ## ⚙️ Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
 
-> **IMPORTANT:** Both the tool and the game **require** the entirety of the rogue folder to be intact and must not be modified in any way.
+> **IMPORTANT:** Both the tool and the game **require** the entirety of the rogue/hunter folder to be intact and must not be modified in any way.
 
 ## Ripping:
 - The **.sdftoc** files contain various encoded assets that Hunter can export; and, as of now the currently supported assets are:
@@ -36,13 +36,15 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 
 > **NOTE:** This tool only exports assets as-is, without attempting to link models to their materials, and materials to their images. The game uses complex scene graphs which would require too much effort to automate, however, most of a model's textures have similar names to each other. It's very easy to locate the textures for a model yourself.
 
+> **NOTE:** There is no need to open the `sdf_streaming` toc file, as it only references assets in the main toc file.
+
 ## 📌 Versioning:
 - 1.00 - Initial Release.
 - 1.50 - New GUI. More model format support v9-17 and uv fixes. New image format support. Avatar Frontiers of Pandora game support.
 - 1.51 - Fixed sRGB detection for some image formats. Support R8G8B8.
 - 1.52 - Fix weights for some models with a lot of bones.
 - 1.53 - Loading and export performance improvements. Placeholder detection for locales.
-- 1.54 - Even faster loading performance. Fix crash on `stf_streaming` toc files from TD2. Specify avatar in load dialog.
+- 1.54 - Even faster loading performance. Fix crash on `sdf_streaming` toc files from TD2. Specify avatar in load dialog.
 - 1.55 - Fix issue with some rawfiles not exporting in TD2/Avatar (they were encrypted). Label reference models as placeholder.
 - 1.56 - Support BC5 and more sRGB/SNORM formats for images.
 - 1.57 - Fixed weights for some complex models.
