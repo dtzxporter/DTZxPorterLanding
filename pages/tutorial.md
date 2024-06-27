@@ -67,7 +67,6 @@ You can customize the export directory using the "Browse" button.
 - Valve SMD - Export models in smd format. [SDK](https://developer.valvesoftware.com/wiki/Maya#Source_SDK_plug-ins)
 - XNALara - Export models in xnalara format. [Blender](https://github.com/johnzero7/XNALaraMesh)
 - CoD XModel - Export models in xmodel_export format.
-- SEModel - Export models in semodel format. [Maya](https://github.com/dtzxporter/SETools) / [Blender](https://github.com/dtzxporter/io_model_semodel)
 - Autodesk Maya - Export models in ma format. [Maya](https://www.autodesk.com/products/maya)
 - FBX - Export models in fbx format.
 
@@ -99,7 +98,6 @@ Normal map conversion aids in reconstructing normal maps from the game.
 
 ### Settings - Animations
 - Cast - Export animations in cast format. [Plugins](https://github.com/dtzxporter/cast)
-- SEAnim - Export animations in seanim format. [Maya](https://github.com/dtzxporter/SETools) / [Blender](https://github.com/SE2Dev/io_anim_seanim)
 
 ### Settings - Audio
 - Wav 16bit pcm - Export audio in wav format.

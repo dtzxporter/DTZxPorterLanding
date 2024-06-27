@@ -30,8 +30,8 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 ## Ripping:
 - The **.sdftoc** files contain various encoded assets that Hunter can export; and, as of now the currently supported assets are:
   - Textures as [Dds, Png, Tiff]
-  - Models as [Cast, SEModel, OBJ, XNALara, SMD, CoD XModel, Maya, Kaydara FBX].
-  - Animations as [Cast, SEAnim].
+  - Models as [Cast, OBJ, XNALara, SMD, CoD XModel, Maya, FBX].
+  - Animations as [Cast].
   - Raw Files as-is.
 
 > **NOTE:** This tool only exports assets as-is, without attempting to link models to their materials, and materials to their images. The game uses complex scene graphs which would require too much effort to automate, however, most of a model's textures have similar names to each other. It's very easy to locate the textures for a model yourself.

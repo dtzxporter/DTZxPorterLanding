@@ -34,7 +34,7 @@ Using Legion is fairly simple as the tool only requires the files located within
 ## Ripping:
 - The **.rpak** files contain various encoded assets that Legion can export; and, as of now the currently supported assets are:
   - Textures as [Dds, Png, Tiff]
-  - Models as [SEModel, OBJ, XNALara, SMD, CoD XModel, Maya (Legacy), Kaydara FBX, Cast].
+  - Models as [SEModel, OBJ, XNALara, SMD, CoD XModel, Maya (Legacy), FBX, Cast].
   - Animations as [SEAnim, Cast].
 - The **.mbnk** file contains all the audio for the game:
   - Sounds as [Wav].

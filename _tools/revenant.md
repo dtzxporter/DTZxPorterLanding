@@ -30,8 +30,8 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 ## Ripping:
 - The **.index** files contain various encoded assets that Revenant can export; and, as of now the currently supported assets are:
   - Textures as [Dds, Png, Tiff]
-  - Models as [Cast, SEModel, OBJ, XNALara, SMD, CoD XModel, Maya, Kaydara FBX].
-  - Animations as [Cast, SEAnim].
+  - Models as [Cast, OBJ, XNALara, SMD, CoD XModel, Maya, FBX].
+  - Animations as [Cast].
   - Raw Files as-is.
 
 > **NOTICE:** Patches are automatically loaded for you.
