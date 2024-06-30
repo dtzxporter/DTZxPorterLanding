@@ -30,7 +30,7 @@ Using SECast is simple. Just drag and drop a SEAnim or SEModel or a folder to th
 - You can also specify `--skip-pause` to prevent the pause at the end.
 
 ## 🎥 For the technologically impaired:
-<img src="{{ 'assets/tools/secast-video.gif' | relative_url }}">
+<img style="padding: 0" src="/assets/tools/secast-video.gif">
 
 ## 📌 Versioning:
 - 1.00 - Initial Release.
