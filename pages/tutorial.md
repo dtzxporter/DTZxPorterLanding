@@ -36,6 +36,11 @@ To preview an asset, you can press (P) to open the preview window. Select the as
   - `Shift + Middle Mouse` = Pan.
   - `Alt + Middle Mouse` = Zoom.
 
+## 📋 Handy shortcuts
+- `Ctrl + C` Copy the names of all selected assets to the clipboard.
+- `Ctrl + V` Focuses the search box and pastes clipboard content into it.
+- `Ctrl + A` Focuses the search box and selects all of it's content.
+
 ## 🚦 Asset status
 - Loaded - The asset is ready to be exported.
 - Placeholder - The asset is empty, a reference, or has nothing to export at this time.
