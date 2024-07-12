@@ -5,7 +5,7 @@ feature-img: assets/maya.png
 img: assets/tools/hunter.png
 description: "The TD2, AFOP, XDefiant Asset Extractor"
 order: 0
-date: 2024-07-10
+date: 2024-07-12
 ---
 
 # Hunter - The TD2, AFOP, XDefiant Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the games "The Division 2", "Avatar Frontiers of Pandor
 
 > **IMPORTANT:** This software comes with no warranty what so ever.
 
-- Download (Windows x64): [Hunter (v1.88)](https://mega.nz/file/hcAUzDzB#snRshJjvmD5eoI7jtA6ff-rMq97gUH86edmlM-Mupk4).
+- Download (Windows x64): [Hunter (v1.89)](https://mega.nz/file/hVwymJwK#d6DwTjnvaxWB5tgWp830jTdAjIZyDyFD0AkPI-hwKFk).
   - Windows 10+ officially supported.
 
 ## ⚙️ Usage:
@@ -76,3 +76,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 1.86 - Support for animations that animate multiple models at once, like weapon animations, etc.
 - 1.87 - Support for decompiling binary graphs used in several game files to their 'light' text format.
 - 1.88 - Update program library for ui fixes and improvements.
+- 1.89 - Update program library for enhanced search capabilities.
