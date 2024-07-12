@@ -36,7 +36,43 @@ To preview an asset, you can press (P) to open the preview window. Select the as
   - `Shift + Middle Mouse` = Pan.
   - `Alt + Middle Mouse` = Zoom.
 
-## 📋 Handy shortcuts
+## 🕵️ Searching for assets
+You can search for assets using text, or specially formatted text commands to narrow down your search. Each command must be separated by a comma `,` and up to 5 commands can be searched for at once. By default, a property command value is assumed to be equal, but you can use the operators `>`, `<`, `>=`, `<=` to change that.
+
+- Search asset properties:
+  - `bonecount` Searches the bonecount property, usually for models.
+    - Defaults to 0 for non-supported assets.
+    - Supports `>`, `<`, and equals.
+  - `meshcount` Searches the meshcount property, usually for models.
+    - Defaults to 0 for non-supported assets.
+    - Supports `>`, `<`, and equals.
+  - `framecount` Searches the framecount property, usually for animations.
+    - Defaults to 0 for non-supported assets.
+    - Supports `>`, `<`, and equals.
+  - `framerate` Searches the framerate property, usually for animations.
+    - Defaults to 0 for non-supported assets.
+    - Supports `>`, `<`, and equals.
+  - `width` Searches the width property, usually for images.
+    - Defaults to 0 for non-supported assets.
+    - Supports `>`, `<`, and equals.
+  - `height` Searches the height property, usually for images.
+    - Defaults to 0 for non-supported assets.
+    - Supports `>`, `<`, and equals.
+- Search asset names:
+  - By default, search will check if the name contains the given text.
+  - If you prefix your text with `!`, it will check if the name does not contain the given text.
+
+### Examples
+Search for an asset with the name `normal` that is at least 2048x2048:
+```
+width:>=2048,height:>=2048,normal
+```
+Search for an asset with exactly 100 bones, and doesn't have `fire` in the name:
+```
+bonecount:100,!fire
+```
+
+## 📋 Handy asset shortcuts
 - `Ctrl + C` Copy the names of all selected assets to the clipboard.
 - `Ctrl + V` Focuses the search box and pastes clipboard content into it.
 - `Ctrl + A` Focuses the search box and selects all of it's content.
