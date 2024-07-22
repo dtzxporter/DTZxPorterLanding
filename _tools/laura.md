@@ -19,7 +19,7 @@ Extracts all assets from the games "Evil Within" and "Evil Within 2". This softw
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
 
-- Download (Windows x64): [Laura (v3.00)](https://mega.nz/file/BJBQURRA#-tF2Qib8Xs0jLikHRojsFAszqBgfZAr6ZBwlRt-2eTc).
+- Download (Windows x64): [Laura (v3.01)](https://mega.nz/file/pZxAQCyT#wdIPPeWz8rJkzScWKUZ-Q5tkS7nQkwU4InaaReXA2l4).
   - Windows 10+ officially supported.
   - Currently supports EW2.
 - Download _Legacy "Wraith"_ (Windows x64): [Laura (v2.20)](https://mega.nz/file/hIxwzZxA#Ve882CmnVk5vWXWka7wHSD2My5ZktHaKPliaMPGYYlg).
@@ -43,3 +43,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 1.00 - Initial Release for Evil Within 1 with support for models and mega textures.
 - 2.20 - Support for Evil Within 2 models and mega textures.
 - 3.00 - Completely rewritten, huge tool improvement. Fixes across the board for models, images, support for animations and various other assets.
+- 3.01 - Squashed bugs with animations, 99% are now exportable. Support delta keyframes.
