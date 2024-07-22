@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hunter
-feature-img: assets/maya.png
+feature-img: assets/maya.jpg
 img: assets/tools/hunter.png
 description: "The TD2, AFOP, XDefiant Asset Extractor"
 order: 0

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MCast
-feature-img: assets/maya.png
+feature-img: assets/maya.jpg
 img: assets/tools/mcast.png
 description: "Lossless MPRT to Cast converter"
 order: 8

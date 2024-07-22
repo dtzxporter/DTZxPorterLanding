@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SECast
-feature-img: assets/maya.png
+feature-img: assets/maya.jpg
 img: assets/tools/secast.png
 description: "Lossless SEAnim & SEModel to Cast converter"
 order: 7

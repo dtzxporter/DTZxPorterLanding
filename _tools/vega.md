@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vega
-feature-img: assets/maya.png
+feature-img: assets/maya.jpg
 img: assets/tools/vega.png
 description: "The Doom Eternal Asset Extractor"
 order: 2
