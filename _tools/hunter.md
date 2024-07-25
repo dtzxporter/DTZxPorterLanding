@@ -22,12 +22,12 @@ Extracts all assets from the games "The Division 2", "Avatar Frontiers of Pandor
 - Download (Windows x64): [Hunter (v1.90)](https://mega.nz/file/oFh0yLhJ#yrOx1Zaoy4FRHB4AgYo1a9eO2lOpedBEYxbg-JHsPzs).
   - Windows 10+ officially supported.
 
-## ⚙️ Usage:
+## ℹ️ Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
 
 > **IMPORTANT:** Both the tool and the game **require** the entirety of the rogue/hunter folder to be intact and must not be modified in any way.
 
-## Ripping:
+## ⚙️ Ripping:
 - The **.sdftoc** files contain various encoded assets that Hunter can export; and, as of now the currently supported assets are:
   - Textures as [Dds, Png, Tiff]
   - Models as [Cast, OBJ, XNALara, SMD, CoD XModel, Maya, FBX].

@@ -24,12 +24,12 @@ Extracts all assets from the game "Doom Eternal". This software was developed by
 - Download (Linux x64): [Vega (v2.32)](https://mega.nz/file/tIJQGISa#DTlj-CwJ9qGX027kwXx738EsDvKMrJ7K4Gidyw-0Bn8).
 - Download (macOS ARM): [Vega (v2.32)](https://mega.nz/file/kMBADILY#y1BHQMbx_gsWbK3sMfL7fHyhbviwYqSeqUNhRnWroqo).
 
-## ⚙️ Usage:
+## ℹ️ Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
 
 > **IMPORTANT:** Both the tool and the game **require** the entirety of the base folder to be intact and must not be modified in any way.
 
-## Ripping:
+## ⚙️ Ripping:
 - The **.resource** files contain various encoded assets that Vega can export; and, as of now the currently supported assets are:
   - Textures as [Dds, Png, Tiff]
   - Models as [Cast, OBJ, XNALara, SMD, CoD XModel, Maya, FBX].

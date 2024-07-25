@@ -24,14 +24,14 @@ Extracts various assets from the game "Apex Legends". This software is developed
 - Open source (Legion development discontinued): [Github](https://github.com/dtzxporter/Legion)
 - Requires Visual Studio 2022 x64 Redist: [Redist](https://aka.ms/vs/17/release/VC_redist.x64.exe).
 
-## ⚙️ Usage:
+## ℹ️ Usage:
 Using Legion is fairly simple as the tool only requires the files located within "Apex\paks\Win64" in order to function.
 
 - The tool features a user interface, just open up an MBnk or RPak to extract assets using `Load File`.
 
 > **IMPORTANT:** Both the tool and the game **require** the entirety of the Win64 folder to be intact and must not be modified in any way.
 
-## Ripping:
+## ⚙️ Ripping:
 - The **.rpak** files contain various encoded assets that Legion can export; and, as of now the currently supported assets are:
   - Textures as [Dds, Png, Tiff]
   - Models as [SEModel, OBJ, XNALara, SMD, CoD XModel, Maya (Legacy), FBX, Cast].
@@ -41,14 +41,14 @@ Using Legion is fairly simple as the tool only requires the files located within
 - The **.bsp** files (located inside *.vpk files) contain the map geometry:
   - See `Maps` below:
 
-## Maps:
+## 🗺️ Maps:
 Map ripping is supported but not support will be provided, YMMV.
   - Geometry as [all model formats, see above ^]
   - See [Mprt importer (Blender)](https://github.com/llennoco22/Apex-mprt-importer-for-Blender) plugin for blender (Models / static props).
   - See <a href="{{ '/wiki/apps/Blender-Perf-Patch.html' | relative_url }}">Blender Performance Patch</a> to improve blender import performance.
   - You must load the map's base *.rpak file first.
 
-## Command line:
+## 💻 Command line:
 - Legion supports a single command line automation flag:
   - `--export` "file path" Loads and exports assets based on Legion settings.
   
