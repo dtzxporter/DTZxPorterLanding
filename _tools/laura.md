@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 img: assets/tools/laura.png
 description: "The Evil Within Asset Extractor"
 order: 4
-date: 2024-07-21
+date: 2024-07-25
 ---
 
 # Laura - The Evil Within Asset Extractor
@@ -19,11 +19,8 @@ Extracts all assets from the games "Evil Within" and "Evil Within 2". This softw
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
 
-- Download (Windows x64): [Laura (v3.01)](https://mega.nz/file/pZxAQCyT#wdIPPeWz8rJkzScWKUZ-Q5tkS7nQkwU4InaaReXA2l4).
+- Download (Windows x64): [Laura (v3.02)](https://mega.nz/file/NUpGyIKC#wmwKya7bntwXtdJCRt82bAqL0LSGAUIxSJ2cwQBMArQ).
   - Windows 10+ officially supported.
-  - Currently supports EW2.
-- Download _Legacy "Wraith"_ (Windows x64): [Laura (v2.20)](https://mega.nz/file/hIxwzZxA#Ve882CmnVk5vWXWka7wHSD2My5ZktHaKPliaMPGYYlg).
-  - Supports EW1, EW2: models, images.
 
 ## ⚙️ Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
@@ -31,10 +28,13 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **IMPORTANT:** Both the tool and the game **require** the entirety of the base folder to be intact and must not be modified in any way.
 
 ## Ripping:
-- The **.ptr** files contain various encoded assets that Laura can export; and, as of now the currently supported assets are:
+- The **.tangoresource**/**.ptr** files contain various encoded assets that Laura can export; and, as of now the currently supported assets are:
   - Textures as [Dds, Png, Tiff]
   - Models as [Cast, OBJ, XNALara, SMD, CoD XModel, Maya, FBX].
   - Animations as [Cast].
+  - Sounds as [Wav, Wem, Bnk].
+    - `Wav` for EW1 sounds.
+    - `Wem/Bnk` for EW2 sounds.
   - Raw Files as-is.
 
 > **NOTICE:** Patches are automatically loaded for you.
@@ -44,3 +44,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 2.20 - Support for Evil Within 2 models and mega textures.
 - 3.00 - Completely rewritten, huge tool improvement. Fixes across the board for models, images, support for animations and various other assets.
 - 3.01 - Squashed bugs with animations, 99% are now exportable. Support delta keyframes.
+- 3.02 - Full support for Evil Within 1. Animation fixes and improvements.
