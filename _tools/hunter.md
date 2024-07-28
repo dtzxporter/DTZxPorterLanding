@@ -22,7 +22,7 @@ Extracts all assets from the games "The Division 2", "Avatar Frontiers of Pandor
 - Download (Windows x64): [Hunter (v1.91)](https://mega.nz/file/II5SxLxL#kOOCbzKRRHfPXvOlVIQDqCOinUHPyaGQbUkLKZh_008).
   - Windows 10+ officially supported.
 
-## ℹ️ Usage:
+## 👉 Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
 
 > **IMPORTANT:** Both the tool and the game **require** the entirety of the rogue/hunter folder to be intact and must not be modified in any way.

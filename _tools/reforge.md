@@ -22,7 +22,7 @@ _Download and version info:_
 
 > **NOTICE:** The tool is no longer being worked on, should an update break this tool, it will not be fixed.
 
-## ℹ️ Usage:
+## 👉 Usage:
 Drag & drop a *.forge file from the game ONTO the exe itself.
 
 ## 📌 Versioning:

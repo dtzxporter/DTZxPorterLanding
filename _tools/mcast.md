@@ -21,7 +21,7 @@ Converts *.mprt to *.cast without losing any information.
 
 - Download (Windows x64): [MCast (v1.00)](https://mega.nz/file/YIA1TSha#gWdOaFWCFiyWi3zxHHzW6No6r4iAX2YRCI9XmhDhd84).
 
-## ℹ️ Usage:
+## 👉 Usage:
 Using MCast is simple. Just drag and drop a MPRT file on to the application and it will convert in-place.
 
 - The tool features a command line interface.

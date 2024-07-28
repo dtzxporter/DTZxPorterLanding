@@ -24,7 +24,7 @@ Extracts various assets from the game "Apex Legends". This software is developed
 - Open source (Legion development discontinued): [Github](https://github.com/dtzxporter/Legion)
 - Requires Visual Studio 2022 x64 Redist: [Redist](https://aka.ms/vs/17/release/VC_redist.x64.exe).
 
-## ℹ️ Usage:
+## 👉 Usage:
 Using Legion is fairly simple as the tool only requires the files located within "Apex\paks\Win64" in order to function.
 
 - The tool features a user interface, just open up an MBnk or RPak to extract assets using `Load File`.

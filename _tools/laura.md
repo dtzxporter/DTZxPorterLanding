@@ -22,7 +22,7 @@ Extracts all assets from the games "Evil Within" and "Evil Within 2". This softw
 - Download (Windows x64): [Laura (v3.02)](https://mega.nz/file/NUpGyIKC#wmwKya7bntwXtdJCRt82bAqL0LSGAUIxSJ2cwQBMArQ).
   - Windows 10+ officially supported.
 
-## ℹ️ Usage:
+## 👉 Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
 
 > **IMPORTANT:** Both the tool and the game **require** the entirety of the base folder to be intact and must not be modified in any way.
