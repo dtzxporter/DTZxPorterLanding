@@ -141,9 +141,10 @@ Normal map conversion aids in reconstructing normal maps from the game.
 - Cast - Export animations in cast format. [Plugins](https://github.com/dtzxporter/cast)
 
 ### Settings - Audio
-- Wav 16bit pcm - Export audio in wav format.
-- Wav 32bit float - Export audio in wav format, float takes up more space but will be lossless if the game uses higher quality audio.
-- Flac - Export audio in flac format, lossless and will take up less space than the wavs.
+- Wav - Export audio in wav format.
+  - Lossless but takes up more space than flacs.
+- Flac - Export audio in flac format.
+  - Lossless and will take up less space than the wavs.
 
 ### Settings - Advanced
 - Treat all assets as raw files (Not Recommended).
