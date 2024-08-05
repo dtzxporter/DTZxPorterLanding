@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 img: assets/tools/laura.png
 description: "The Evil Within Asset Extractor"
 order: 4
-date: 2024-07-29
+date: 2024-08-05
 ---
 
 # Laura - The Evil Within Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the games "Evil Within" and "Evil Within 2". This softw
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
 
-- Download (Windows x64): [Laura (v3.03)](https://mega.nz/file/kdBAWAwL#Vn_jNijSNrvW3hESS2FMigB0Qdv0jmEE4QTtMbYa3_o).
+- Download (Windows x64): [Laura (v3.04)](https://mega.nz/file/sYw1TTgL#B185-Ehz1hks_jU9wG16XFlBpues_2WsUxxxY1gA4gY).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -32,8 +32,8 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
   - Textures as [Dds, Png, Tiff]
   - Models as [Cast, OBJ, XNALara, SMD, CoD XModel, Maya, FBX].
   - Animations as [Cast].
-  - Sounds as [Wav, Wem, Bnk].
-    - `Wav` for EW1 sounds.
+  - Sounds as [Wav, Flac, Wem, Bnk].
+    - `Wav/Flac` for EW1 sounds.
     - `Wem/Bnk` for EW2 sounds.
   - Raw Files as-is.
 
@@ -46,3 +46,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 3.01 - Squashed bugs with animations, 99% are now exportable. Support delta keyframes.
 - 3.02 - Full support for Evil Within 1. Animation fixes and improvements.
 - 3.03 - Support for spline compressed animations, animation bug fixes.
+- 3.04 - More animation fixes. Support for exporting converted wav/flac audio files from EW1.
