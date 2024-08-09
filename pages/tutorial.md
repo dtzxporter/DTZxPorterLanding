@@ -121,10 +121,15 @@ You can customize the export directory using the "Browse" button.
 - Image file type `PNG`:
   - Lossless converted from in-game formats.
   - Supports both sRGB and linear textures.
+  - This is a recommended format.
 - Image file type `TIFF`:
   - Lossless converted from in-game formats.
   - Supports both sRGB and linear textures.
-  - May be slightly larger than some of the png files.
+  - This is a recommended format.
+- Image file type `TGA`:
+  - Sometimes lossless converted from in-game formats.
+  - Doesn't support any particular color space.
+  - Will be significantly larger than any other format.
 
 Normal map conversion aids in reconstructing normal maps from the game.
 
