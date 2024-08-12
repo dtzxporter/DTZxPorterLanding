@@ -31,7 +31,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 
 ## ⚙️ Ripping:
 - The **.resource** files contain various encoded assets that Vega can export; and, as of now the currently supported assets are:
-  - Textures as [Dds, Png, Tiff]
+  - Textures as [Dds, Png, Tiff, Tga]
   - Models as [Cast, OBJ, XNALara, SMD, CoD XModel, Maya, FBX].
   - Animations as [Cast].
   - Worlds as [Cast].
