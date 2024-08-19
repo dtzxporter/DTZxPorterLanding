@@ -17,7 +17,7 @@ Extracts all assets from the games "The Division 2", "Avatar Frontiers of Pandor
 
 ## 💾 Download and version info:
 
-> **IMPORTANT:** This software comes with no warranty what so ever.
+> **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
 - Download (Windows x64): [Hunter (v1.93)](https://mega.nz/file/RRwGUZhb#kulOdfHUqD-IwdQqd9KDmFqDjqtcEl2N8iKlgwJRDOM).
   - Windows 10+ officially supported.

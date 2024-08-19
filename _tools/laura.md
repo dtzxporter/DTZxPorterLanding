@@ -17,7 +17,7 @@ Extracts all assets from the games "Evil Within" and "Evil Within 2". This softw
 
 ## 💾 Download and version info:
 
-> **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
+> **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
 - Download (Windows x64): [Laura (v3.05)](https://mega.nz/file/VFwnHRzb#ThL_jSblTMwPuQ4xZw7pkC_0O0CWi0RzGhMkDF2shX8).
   - Windows 10+ officially supported.

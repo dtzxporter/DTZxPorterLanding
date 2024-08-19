@@ -17,7 +17,7 @@ Extracts all assets from the game "Doom 2016". This software was developed by [D
 
 ## 💾 Download and version info:
 
-> **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
+> **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
 - Download (Windows x64): [Revenant (v2.14)](https://mega.nz/file/RBp0xLhQ#Go4_7yjp8jrfFEj7f1iGxb8rE8TrsmxeWWZBSMlbk-I).
   - Windows 10+ officially supported.

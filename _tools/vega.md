@@ -17,7 +17,7 @@ Extracts all assets from the game "Doom Eternal". This software was developed by
 
 ## 💾 Download and version info:
 
-> **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
+> **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
 - Download (Windows x64): [Vega (v2.34)](https://mega.nz/file/UNZTjQBQ#_QMWxdRhEocj9UaUkbB5Kg6Im6TpsPj-N4Jz2LYVtI0).
   - Windows 10+ officially supported.
