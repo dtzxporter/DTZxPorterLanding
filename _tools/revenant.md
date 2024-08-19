@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 img: assets/tools/revenant.png
 description: "The Doom 2016 Asset Extractor"
 order: 3
-date: 2024-08-09
+date: 2024-08-19
 ---
 
 # Revenant - The Doom 2016 Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the game "Doom 2016". This software was developed by [D
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
 
-- Download (Windows x64): [Revenant (v2.13)](https://mega.nz/file/UF4BCLYI#ajT_ywG0IIuXMs9Z7C7bpf9G5OUrvy95w3ohWjB47KE).
+- Download (Windows x64): [Revenant (v2.14)](https://mega.nz/file/RBp0xLhQ#Go4_7yjp8jrfFEj7f1iGxb8rE8TrsmxeWWZBSMlbk-I).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -52,3 +52,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 2.11 - Update program library for enhanced search capabilities.
 - 2.12 - Don't export unused bones. New program icon.
 - 2.13 - Update program library for TGA export.
+- 2.14 - Update program library for bug fixes, ui improvements, and vertex color support.
