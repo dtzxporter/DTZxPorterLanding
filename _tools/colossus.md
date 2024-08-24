@@ -36,4 +36,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 
 ## 📌 Versioning:
 - 1.00 - Initial Release for WNC with support for models and textures.
-- 2.00 - Completely rewritten, huge tool improvement. Fixes across the board for models, images, support for animations and various other assets. Initial support for Young Blood.
+- 2.00 - Completely rewritten, huge tool improvement. Fixes across the board for models, images, support for animations and various other assets. Initial support for WYB.
