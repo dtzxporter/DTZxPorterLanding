@@ -3,13 +3,13 @@ layout: post
 title: Hunter
 feature-img: assets/maya.jpg
 img: assets/tools/hunter.png
-description: "The TD2, AFOP, XDefiant Asset Extractor"
+description: "The TD2, AFOP, XDEF, SWOL Asset Extractor"
 order: 0
-date: 2024-08-19
+date: 2024-08-27
 ---
 
-# Hunter - The TD2, AFOP, XDefiant Asset Extractor
-Extracts all assets from the games "The Division 2", "Avatar Frontiers of Pandora" and "XDefiant". This software was developed by [DTZxPorter](https://twitter.com/dtzxporter).
+# Hunter - The TD2, AFOP, XDEF, SWOL Asset Extractor
+Extracts all assets from the games "The Division 2", "Avatar Frontiers of Pandora", "XDefiant", and "Star Wars Outlaws". This software was developed by [DTZxPorter](https://twitter.com/dtzxporter).
 
 ## ❤️ Donate:
 - I take time out of my day to make this happen.
@@ -19,7 +19,7 @@ Extracts all assets from the games "The Division 2", "Avatar Frontiers of Pandor
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Hunter (v1.93)](https://mega.nz/file/RRwGUZhb#kulOdfHUqD-IwdQqd9KDmFqDjqtcEl2N8iKlgwJRDOM).
+- Download (Windows x64): [Hunter (v1.94)](https://mega.nz/file/sV4UQQDT#BoAkApufW5UyrqWw21ITsYaAPFs7OsSIVsObggo3l2I).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -81,3 +81,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 1.91 - Automatically set the mesh skin mode to dual quaternion for cast exports, (you need to manually do this with other formats).
 - 1.92 - Update program library for TGA export.
 - 1.93 - Update program library for bug fixes, ui improvements, and multiple color layer support.
+- 1.94 - Initial support for Star Wars Outlaws, including new model, animation, and image formats.
