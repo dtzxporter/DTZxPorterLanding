@@ -82,4 +82,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 1.92 - Update program library for TGA export.
 - 1.93 - Update program library for bug fixes, ui improvements, and multiple color layer support.
 - 1.94 - Initial support for Star Wars Outlaws, including new model, animation, and image formats. Fixed issue with vertex colors introduced in the last update.
-- 1.95 - Fixes for some models in general across AFOP/SWOL. Update program library for fixed FBX exporter.
+- 1.95 - Fixes for some models bugs with compressed weights. Update program library for fixed FBX exporter.
