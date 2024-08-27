@@ -81,4 +81,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 1.91 - Automatically set the mesh skin mode to dual quaternion for cast exports, (you need to manually do this with other formats).
 - 1.92 - Update program library for TGA export.
 - 1.93 - Update program library for bug fixes, ui improvements, and multiple color layer support.
-- 1.94 - Initial support for Star Wars Outlaws, including new model, animation, and image formats.
+- 1.94 - Initial support for Star Wars Outlaws, including new model, animation, and image formats. Fixed issue with vertex colors introduced in the last update.
