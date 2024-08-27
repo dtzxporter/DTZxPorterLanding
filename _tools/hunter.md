@@ -19,7 +19,7 @@ Extracts all assets from the games "The Division 2", "Avatar Frontiers of Pandor
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Hunter (v1.94)](https://mega.nz/file/sV4UQQDT#BoAkApufW5UyrqWw21ITsYaAPFs7OsSIVsObggo3l2I).
+- Download (Windows x64): [Hunter (v1.95)](https://mega.nz/file/BIJzGbbJ#TpMXUNFNxafEGSLG2oYaQ04l2se35yDutEER5JjPhtA).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -82,3 +82,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 1.92 - Update program library for TGA export.
 - 1.93 - Update program library for bug fixes, ui improvements, and multiple color layer support.
 - 1.94 - Initial support for Star Wars Outlaws, including new model, animation, and image formats. Fixed issue with vertex colors introduced in the last update.
+- 1.95 - Fixes for some models in general across AFOP/SWOL. Update program library for fixed FBX exporter.
