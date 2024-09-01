@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 img: assets/tools/hunter.png
 description: "The TD2, AFOP, XDEF, SWOL Asset Extractor"
 order: 0
-date: 2024-08-27
+date: 2024-09-01
 ---
 
 # Hunter - The TD2, AFOP, XDEF, SWOL Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the games "The Division 2", "Avatar Frontiers of Pandor
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Hunter (v1.95)](https://mega.nz/file/BIJzGbbJ#TpMXUNFNxafEGSLG2oYaQ04l2se35yDutEER5JjPhtA).
+- Download (Windows x64): [Hunter (v1.96)](https://mega.nz/file/tYwFDYiI#-qbCLTsRrjgN55xA0RK14SPpyWhpKlNBeVd_kLeSwCQ).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -83,3 +83,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 1.93 - Update program library for bug fixes, ui improvements, and multiple color layer support.
 - 1.94 - Initial support for Star Wars Outlaws, including new model, animation, and image formats. Fixed issue with vertex colors introduced in the last update.
 - 1.95 - Fixes for some models bugs with compressed weights. Update program library for fixed FBX exporter.
+- 1.96 - Fixed exporting some raw files in SWOL. Update program library for ui improvements.
