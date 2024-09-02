@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 img: assets/tools/laura.png
 description: "The Evil Within Asset Extractor"
 order: 4
-date: 2024-08-27
+date: 2024-09-02
 ---
 
 # Laura - The Evil Within Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the games "Evil Within" and "Evil Within 2". This softw
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Laura (v3.06)](https://mega.nz/file/YJBHGBiT#z-93WjBwIgJY24YXr6sunSODIBQ0VA64PcQC40aeTXU).
+- Download (Windows x64): [Laura (v3.07)](https://mega.nz/file/dMwl0CZY#Qg4X34n4TI67jjT9i8IFSjT7wHFPXhpns2IAV7hEOYY).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -49,3 +49,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 3.04 - More animation fixes. Support for exporting converted wav/flac audio files from EW1.
 - 3.05 - Update program library for bug fixes, ui improvements, tga export.
 - 3.06 - Update program library for bug fixes.
+- 3.07 - Update program library for ui improvements.
