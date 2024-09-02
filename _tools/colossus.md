@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 img: assets/tools/colossus.png
 description: "The Wolfenstein Asset Extractor"
 order: 5
-date: 2024-08-27
+date: 2024-09-02
 ---
 
 # Colossus - The Wolfenstein Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the games "Wolfenstein New Colossus" and "Wolfenstein Y
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Colossus (v2.01)](https://mega.nz/file/5cw3gAZJ#PWlO6iLHJP5dd5J-AvC6lpYqOx0YQmxYnzeGO_vk6yQ).
+- Download (Windows x64): [Colossus (v2.02)](https://mega.nz/file/dMgVmSgD#D2tunh_dcSiAtUyOD1F9nWf3IyZLLccCHJgLalxA1Qs).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -38,3 +38,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 1.00 - Initial Release for WNC with support for models and textures.
 - 2.00 - Completely rewritten, huge tool improvement. Fixes across the board for models, images, support for animations and various other assets. Initial support for WYB.
 - 2.01 - Significantly improved material/image linking support. Update program library for bug fixes.
+- 2.02 - Update program library for ui improvements.
