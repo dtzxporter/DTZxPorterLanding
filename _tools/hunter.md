@@ -19,7 +19,7 @@ Extracts all assets from the games "The Division 2", "Avatar Frontiers of Pandor
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Hunter (v1.97)](https://mega.nz/file/QAISmLIC#qie4e6Q7o47jrnFa3ap-c8hxw-KuOMPyfaNOJ9Fr0AA).
+- Download (Windows x64): [Hunter (v1.98)](https://mega.nz/file/cRJShZ6S#oSWsuYgnVSzHYfYVwcm4jzDFF2UBSgo2kj_UYlxuMqw).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -85,3 +85,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 1.95 - Fixes for some models bugs with compressed weights. Update program library for fixed FBX exporter.
 - 1.96 - Fixed exporting some raw files in SWOL. Update program library for ui improvements.
 - 1.97 - Support for remainder of SWOL models. Fixed bug exporting some models in AFOP.
+- 1.98 - Export mesh names when using cast. Update program library for ui improvements.
