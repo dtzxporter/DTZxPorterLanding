@@ -9,7 +9,7 @@ feature-img: assets/donate.jpg
 # Game Tools Tutorial
 An overview of all of my modern game tools (released in 2023+) all tools will share the same UI and settings going forward.
 
-> **NOTICE** If you're having trouble running the tools, see troubleshooting at the bottom of this page.
+> **NOTICE:** If you're having trouble running the tools, see troubleshooting at the bottom of this page.
 
 ## 📂 Loading a file
 If the game tool supports loading assets from specific files, you'll see a "Load File" button at the bottom of the window. In addition, you can also drag and drop a supported file anywhere on the UI to load it.
