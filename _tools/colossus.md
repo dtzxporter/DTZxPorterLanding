@@ -9,7 +9,7 @@ date: 2024-09-06
 ---
 
 # Colossus - The Wolfenstein Asset Extractor
-Extracts all assets from the games "Wolfenstein New Colossus" and "Wolfenstein Young Blood". This software was developed by [DTZxPorter](https://twitter.com/dtzxporter) & id-daemon.
+Extracts all assets from the games "Wolfenstein New Order", "Wolfenstein Old Blood", "Wolfenstein New Colossus" and "Wolfenstein Young Blood". This software was developed by [DTZxPorter](https://twitter.com/dtzxporter) & id-daemon.
 
 ## ❤️ Donate:
 - I take time out of my day to make this happen.
