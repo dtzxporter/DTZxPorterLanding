@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 img: assets/tools/hunter.png
 description: "The TD2, AFOP, XDEF, SWOL Asset Extractor"
 order: 0
-date: 2024-09-03
+date: 2024-09-09
 ---
 
 # Hunter - The TD2, AFOP, XDEF, SWOL Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the games "The Division 2", "Avatar Frontiers of Pandor
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Hunter (v1.99)](https://mega.nz/file/ERJAVCqS#KgrmPFy-FwWuPS_T1uLmXHHxWE_bPjH0qkBNhL_MDvw).
+- Download (Windows x64): [Hunter (v2.00)](https://mega.nz/file/IJh2iSgD#nW7apZFlVj1WNzotzT1lPJtm-OaaNhyGIlTc02hfdWQ).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -87,3 +87,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 1.97 - Support for remainder of SWOL models. Fixed bug exporting some models in AFOP.
 - 1.98 - Export mesh names when using cast. Update program library for ui improvements.
 - 1.99 - Support for more animation formats in SWOL.
+- 2.00 - Update program library for ui improvements.
