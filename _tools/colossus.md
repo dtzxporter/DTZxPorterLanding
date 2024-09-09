@@ -39,4 +39,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 2.00 - Completely rewritten, huge tool improvement. Fixes across the board for models, images, support for animations and various other assets. Initial support for WYB.
 - 2.01 - Significantly improved material/image linking support. Update program library for bug fixes.
 - 2.02 - Update program library for ui improvements.
-- 2.03 - Initial support for WNO/WOB.
+- 2.03 - Initial support for WNO/WOB. Update program library for ui improvements.
