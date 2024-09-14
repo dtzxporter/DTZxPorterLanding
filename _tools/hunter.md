@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 img: assets/tools/hunter.png
 description: "The TD2, AFOP, XDEF, SWOL Asset Extractor"
 order: 0
-date: 2024-09-13
+date: 2024-09-14
 ---
 
 # Hunter - The TD2, AFOP, XDEF, SWOL Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the games "The Division 2", "Avatar Frontiers of Pandor
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Hunter (v2.01)](https://mega.nz/file/xdRkERQQ#L5ewukqLemu_YPe_tgZVDSOy9GyCqP9Bu4Z7ICMUcrg).
+- Download (Windows x64): [Hunter (v2.02)](https://mega.nz/file/sMBHwI5L#V5ICb3B-uLlAdfr_Z2CBaRFFAKXX2Wzw74HEWKnYQV4).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -35,7 +35,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
   - Raw Files as-is.
     - Hunter will decompile binary graph objects to their 'light' text format on export.
 
-> **NOTE:** This tool only exports assets as-is, without attempting to link models to their materials, and materials to their images. The game uses complex scene graphs which would require too much effort to automate, however, most of a model's textures have similar names to each other. It's very easy to locate the textures for a model yourself.
+> **NOTE:** This tool only exports assets as-is, without attempting to link models to their materials because not all games actually use materials for asset. The game uses complex scene graphs which would require too much effort to automate, however, most of a model's textures have similar names to each other. It's very easy to locate the textures for a model yourself.
 
 > **NOTE:** There is no need to open the `sdf_streaming` toc file, as it only references assets in the main toc file.
 
@@ -89,3 +89,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 1.99 - Support for more animation formats in SWOL.
 - 2.00 - Update program library for ui improvements.
 - 2.01 - Fix UV layers on some models.
+- 2.02 - Support for another model format and bug fixes for some models in AFOP/SWOL. Ability to export materials with their textures if the exist.
