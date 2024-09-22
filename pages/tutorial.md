@@ -133,7 +133,7 @@ You can customize the export directory using the "Browse" button.
   - Doesn't support any particular color space.
   - Will be significantly larger than any other format.
 
-Normal map conversion aids in reconstructing normal maps from the game.
+Normal map conversion aids in reconstructing normal maps from the game. Does not affect the previewer.
 
 - Normal map conversion `None`:
   - Does nothing to transform the normal maps.
