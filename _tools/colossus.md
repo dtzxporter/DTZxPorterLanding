@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 img: assets/tools/colossus.png
 description: "The Wolfenstein Asset Extractor"
 order: 5
-date: 2024-09-21
+date: 2024-09-22
 ---
 
 # Colossus - The Wolfenstein Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the games "Wolfenstein New Order", "Wolfenstein Old Blo
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Colossus (v2.04)](https://mega.nz/file/wZJHAaSK#krTacNUoP2GxJbX0JGDU8EWHJ0MbLNmmpbalCgkYZjQ).
+- Download (Windows x64): [Colossus (v2.05)](https://mega.nz/file/dBJiSDzA#Bz9PmMnPfkB9fXjcVk5x6m5E478-6fwI8KaVJXUnc58).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -41,3 +41,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 2.02 - Update program library for ui improvements.
 - 2.03 - Initial support for WNO/WOB. Update program library for ui improvements.
 - 2.04 - Update program library for bug fixes, ui improvements.
+- 2.05 - Significantly improved mega texture decoding. Enable normal map conversion setting.
