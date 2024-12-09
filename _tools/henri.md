@@ -31,7 +31,7 @@ Extracts all assets from the game "Indiana Jones and the Great Circle". This sof
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Henri (v1.00)](https://mega.nz/file/FVREXBID#fksgSLfzwmqEaE_fJySlkr-Rb4FzSJ30_GjP96aMbWc).
+- Download (Windows x64): [Henri (v1.00)](https://mega.nz/file/NYgCHLLL#Fzd8SMfbqPWzEGAORXuSzCO6BBIKu3pgUAoULS4MUSg).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
