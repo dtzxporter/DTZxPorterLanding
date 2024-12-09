@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 img: assets/tools/henri.png
 description: "The Indiana Jones Asset Extractor"
 order: 2
-date: 2024-12-08
+date: 2024-12-09
 ---
 
 # Henri - The Indiana Jones Asset Extractor
@@ -50,4 +50,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **NOTICE:** You should select all `_patchX` .resource files in order to export assets properly. Order doesn't matter.
 
 ## 📌 Versioning:
-- 1.00 - Initial Release (BETA)., support for models (no blend shapes yet), images, materials, some of the main character animations, and world support (no terrain yet).
+- 1.00 - Initial Release (BETA).
