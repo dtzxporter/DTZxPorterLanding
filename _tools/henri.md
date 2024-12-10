@@ -31,7 +31,7 @@ Extracts all assets from the game "Indiana Jones and the Great Circle". This sof
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Henri (v1.00)](https://mega.nz/file/NYgCHLLL#Fzd8SMfbqPWzEGAORXuSzCO6BBIKu3pgUAoULS4MUSg).
+- Download (Windows x64): [Henri (v1.01)](https://mega.nz/file/FJI1wL6T#HCyi9-Hm3D5CQ_5YGWcpi00jhRVkK_6U4NGJ7g23SDg).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -40,7 +40,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **IMPORTANT:** Both the tool and the game **require** the entirety of the base folder to be intact and must not be modified in any way.
 
 ## ⚙️ Ripping:
-- The **.resource** files contain various encoded assets that Henri can export; and, as of now the currently supported assets are:
+- The **.resource/.pack** files contain various encoded assets that Henri can export; and, as of now the currently supported assets are:
   - Textures as [Dds, Png, Tiff, Tga]
   - Models as [Cast, OBJ, XNALara, SMD, CoD XModel, Maya, FBX].
   - Animations as [Cast].
@@ -51,3 +51,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 
 ## 📌 Versioning:
 - 1.00 - Initial Release (BETA).
+- 1.01 - Support localized resource files by prefixing them by their locale. Support loading *.pack files. Show asset type in raw files info.
