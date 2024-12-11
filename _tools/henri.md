@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 img: assets/tools/henri.png
 description: "The Indiana Jones Asset Extractor"
 order: 2
-date: 2024-12-10
+date: 2024-12-11
 ---
 
 # Henri - The Indiana Jones Asset Extractor
@@ -23,7 +23,7 @@ Extracts all assets from the game "Indiana Jones and the Great Circle". This sof
   - Models
   - Images
   - Materials
-  - Animations (mostly for the main character, other AI TBA)
+  - Animations (only for the main character, other AI TBA)
   - Worlds (No terrain yet)
   - Raw Files can be exported as usual.
 
@@ -31,7 +31,7 @@ Extracts all assets from the game "Indiana Jones and the Great Circle". This sof
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Henri (v1.02)](https://mega.nz/file/pQQVSbJD#sJZzz9PtiuTIK3iiDeGSxPaDIYEJ8_QfmtNA4GOPWqo).
+- Download (Windows x64): [Henri (v1.03)](https://mega.nz/file/xEQV1RgZ#2AZA_JyESlmTwCBjdkFGtH-snKSm8YliOb1vPKb3jGU).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -53,3 +53,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 1.00 - Initial Release (BETA).
 - 1.01 - Support localized resource files by prefixing them by their locale. Support loading *.pack files. Show asset type in raw files info.
 - 1.02 - Support for model blend shapes. Support for many more animations, still only for the main character.
+- 1.03 - Support for all main character animations.
