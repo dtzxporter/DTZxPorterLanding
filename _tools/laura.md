@@ -27,7 +27,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 
 > **IMPORTANT:** Both the tool and the game **require** the entirety of the base folder to be intact and must not be modified in any way.
 
-> **NOTICE:** The first time you attempt to load a file, the tool may take a long time to load depending on your drive performance. As long as the program is still loading, just wait it out. After this, a cache will be build and it will load faster until the next time you restart your machine.
+> **NOTICE:** The first time you attempt to load a file, the tool may take a long time to load depending on your drive performance. As long as the program is still loading, just wait it out. After this, a cache will be built and it will load faster until the next time you restart your machine.
 
 ## ⚙️ Ripping:
 - The **.tangoresource**/**.ptr** files contain various encoded assets that Laura can export; and, as of now the currently supported assets are:
