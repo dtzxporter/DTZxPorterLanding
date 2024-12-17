@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 img: assets/tools/vega.png
 description: "The Doom Eternal Asset Extractor"
 order: 3
-date: 2024-12-11
+date: 2024-12-17
 ---
 
 # Vega - The Doom Eternal Asset Extractor
@@ -19,9 +19,9 @@ Extracts all assets from the game "Doom Eternal". This software was developed by
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Vega (v2.40)](https://mega.nz/file/ZUZGQZob#4RLaOcu3l1RlZoHdpiPT6xN5fW3HJnhEUuXF_KawsLE).
+- Download (Windows x64): [Vega (v2.41)](https://mega.nz/file/IVwRFKbb#CCUs4nko9iGOM7rEAtk-Q5golTLcATiej8upbQu40Nk).
   - Windows 10+ officially supported.
-- Download (Linux x64): [Vega (v2.40)](https://mega.nz/file/1cxDGITI#5P91_bnVTEXzn_ZuArBXtBf_oOjxisXzbnPIuYlKVng).
+- Download (Linux x64): [Vega (v2.41)](https://mega.nz/file/MFwmiLwS#Ja-cA0__snT8RLAEPZlH6k9gpNN0GoVr9sDw_tXeM9g).
 
 ## 👉 Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
@@ -78,3 +78,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 2.38 - Update program library for bug fixes, ui improvements.
 - 2.39 - Update program library for bug fixes, crash fixes, ui improvements.
 - 2.40 - Show raw file type in info column. Fix small amount of missing raw files. Fix edge case with animations.
+- 2.41 - Support for albedo/specular scale/bias. Update program library for improved preview rendering and loading indicator.
