@@ -19,7 +19,7 @@ Extracts all assets from the games "Wolfenstein New Order", "Wolfenstein Old Blo
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Colossus (v2.09)](https://mega.nz/file/oYZAlaKS#2bLku9BRzzKgal6gGVnSmVArDucbykm--wb_cnL5d_c).
+- Download (Windows x64): [Colossus (v2.10)](https://mega.nz/file/hIg1SJ5T#QI8EWfCsuValvJjcUOafF_LKrtFQvZUrIQAp3dDk6d0).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -48,3 +48,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 2.07 - Handle color conversion for WNO/WOB for some textures automatically.
 - 2.08 - Show raw file type in info column. Fix small amount of missing raw files. Fix edge case with animations.
 - 2.09 - Fix diffuse map color processing for WNO/WOB.
+- 2.10 - Update program library for improved sRGB image support.
