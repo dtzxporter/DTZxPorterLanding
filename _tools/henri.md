@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 img: assets/tools/henri.png
 description: "The Indiana Jones Asset Extractor"
 order: 2
-date: 2024-12-17
+date: 2024-12-18
 ---
 
 # Henri - The Indiana Jones Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the game "Indiana Jones and the Great Circle". This sof
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Henri (v1.06)](https://mega.nz/file/IYJ2Da4K#BiVaA5YuMFGjQlki6IU9olXYtD6WvSe8v3Y7vCXVNgc).
+- Download (Windows x64): [Henri (v1.07)](https://mega.nz/file/lRBWQQYL#cV6nF6QqmTWcwr8725WWdeUgVsGuYk14RCojtoFCPcs).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -45,3 +45,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 1.04 - Support for exporting hair. Update program library for improved sRGB image support.
 - 1.05 - Support for albedo/specular scale/bias. Reverted sRGB image change which was incorrect.
 - 1.06 - Update program library for improved preview rendering and loading indicator.
+- 1.07 - Rework material/image references to fix missing images for materials.
