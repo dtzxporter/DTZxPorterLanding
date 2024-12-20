@@ -48,4 +48,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 2.07 - Handle color conversion for WNO/WOB for some textures automatically.
 - 2.08 - Show raw file type in info column. Fix small amount of missing raw files. Fix edge case with animations.
 - 2.09 - Fix diffuse map color processing for WNO/WOB.
-- 2.10 - Fixed tga export support.
+- 2.10 - Fixed tga export support. Update program library for improved preview rendering and loading indicator.
