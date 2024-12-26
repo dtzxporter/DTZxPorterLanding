@@ -47,6 +47,7 @@ Daisy features two separate components, the daisy mod, and the daisy editor. If 
   - Create or open an existing `pmx` mod, you can save them directly in your daisy mod `pmx` folder to be able to test them live, details below.
   - Select the mega texture you want to modify, searching if you prefer.
   - Provide at least one new texture, daisy will only replace ones you've provided, and use the originals if you omit one.
+    - It's recommended you extract the material and use it's images from [Revenant](https://dtzxporter.com/tools/revenant) as a reference, it must be the same size!
   - Press `Bake` to create and save your changes.
 - If you want to test in game live, make sure to pause before pressing `Bake`.
 - Once finished, you can use the command `vt_restart` to reload all `pmx` files and mega textures.
