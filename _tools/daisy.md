@@ -9,7 +9,7 @@ date: 2024-12-26
 ---
 
 # Daisy - The Doom 2016 Mega Texture Mod Kit
-Allows creation of mega texture mods that can be distributed along side other game mods.
+Allows creation of mega texture mods that can be distributed alongside other game mods.
 
 ## ❤️ Donate:
 - I take time out of my day to make this happen.
