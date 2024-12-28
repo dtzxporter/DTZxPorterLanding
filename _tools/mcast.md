@@ -2,7 +2,7 @@
 layout: post
 title: MCast
 feature-img: assets/maya.jpg
-img: assets/tools/mcast.png
+thumbnail: assets/tools/mcast.png
 description: "Lossless MPRT to Cast converter"
 order: 11
 date: 2024-06-19

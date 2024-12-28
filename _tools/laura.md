@@ -2,7 +2,7 @@
 layout: post
 title: Laura
 feature-img: assets/maya.jpg
-img: assets/tools/laura.png
+thumbnail: assets/tools/laura.png
 description: "The Evil Within Asset Extractor"
 order: 5
 date: 2024-12-19

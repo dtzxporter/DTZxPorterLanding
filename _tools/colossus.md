@@ -2,7 +2,7 @@
 layout: post
 title: Colossus
 feature-img: assets/maya.jpg
-img: assets/tools/colossus.png
+thumbnail: assets/tools/colossus.png
 description: "The Wolfenstein Asset Extractor"
 order: 6
 date: 2024-12-19

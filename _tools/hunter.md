@@ -2,7 +2,7 @@
 layout: post
 title: Hunter
 feature-img: assets/maya.jpg
-img: assets/tools/hunter.png
+thumbnail: assets/tools/hunter.png
 description: "The TD2, AFOP, XDEF, SWOL Asset Extractor"
 order: 0
 date: 2024-11-05

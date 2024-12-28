@@ -2,7 +2,7 @@
 layout: post
 title: Henri
 feature-img: assets/maya.jpg
-img: assets/tools/henri.png
+thumbnail: assets/tools/henri.png
 description: "The Indiana Jones Asset Extractor"
 order: 2
 date: 2024-12-20

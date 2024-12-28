@@ -2,7 +2,7 @@
 layout: post
 title: Diver
 feature-img: assets/maya.jpg
-img: assets/tools/diver.png
+thumbnail: assets/tools/diver.png
 description: "The Helldivers 2 Asset Extractor"
 order: 1
 date: 2024-12-18

@@ -2,7 +2,7 @@
 layout: post
 title: Revenant
 feature-img: assets/maya.jpg
-img: assets/tools/revenant.png
+thumbnail: assets/tools/revenant.png
 description: "The Doom 2016 Asset Extractor"
 order: 4
 date: 2024-12-20

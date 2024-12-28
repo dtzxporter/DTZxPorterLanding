@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DayZATool
-img: assets/tools/dayzatool.png
+thumbnail: assets/tools/dayzatool.png
 description: "Extracts animations/models and generates animations for DayZ Tools"
 order: 9999
 date: 2019-01-04

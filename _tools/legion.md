@@ -2,7 +2,7 @@
 layout: post
 title: Legion
 feature-img: assets/tools/legion-banner.jpeg
-img: assets/tools/legion.png
+thumbnail: assets/tools/legion.png
 description: "The Apex Legends Asset Extractor"
 order: 7
 date: 2021-12-07
