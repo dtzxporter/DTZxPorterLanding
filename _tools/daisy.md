@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 thumbnail: assets/tools/daisy.png
 description: "The Doom 2016 Mega Texture Mod Kit"
 order: 9
-date: 2024-12-28
+date: 2024-12-29
 ---
 
 # Daisy - The Doom 2016 Mega Texture Mod Kit
@@ -21,10 +21,10 @@ Allows creation of mega texture mods that can be distributed alongside other gam
 
 > **NOTICE:** Please link back to this page in order for others to install the daisy mod to ensure they're using the latest version. Modpacks will be backwards compatible going forward.
 
-- Download (Windows x64): [Daisy Mod (v1.01)](https://mega.nz/file/pAgVFBBT#xtcMIbWqJSvUOznFtA5YEBCL1V36KNDfR81fy2YbdHU).
+- Download (Windows x64): [Daisy Mod (v1.02)](https://mega.nz/file/oQJSFRoS#jtiHw9n_VIPzjNq0UfTP-7zVTeJwSshOQ1LVnwQt2cY).
   - Windows 10+ officially supported.
   - Some users have reported success on linux via wine.
-- Download (Windows x64): [Daisy Editor (v1.00)](https://mega.nz/file/tEJjBTTR#nJnJCPtD7nZkxu0zrTe-tXklTGsO1N3RQ99fLi0LMsk).
+- Download (Windows x64): [Daisy Editor (v1.02)](https://mega.nz/file/xJQDQYKZ#0vIALthqWxSY16fCPAkCq0fVMMRUUFB37QH1squWawU).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -61,3 +61,4 @@ Daisy features two separate components, the daisy mod, and the daisy editor. If 
 ## 📌 Versioning:
 - 1.00 - Initial Release.
 - 1.01 - Fix error formatting. Add support for loading snaphak/legacy mod.
+- 1.02 - Performance improvements.
