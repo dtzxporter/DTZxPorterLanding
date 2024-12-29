@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 thumbnail: assets/tools/daisy.png
 description: "The Doom 2016 Mega Texture Mod Kit"
 order: 9
-date: 2024-12-26
+date: 2024-12-28
 ---
 
 # Daisy - The Doom 2016 Mega Texture Mod Kit
@@ -21,7 +21,7 @@ Allows creation of mega texture mods that can be distributed alongside other gam
 
 > **NOTICE:** Please link back to this page in order for others to install the daisy mod to ensure they're using the latest version. Modpacks will be backwards compatible going forward.
 
-- Download (Windows x64): [Daisy Mod (v1.00)](https://mega.nz/file/kZxhxL4A#Ehnh6YnXdPqvmtu8RQn6MCjcEdnNHOK4t4nl5FOrD4o).
+- Download (Windows x64): [Daisy Mod (v1.01)](https://mega.nz/file/pAgVFBBT#xtcMIbWqJSvUOznFtA5YEBCL1V36KNDfR81fy2YbdHU).
   - Windows 10+ officially supported.
   - Some users have reported success on linux via wine.
 - Download (Windows x64): [Daisy Editor (v1.00)](https://mega.nz/file/tEJjBTTR#nJnJCPtD7nZkxu0zrTe-tXklTGsO1N3RQ99fLi0LMsk).
@@ -38,6 +38,8 @@ Daisy features two separate components, the daisy mod, and the daisy editor. If 
   - Both the `.pmx` and `.pmxd` files must be copied to your newly created `pmx` folder in order for them to be discovered.
 - Make sure your in-game settings are set to use the `Vulkan` graphics api, daisy will ignore the `OpenGL` version.
 - That's it! Daisy should already be replacing any modified textures.
+
+> **NOTICE:** Daisy has support for loading _Snaphak_ and _LegacyMod_ by renaming their `dinput8.dll` files to `snaphak.dll` and `legacy_mod.dll` respectively.
 
 ### Daisy Editor
 - Unzip the latest daisy editor above.
@@ -58,3 +60,4 @@ Daisy features two separate components, the daisy mod, and the daisy editor. If 
 
 ## 📌 Versioning:
 - 1.00 - Initial Release.
+- 1.01 - Fix error formatting. Add support for loading snaphak/legacy mod.
