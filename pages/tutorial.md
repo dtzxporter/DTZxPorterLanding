@@ -167,4 +167,8 @@ If you're having trouble running the tools here are a few things you can try:
     - `WGPU_BACKEND=gl` (Not recommended)
   - This is a complex issue that is hard to reproduce, and a list of broken hardware/driver combinations would be helpful. If you're tech savvy, it would be helpful to submit more information here: [WPU Issues](https://github.com/gfx-rs/wgpu/issues).
 - Some game overlay / performance tools mistake the tools for being a game, due to the way the ui is drawn. Disabling them or blacklisting the tools can also resolve issues.
+- If you're using a linux build of a tool, and the tool appears too large:
+  - Set the following environment variables before running the tool:
+    - `WINIT_UNIX_BACKEND=x11`
+    - `WINIT_X11_SCALE_FACTOR=1`
 - If you have an issue not listed here, join the discord server, and describe exactly what you're experiencing. Include crash files, if they exist.
