@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 thumbnail: assets/tools/colossus.png
 description: "The Wolfenstein Asset Extractor"
 order: 6
-date: 2025-01-12
+date: 2025-01-13
 ---
 
 # Colossus - The Wolfenstein Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the games "Wolfenstein New Order", "Wolfenstein Old Blo
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Colossus (v2.12)](https://mega.nz/file/odAlnAxS#ha4nzvaX9gh7kCxIkFVtDmie7fCL5X_2vw7XDIJmY0s).
+- Download (Windows x64): [Colossus (v2.13)](https://mega.nz/file/BdhTmbjL#ltuz5BTsX2Wn8LXIcuoVKE1c4xPJNC_NN-xIUnVifCY).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -51,3 +51,4 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 - 2.10 - Fixed tga export support. Update program library for improved preview rendering and loading indicator.
 - 2.11 - Fixed issue with weights for some models.
 - 2.12 - Add support for second uv layer in WYB. Fix small amount of missing material textures.
+- 2.13 - Add support for hair uvs in WYB.
