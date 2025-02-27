@@ -62,39 +62,39 @@ Map ripping is supported but not support will be provided, YMMV.
 - An eerie for Legion S4 (By @Spooky_Sal): [Download](https://mega.nz/#!cQ5AAAIb!9p-6J-2Sdjm6TuBCc9VBY53SzoWpqco1eu0Is5lysWQ)
 
 ## 📌 Versioning:
-- 0.18 - Initial Release.
-- 0.54 - Model export support, fixed patch_master crash, skip existing images.
-- 0.60 - Patch rpak support, xmodel_export model format.
-- 0.61 - Shadow fix for mp_rr* crash...
-- 0.62 - Fixed SMD export when invalid normals exist, fixed materials in xmodel_export.
-- 0.68 - Fixed season 1 rpak patches causing crashes.
-- 0.84 - Initial support for animations, performance tweaks, maya (legacy) exporter.
-- 0.95 - Image format toggle (Dds, Png, Tiff), fixed rare image bug having wrong size.
-- 0.98 - Added support for my new FBX exporter.
-- 1.00 - Support for Apex S2, support for new multi-UVs, support for last few missing image formats (Requires S2 files).
-- 1.01 - Fix for large scale map models which were broken on export.
-- 1.02 - Fix for crash on some smaller paks.
-- 2.00 - Support for most patched assets, new user interface with built-in model previewer. Material/Skin export ability and new Image format, compatible with S4.
-- 2.10 - Support for Titanfall 2 (Models, Animations, RPaks, Sounds). Preliminary support for the new Cast format. Image preview (press p). Apex animation fixes. FBX export tweaks for UV Layers.
-- 2.11 - Fixed crash in some TF2 Rpaks, fixed bug with some TF2 models missing animations.
-- 2.12 - Export all material slots, fixed FBX and XNALara exports with skeletons.
-- 2.13 - Fixed crash introduced in v2.12 when additional material slots were added.
-- 2.20 - Support for Apex S7 (Not backwards compatible)
-- 2.21 - Fixed crash during model exports, fixed animations missing parts. Added support for previewing w/ materials. Fixed bug with some image formats.
-- 2.22 - Support for Apex S8 (Audio is no longer backwards compatible), Fix for crash involving an unsupported model format in other paks.
-- 2.23 - Add support for missing scales in animations. (Only tested in Maya, may not function properly in Blender)
-- 2.24 - Fixed crash on some models after the chaos update, PNGs have improved compatibility with legacy style importers.
-- 2.3 - Support for S11's UI Image asset, Textures in BC6 format, custom export directory paths.
-- 2.31 - Fixed a rare crash that would happen when previewing certain models. Added S11 splash screen.
-- 2.32 - Fixed certain resolution UI Image's from exporting incorrectly. Fix crash with custom export folders. Add support for embedded 'starpak' data (store rpak files).
-- 2.33 - Fixed crash on models that have blank or empty submeshes. Update to Visual Studio 2022 (Requires new runtime).
-- 2.34 - Fixed vertex weights on some models that had invalid data.
-- 2.35 - Fixed issue with vertex weights on some models after (2.34). Generate database linking animations with no animrig to their original models (bird, etc). These export _with_ the model now. Materials can be previewed by viewing the albedo map.
-- 2.36 - Fixed weighting issues (again). Should now export all models weighted properly.
-- 2.37 - Bug fix for crashing during some export all operations.
-- 2.38 - Fixed issue with mprt's rotations, added scales to mprt (v2).
-- 2.39 - Changed mprt rotation layout to match any sane person's layout (v3).
-- 2.40 - Whitelist old bsp format (some arena maps).
-- 2.41 - Added ability to load multiple (up to 4) Rpaks at once to support cross Rpak assets (New to the newer apex seasons). Will use much more memory in general.
-- 2.42 - Fixed crash with '4' Rpaks.
 - 2.43 - Fix crash on mid season update Rpaks.
+- 2.42 - Fixed crash with '4' Rpaks.
+- 2.41 - Added ability to load multiple (up to 4) Rpaks at once to support cross Rpak assets (New to the newer apex seasons). Will use much more memory in general.
+- 2.40 - Whitelist old bsp format (some arena maps).
+- 2.39 - Changed mprt rotation layout to match any sane person's layout (v3).
+- 2.38 - Fixed issue with mprt's rotations, added scales to mprt (v2).
+- 2.37 - Bug fix for crashing during some export all operations.
+- 2.36 - Fixed weighting issues (again). Should now export all models weighted properly.
+- 2.35 - Fixed issue with vertex weights on some models after (2.34). Generate database linking animations with no animrig to their original models (bird, etc). These export _with_ the model now. Materials can be previewed by viewing the albedo map.
+- 2.34 - Fixed vertex weights on some models that had invalid data.
+- 2.33 - Fixed crash on models that have blank or empty submeshes. Update to Visual Studio 2022 (Requires new runtime).
+- 2.32 - Fixed certain resolution UI Image's from exporting incorrectly. Fix crash with custom export folders. Add support for embedded 'starpak' data (store rpak files).
+- 2.31 - Fixed a rare crash that would happen when previewing certain models. Added S11 splash screen.
+- 2.3 - Support for S11's UI Image asset, Textures in BC6 format, custom export directory paths.
+- 2.24 - Fixed crash on some models after the chaos update, PNGs have improved compatibility with legacy style importers.
+- 2.23 - Add support for missing scales in animations. (Only tested in Maya, may not function properly in Blender)
+- 2.22 - Support for Apex S8 (Audio is no longer backwards compatible), Fix for crash involving an unsupported model format in other paks.
+- 2.21 - Fixed crash during model exports, fixed animations missing parts. Added support for previewing w/ materials. Fixed bug with some image formats.
+- 2.20 - Support for Apex S7 (Not backwards compatible)
+- 2.13 - Fixed crash introduced in v2.12 when additional material slots were added.
+- 2.12 - Export all material slots, fixed FBX and XNALara exports with skeletons.
+- 2.11 - Fixed crash in some TF2 Rpaks, fixed bug with some TF2 models missing animations.
+- 2.10 - Support for Titanfall 2 (Models, Animations, RPaks, Sounds). Preliminary support for the new Cast format. Image preview (press p). Apex animation fixes. FBX export tweaks for UV Layers.
+- 2.00 - Support for most patched assets, new user interface with built-in model previewer. Material/Skin export ability and new Image format, compatible with S4.
+- 1.02 - Fix for crash on some smaller paks.
+- 1.01 - Fix for large scale map models which were broken on export.
+- 1.00 - Support for Apex S2, support for new multi-UVs, support for last few missing image formats (Requires S2 files).
+- 0.98 - Added support for my new FBX exporter.
+- 0.95 - Image format toggle (Dds, Png, Tiff), fixed rare image bug having wrong size.
+- 0.84 - Initial support for animations, performance tweaks, maya (legacy) exporter.
+- 0.68 - Fixed season 1 rpak patches causing crashes.
+- 0.62 - Fixed SMD export when invalid normals exist, fixed materials in xmodel_export.
+- 0.61 - Shadow fix for mp_rr* crash...
+- 0.60 - Patch rpak support, xmodel_export model format.
+- 0.54 - Model export support, fixed patch_master crash, skip existing images.
+- 0.18 - Initial Release.

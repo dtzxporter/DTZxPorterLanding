@@ -59,6 +59,6 @@ Daisy features two separate components, the daisy mod, and the daisy editor. If 
 - Once you are ready to distribute your mod, it is **highly** recommended to run `Defrag` in order to optimize, and shrink the size of your mod pack.
 
 ## 📌 Versioning:
-- 1.00 - Initial Release.
-- 1.01 - Fix error formatting. Add support for loading snaphak/legacy mod.
 - 1.02 - Performance improvements.
+- 1.01 - Fix error formatting. Add support for loading snaphak/legacy mod.
+- 1.00 - Initial Release.

@@ -38,14 +38,14 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **NOTICE:** You should select all `_patchX` .resource/.pack files in order to export assets properly. Order doesn't matter.
 
 ## 📌 Versioning:
-- 1.00 - Initial Release (BETA).
-- 1.01 - Support localized resource files by prefixing them by their locale. Support loading *.pack files. Show asset type in raw files info.
-- 1.02 - Support for model blend shapes. Support for many more animations, still only for the main character.
-- 1.03 - Support for all main character animations.
-- 1.04 - Support for exporting hair. Update program library for improved sRGB image support.
-- 1.05 - Support for albedo/specular scale/bias. Reverted sRGB image change which was incorrect.
-- 1.06 - Update program library for improved preview rendering and loading indicator.
-- 1.07 - Rework material/image references to fix missing images for materials.
-- 1.08 - Add support for second uv layer. Fix some more materials.
-- 1.09 - Fix error exporting some worlds. Fix even more materials.
 - 1.10 - Initial support for AI/NPC animations. Initial support for cast auto constraints.
+- 1.09 - Fix error exporting some worlds. Fix even more materials.
+- 1.08 - Add support for second uv layer. Fix some more materials.
+- 1.07 - Rework material/image references to fix missing images for materials.
+- 1.06 - Update program library for improved preview rendering and loading indicator.
+- 1.05 - Support for albedo/specular scale/bias. Reverted sRGB image change which was incorrect.
+- 1.04 - Support for exporting hair. Update program library for improved sRGB image support.
+- 1.03 - Support for all main character animations.
+- 1.02 - Support for model blend shapes. Support for many more animations, still only for the main character.
+- 1.01 - Support localized resource files by prefixing them by their locale. Support loading *.pack files. Show asset type in raw files info.
+- 1.00 - Initial Release (BETA).

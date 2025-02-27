@@ -42,20 +42,20 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **NOTICE:** Patches are automatically loaded for you.
 
 ## 📌 Versioning:
-- 1.00 - Initial Release for Evil Within 1 with support for models and mega textures.
-- 2.20 - Support for Evil Within 2 models and mega textures.
-- 3.00 - Completely rewritten, huge tool improvement. Fixes across the board for models, images, support for animations and various other assets.
-- 3.01 - Squashed bugs with animations, 99% are now exportable. Support delta keyframes.
-- 3.02 - Full support for Evil Within 1. Animation fixes and improvements.
-- 3.03 - Support for spline compressed animations, animation bug fixes.
-- 3.04 - More animation fixes. Support for exporting converted wav/flac audio files from EW1.
-- 3.05 - Update program library for bug fixes, ui improvements, tga export.
-- 3.06 - Update program library for bug fixes.
-- 3.07 - Update program library for ui improvements.
-- 3.08 - Update program library for ui improvements.
-- 3.09 - Update program library for bug fixes, ui improvements.
-- 3.10 - Enable normal map conversion setting.
-- 3.11 - Update program library for bug fixes, crash fixes, ui improvements.
-- 3.12 - Show raw file type in info column. Fix small amount of missing raw files.
-- 3.13 - Fix a few missing material images. Update program library for improved preview rendering and loading indicator.
 - 3.14 - Fixed tga export support.
+- 3.13 - Fix a few missing material images. Update program library for improved preview rendering and loading indicator.
+- 3.12 - Show raw file type in info column. Fix small amount of missing raw files.
+- 3.11 - Update program library for bug fixes, crash fixes, ui improvements.
+- 3.10 - Enable normal map conversion setting.
+- 3.09 - Update program library for bug fixes, ui improvements.
+- 3.08 - Update program library for ui improvements.
+- 3.07 - Update program library for ui improvements.
+- 3.06 - Update program library for bug fixes.
+- 3.05 - Update program library for bug fixes, ui improvements, tga export.
+- 3.04 - More animation fixes. Support for exporting converted wav/flac audio files from EW1.
+- 3.03 - Support for spline compressed animations, animation bug fixes.
+- 3.02 - Full support for Evil Within 1. Animation fixes and improvements.
+- 3.01 - Squashed bugs with animations, 99% are now exportable. Support delta keyframes.
+- 3.00 - Completely rewritten, huge tool improvement. Fixes across the board for models, images, support for animations and various other assets.
+- 2.20 - Support for Evil Within 2 models and mega textures.
+- 1.00 - Initial Release for Evil Within 1 with support for models and mega textures.

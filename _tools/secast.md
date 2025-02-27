@@ -33,7 +33,7 @@ Using SECast is simple. Just drag and drop a SEAnim or SEModel or a folder to th
 <img style="padding: 0" src="/assets/tools/secast-video.gif">
 
 ## 📌 Versioning:
-- 1.00 - Initial Release.
-- 1.01 - Fixed issue with some SEAnim animations that are relative and had incorrect rotation curves. Added `--skip-pause` command line argument.
-- 1.02 - Fixed issue generating animation curves for animations with no keyframes.
 - 2.00 - Support for new cast nodes which fix compatibility with animations. Support for non-standard blend shapes in seanim/semodels.
+- 1.02 - Fixed issue generating animation curves for animations with no keyframes.
+- 1.01 - Fixed issue with some SEAnim animations that are relative and had incorrect rotation curves. Added `--skip-pause` command line argument.
+- 1.00 - Initial Release.

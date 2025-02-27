@@ -41,37 +41,37 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 There is a community effort to name assets for easier use. You can download or contribute to the database here: [hd2-name-db](https://github.com/dtzxporter/hd2-name-db).
 
 ## 📌 Versioning:
-- 1.00 (BETA) - Initial Release with support for models, materials, and textures.
-- 1.01 - Fixed model position bugs, material assignment, exports multi-layer images for dds, png, and tiff, export all material references.
-- 1.02 - Fixed export of a very small group of models that have hilarious data. All models should export correctly as of now.
-- 1.10 - Initial support for exporting animations, 65% are currently exportable.
-- 1.12 - Support for more animation types. Add support for loading an asset name database `assets.pndb` if one exists next to the application.
-- 1.13 - Support for exporting sounds (as wem) and sound banks (as bnk).
-- 1.14 - Support for more animations. ~99% are exportable.
-- 1.15 - Added all in-use file type names and verified them.
-- 1.16 - Fixed models which have no lods (uncommon).
-- 1.17 - Relaxed placeholder model constraints so that base skeletons can be exported.
-- 1.18 - Enabled normal map conversion toggle in settings.
-- 1.19 - Support models in geometry caches. There are about 1,500 new models available.
-- 1.20 - Update program library for ui tweaks and improvements.
-- 1.21 - Fixed an issue with a specific weapon not exporting.
-- 1.22 - Added support for remainder of animation sets.
-- 1.23 - Update program library for ui fixes, fixed FBX export compatibility.
-- 1.24 - Fix animation exporting due to a bug with keyframes.
-- 1.25 - Fixed console window by accident.
-- 1.26 - Update program library for ui improvements.
-- 1.27 - Update program library for ui improvements.
-- 1.28 - Update program library for bug fixes, code cleanup.
-- 1.29 - Workaround for models which use havok physics to move parts by creating fake weights for physics meshes.
-- 1.30 - Update program library for ui fixes and improvements.
-- 1.31 - Update program library for enhanced search capabilities, display animation set in model information if available.
-- 1.32 - Fix issue that caused a small selection of models to export lower poly.
-- 1.33 - Update program library for TGA export.
-- 1.34 - Update program library for bug fixes, ui improvements.
-- 1.35 - Update program library for bug fixes.
-- 1.36 - Update program library for ui improvements.
-- 1.37 - Update program library for ui improvements.
-- 1.38 - Update program library for bug fixes, ui improvements.
-- 1.39 - Update program library for bug fixes, crash fixes, ui improvements.
-- 1.40 - Add support for most additive animations. Update program library for improved preview rendering and loading indicator.
 - 1.41 - Update program library for new tiff floating point image support.
+- 1.40 - Add support for most additive animations. Update program library for improved preview rendering and loading indicator.
+- 1.39 - Update program library for bug fixes, crash fixes, ui improvements.
+- 1.38 - Update program library for bug fixes, ui improvements.
+- 1.37 - Update program library for ui improvements.
+- 1.36 - Update program library for ui improvements.
+- 1.35 - Update program library for bug fixes.
+- 1.34 - Update program library for bug fixes, ui improvements.
+- 1.33 - Update program library for TGA export.
+- 1.32 - Fix issue that caused a small selection of models to export lower poly.
+- 1.31 - Update program library for enhanced search capabilities, display animation set in model information if available.
+- 1.30 - Update program library for ui fixes and improvements.
+- 1.29 - Workaround for models which use havok physics to move parts by creating fake weights for physics meshes.
+- 1.28 - Update program library for bug fixes, code cleanup.
+- 1.27 - Update program library for ui improvements.
+- 1.26 - Update program library for ui improvements.
+- 1.25 - Fixed console window by accident.
+- 1.24 - Fix animation exporting due to a bug with keyframes.
+- 1.23 - Update program library for ui fixes, fixed FBX export compatibility.
+- 1.22 - Added support for remainder of animation sets.
+- 1.21 - Fixed an issue with a specific weapon not exporting.
+- 1.20 - Update program library for ui tweaks and improvements.
+- 1.19 - Support models in geometry caches. There are about 1,500 new models available.
+- 1.18 - Enabled normal map conversion toggle in settings.
+- 1.17 - Relaxed placeholder model constraints so that base skeletons can be exported.
+- 1.16 - Fixed models which have no lods (uncommon).
+- 1.15 - Added all in-use file type names and verified them.
+- 1.14 - Support for more animations. ~99% are exportable.
+- 1.13 - Support for exporting sounds (as wem) and sound banks (as bnk).
+- 1.12 - Support for more animation types. Add support for loading an asset name database `assets.pndb` if one exists next to the application.
+- 1.10 - Initial support for exporting animations, 65% are currently exportable.
+- 1.02 - Fixed export of a very small group of models that have hilarious data. All models should export correctly as of now.
+- 1.01 - Fixed model position bugs, material assignment, exports multi-layer images for dds, png, and tiff, export all material references.
+- 1.00 (BETA) - Initial Release with support for models, materials, and textures.

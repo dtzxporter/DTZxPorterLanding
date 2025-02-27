@@ -37,20 +37,20 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
   - Raw Files as-is.
 
 ## 📌 Versioning:
-- 1.00 - Initial Release for WNC with support for models and textures.
-- 2.00 - Completely rewritten, huge tool improvement. Fixes across the board for models, images, support for animations and various other assets. Initial support for WYB.
-- 2.01 - Significantly improved material/image linking support. Update program library for bug fixes.
-- 2.02 - Update program library for ui improvements.
-- 2.03 - Initial support for WNO/WOB. Update program library for ui improvements.
-- 2.04 - Update program library for bug fixes, ui improvements.
-- 2.05 - Significantly improved mega texture decoding. Enable normal map conversion setting.
-- 2.06 - Update program library for bug fixes, crash fixes, ui improvements. Support for more models from WNC.
-- 2.07 - Handle color conversion for WNO/WOB for some textures automatically.
-- 2.08 - Show raw file type in info column. Fix small amount of missing raw files. Fix edge case with animations.
-- 2.09 - Fix diffuse map color processing for WNO/WOB.
-- 2.10 - Fixed tga export support. Update program library for improved preview rendering and loading indicator.
-- 2.11 - Fixed issue with weights for some models.
-- 2.12 - Add support for second uv layer in WYB. Fix small amount of missing material textures.
-- 2.13 - Add support for hair uvs in WYB.
-- 2.14 - Support blend shapes in WNC/WYB. Add support for hair uvs in WNC.
 - 2.15 - Improved animation export performance. Update dependencies.
+- 2.14 - Support blend shapes in WNC/WYB. Add support for hair uvs in WNC.
+- 2.13 - Add support for hair uvs in WYB.
+- 2.12 - Add support for second uv layer in WYB. Fix small amount of missing material textures.
+- 2.11 - Fixed issue with weights for some models.
+- 2.10 - Fixed tga export support. Update program library for improved preview rendering and loading indicator.
+- 2.09 - Fix diffuse map color processing for WNO/WOB.
+- 2.08 - Show raw file type in info column. Fix small amount of missing raw files. Fix edge case with animations.
+- 2.07 - Handle color conversion for WNO/WOB for some textures automatically.
+- 2.06 - Update program library for bug fixes, crash fixes, ui improvements. Support for more models from WNC.
+- 2.05 - Significantly improved mega texture decoding. Enable normal map conversion setting.
+- 2.04 - Update program library for bug fixes, ui improvements.
+- 2.03 - Initial support for WNO/WOB. Update program library for ui improvements.
+- 2.02 - Update program library for ui improvements.
+- 2.01 - Significantly improved material/image linking support. Update program library for bug fixes.
+- 2.00 - Completely rewritten, huge tool improvement. Fixes across the board for models, images, support for animations and various other assets. Initial support for WYB.
+- 1.00 - Initial Release for WNC with support for models and textures.

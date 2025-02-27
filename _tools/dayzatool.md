@@ -48,6 +48,6 @@ Using DayZATool just requires one of the following formats:
    - [io_scene_semodel](https://github.com/dtzxporter/io_model_semodel)
 
 ## Versioning:
-- 1.00 - Initial release.
-- 1.20 - Support for complete models instead of skeletons.
 - 1.30 - Support for XOB8HEAD models.
+- 1.20 - Support for complete models instead of skeletons.
+- 1.00 - Initial release.
