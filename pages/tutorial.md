@@ -20,14 +20,14 @@ If the game tool supports loading assets from the game directly, you'll see a "L
 ## 💾 Exporting one or more assets
 To export an asset you can:
 - Double click an asset in the list.
-- Select the assets you want to export and press (E).
+- Select the assets you want to export and press `(E)`.
 - Select the assets you want to export and press "Export Selected" button.
 - Press the "Export All" button.
 
 The cancel button will cancel the export job after the current asset exports.
 
 ## 🔍 Previewing an asset
-To preview an asset, you can press (P) to open the preview window. Select the asset you want to view in the list of assets to preview it. You can change the controls in settings.
+To preview an asset, you can press `(P)` to open the preview window. Select the asset you want to view in the list of assets to preview it. You can change the controls in settings.
 
 - Controls (Autodesk Maya):
   - `Ctrl/Alt + Left Mouse` = Rotate.
@@ -76,8 +76,7 @@ bonecount:100,!fire
 
 ## 📋 Handy asset shortcuts
 - `Ctrl + C` Copy the names of all selected assets to the clipboard.
-- `Ctrl + V` Focuses the search box and pastes clipboard content into it.
-- `Ctrl + A` Focuses the search box and selects all of it's content.
+- `Ctrl + F` Focuses the search box and selects all of it's content.
 
 ## 🚦 Asset status
 - Loaded - The asset is ready to be exported.
