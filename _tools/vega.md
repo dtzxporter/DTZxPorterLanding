@@ -19,9 +19,9 @@ Extracts all assets from the game "Doom Eternal". This software was developed by
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Vega (v2.45)](https://mega.nz/file/MMID3BTS#ePWymtnK95IcY_vkmbnVhpstNul6bu6u96on98L8G1M).
+- Download (Windows x64): [Vega (v2.46)](https://mega.nz/file/kM4D2D5T#_tr_5iNzIZwdnG0OrVkhn1bYNM1b2vwlcJuj_z5hcdg).
   - Windows 10+ officially supported.
-- Download (Linux x64): [Vega (v2.45)](https://mega.nz/file/MYBzAK5A#ogSw9PjuF4gaJD11dcklHQOwsZmzBo56niAk8zd6Ing).
+- Download (Linux x64): [Vega (v2.46)](https://mega.nz/file/NQxSHaba#N_B8zIiSVVtRv6YXz4-8HHw39YCZpga8sK4dyPC5lOs).
 
 ## 👉 Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
@@ -39,6 +39,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **NOTICE:** You should select all `_patchX` .resource files in order to export assets properly. Order doesn't matter.
 
 ## 📌 Versioning:
+- 2.46 - Update program library to fix bugs in the user interface update.
 - 2.45 - Update program library for new user interface, preview options, and settings. Improved normal map converter detection.
 - 2.44 - Improved animation export performance. Update dependencies.
 - 2.43 - Update program library for improved cast material support.
