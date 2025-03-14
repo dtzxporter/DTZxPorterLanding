@@ -19,7 +19,7 @@ Extracts all assets from the games "The Division 2", "Avatar Frontiers of Pandor
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Hunter (v2.07)](https://mega.nz/file/sAgwQSgJ#3dkf_wlY6gFtW_RvCe3UlRSULib7biNM_XqumBXlUcI).
+- Download (Windows x64): [Hunter (v2.08)](https://mega.nz/file/gB5BFACA#W8OFNWWyPuUZ6I5Av4uqPaf1hgVn1h1I5XVdUf1nYxM).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -40,6 +40,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **NOTE:** There is no need to open the `sdf_streaming` toc file, as it only references assets in the main toc file.
 
 ## 📌 Versioning:
+- 2.08 - Update program library to fix ui bugs.
 - 2.07 - Update program library for ui bug fixes.
 - 2.06 - Update program library for new user interface, preview options, and settings.
 - 2.05 - Update program library for improved preview rendering and loading indicator.
