@@ -19,9 +19,9 @@ Extracts all assets from the game "Doom Eternal". This software was developed by
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Vega (v2.47)](https://mega.nz/file/gUYQwbYY#uiLhHRnaeruai2LuUfr8prmYc48lV2i6zEqf6AssJXg).
+- Download (Windows x64): [Vega (v2.48)](https://mega.nz/file/QQpkmKLT#WEyJo2xVytgWCm7I-WATFgq2gc1Ezqnu-p3uCEiUySI).
   - Windows 10+ officially supported.
-- Download (Linux x64): [Vega (v2.47)](https://mega.nz/file/BMp32RQD#_J8SC_UY5kfji2gMdKk0g5f7AibhVIW1p_Mg9PB6Vfs).
+- Download (Linux x64): [Vega (v2.48)](https://mega.nz/file/8YAVxQxI#qBe3pz4HpwR-IGdGCF8YXjUNCSmxkNZkFfdpiq9lT9k).
 
 ## 👉 Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
@@ -39,6 +39,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **NOTICE:** You should select all `_patchX` .resource files in order to export assets properly. Order doesn't matter.
 
 ## 📌 Versioning:
+- 2.48 - Update program library to fix ui bugs.
 - 2.47 - Update program library for ui bug fixes. Fix incorrect albedo maps in some cases for cast models.
 - 2.46 - Update program library to fix bugs in the user interface update.
 - 2.45 - Update program library for new user interface, preview options, and settings. Improved normal map converter detection.
