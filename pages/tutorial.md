@@ -15,7 +15,7 @@ An overview of all of my modern game tools (released in 2023+) all tools will sh
 If the game tool supports loading assets from specific files, you'll see a "Load File" button at the bottom of the window. In addition, you can also drag and drop a supported file anywhere on the UI to load it.
 
 ## 🎮 Loading a game
-If the game tool supports loading assets from the game directly, you'll see a "Load Game" button at the bottom of the window. You must launch the game first, then click the "Load Game" button. The game must remain running while you export assets.
+If the game tool supports loading assets from a running instance of a game, you'll see a "Load Game" button at the bottom of the window. You must launch the game first, then click the "Load Game" button. The game must remain running while you export assets.
 
 ## 💾 Exporting one or more assets
 To export an asset you can:
