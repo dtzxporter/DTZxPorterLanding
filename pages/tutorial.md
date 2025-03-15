@@ -103,6 +103,7 @@ You can customize the export directory using the "Browse" button.
   - If the game uses meters, then the units will be `*= 100`.
   - If the game uses inches, then the units will be `*= 2.54`.
   - If the game uses centimeters, then the units will be `*= 1.0`.
+- Custom scale - Applies a user provided scale factor to the assets: `*= factor`.
 
 ### Settings - Models
 - Cast - Export models in cast format. [Plugins](https://github.com/dtzxporter/cast)
