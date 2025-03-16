@@ -176,5 +176,5 @@ If you're using a linux build of a tool, and the tool appears too large you can 
 - `WINIT_UNIX_BACKEND=x11`
 - `WINIT_X11_SCALE_FACTOR=1`
 
-### I have a problem not listed here:
+#### I have a problem not listed here:
 If you have an issue not listed here, join the discord server, and describe exactly what you're experiencing. Include crash files, if they exist.
