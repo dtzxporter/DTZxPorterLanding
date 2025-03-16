@@ -161,15 +161,17 @@ Normal map conversion aids in reconstructing normal maps from the game. Does not
 ## 🐞 Troubleshooting
 If you're having trouble running the tools here are a few things you can try:
 
-- If nothing shows at all, or a blank window appears briefly, this usually indicates a driver problem. The solution is updating _both_ your dedicated (if you have one) and integrated gpu drivers. The tools are designed to pick the best device you have, and some older intel/amd drivers have known bugs initializing some graphics apis.
-  - Another workaround for this issue is, all of the tools support environment variables to override the device/api selection. You can set them prior to running the tool:
-    - `WGPU_BACKEND=dx12`
-    - `WGPU_BACKEND=vulkan`
-    - `WGPU_BACKEND=gl` (Not recommended)
-  - This is a complex issue that is hard to reproduce, and a list of broken hardware/driver combinations would be helpful. If you're tech savvy, it would be helpful to submit more information here: [WPU Issues](https://github.com/gfx-rs/wgpu/issues).
-- Some game overlay / performance tools mistake the tools for being a game, due to the way the ui is drawn. Disabling them or blacklisting the tools can also resolve issues.
-- If you're using a linux build of a tool, and the tool appears too large:
-  - Set the following environment variables before running the tool:
-    - `WINIT_UNIX_BACKEND=x11`
-    - `WINIT_X11_SCALE_FACTOR=1`
-- If you have an issue not listed here, join the discord server, and describe exactly what you're experiencing. Include crash files, if they exist.
+### The tools won't open, or open and immediately crash:
+If nothing shows at all, or a blank window appears briefly, this usually indicates a driver problem. The solution is updating _both_ your dedicated (if you have one) and integrated gpu drivers. The tools are designed to pick the best device you have, and some older intel/amd drivers have known bugs initializing some graphics apis.
+
+Some game overlay / performance tools mistake the tools for being a game, due to the way the ui is drawn. Disabling them or blacklisting the tools can also resolve issues.
+
+If all else fails, or you just don't have a working graphics card built in the last 15 years, you can try to run the tools using Google's `swiftshader`. You need to place the `vulkan-1.dll` next to the tool before launching. This may work, but will have performance issues and may not support all texture types, but should allow you to still use the tools.
+
+### Using the tools on linux results in bad gui scaling:
+If you're using a linux build of a tool, and the tool appears too large you can set the following environment variables before running the tool:
+- `WINIT_UNIX_BACKEND=x11`
+- `WINIT_X11_SCALE_FACTOR=1`
+
+### I have a problem not listed here:
+If you have an issue not listed here, join the discord server, and describe exactly what you're experiencing. Include crash files, if they exist.
