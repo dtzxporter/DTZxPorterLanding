@@ -166,7 +166,7 @@ If nothing shows at all, or a blank window appears briefly, this usually indicat
 
 Some game overlay / performance tools mistake the tools for being a game, due to the way the ui is drawn. Disabling them or blacklisting the tools can also resolve issues.
 
-If all else fails, or you just don't have a working graphics card built in the last 15 years, you can try to run the tools using Google's `swiftshader`. You need to place the `vk_swiftshader.dll` next to the tool and rename it to `vulkan-1.dll` before launching. This will work, but may have performance issues and may not support all texture types, but should allow you to still use the tools.
+If all else fails, or you just don't have a working graphics card built in the last 15 years, you can try to run the tools using Google's `swiftshader`. You need to place the `vk_swiftshader.dll` file next to the tool and rename it to `vulkan-1.dll` before launching. This will work, but may have performance issues and may not support all texture types, but should allow you to still use the tools.
 
 #### Every single asset says 'Error' when exporting:
 If every single asset fails to export, this is most likely because your output directory isn't writable, you ran out of disk space, or you forgot to extract the tool from the zip file before running it. Double check, and also set a custom export directory path in settings if necessary.
