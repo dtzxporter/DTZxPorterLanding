@@ -37,7 +37,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
   - Raw Files as-is.
 
 ## 📌 Versioning:
-- 2.17 - Update program library for ui improvements, bug fixes. Support for remainder of missing skinned models in WYB.
+- 2.17 - Update program library for ui improvements, bug fixes. Support for remainder of unsupported skinned models in WYB.
 - 2.16 - Update program library for new user interface, preview options, and settings.
 - 2.15 - Improved animation export performance. Update dependencies.
 - 2.14 - Support blend shapes in WNC/WYB. Add support for hair uvs in WNC.
