@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 thumbnail: assets/tools/vega.png
 description: "The Doom Eternal Asset Extractor"
 order: 3
-date: 2025-03-25
+date: 2025-04-21
 ---
 
 # Vega - The Doom Eternal Asset Extractor
@@ -19,9 +19,9 @@ Extracts all assets from the game "Doom Eternal". This software was developed by
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Vega (v2.50)](https://mega.nz/file/cJgilR6D#7ha7Vc2i96vqYUKV6Q09CKse64RwU3OapXZDzjj8434).
+- Download (Windows x64): [Vega (v2.51)](https://mega.nz/file/UFAxDLAZ#0mlUTmKbb6VcDmdGDHkFznk_7Kw_qhIqva1i5AQrI28).
   - Windows 10+ officially supported.
-- Download (Linux x64): [Vega (v2.50)](https://mega.nz/file/wVJTjL7L#nn_BPvV5Gg3dlI3AdzLBM5tUbdbtUHZzdzFWF9xMNWc).
+- Download (Linux x64): [Vega (v2.51)](https://mega.nz/file/hJIV3bZK#RqTZmt0-UH-BNctEKPa1VWWzc6pRafm0S5zM22wlTkM).
 
 ## 👉 Usage:
 Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/game-tools-tutorial).
@@ -39,6 +39,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **NOTICE:** You should select all `_patchX` .resource files in order to export assets properly. Order doesn't matter.
 
 ## 📌 Versioning:
+- 2.51 - Preview material color parameters.
 - 2.50 - Update program library for ui bug fixes.
 - 2.49 - Update program library for ui improvements, bug fixes.
 - 2.48 - Update program library to fix ui bugs.
