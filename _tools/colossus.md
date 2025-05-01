@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 thumbnail: assets/tools/colossus.png
 description: "The Wolfenstein Asset Extractor"
 order: 6
-date: 2025-04-29
+date: 2025-05-01
 ---
 
 # Colossus - The Wolfenstein Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the games "Wolfenstein New Order", "Wolfenstein Old Blo
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Colossus (v2.19)](https://mega.nz/file/9NglxBqS#I93Qo2CbIyoNmjcS44XKvfm5EEi5mmjBgImcBGKtpNI).
+- Download (Windows x64): [Colossus (v2.20)](https://mega.nz/file/wYBjGajL#wb81RZeRDhArveS87mjsmKdKgSqOU1obJFo8cLIUvmg).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -34,9 +34,13 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
   - Textures as [Dds, Png, Tiff, Tga]
   - Models as [Cast, OBJ, XNALara, SMD, CoD XModel, Maya, FBX].
   - Animations as [Cast].
+  - Sounds as [Wav, Flac, Wem, Bnk].
+    - `Wav/Flac` for WNO/WOB sounds.
+    - `Wem/Bnk` for WNC/WYB sounds.
   - Raw Files as-is.
 
 ## 📌 Versioning:
+- 2.20 - Support for audio files from WNO/WOB. Support for loading *.pack files from WNC/WYB.
 - 2.19 - Performance improvement for initial load of texture cache.
 - 2.18 - Update program library for ui bug fixes.
 - 2.17 - Update program library for ui improvements, bug fixes. Support for remainder of unsupported skinned models in WYB.
