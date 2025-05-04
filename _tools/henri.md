@@ -38,7 +38,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **NOTICE:** You should select all `_patchX` .resource/.pack files in order to export assets properly. Order doesn't matter.
 
 ## 📌 Versioning:
-- 1.18 - Basic support for hair materials in cast.
+- 1.18 - Basic support for hair materials.
 - 1.17 - Full support for vegetation/tree models.
 - 1.16 - Improved AI/NPC animation export support. Support for AI/NPC animation sets (walk cycles, etc).
 - 1.15 - Rework hair support for new cast hair.
