@@ -19,7 +19,7 @@ Extracts all assets from the game "Indiana Jones and the Great Circle". This sof
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Henri (v1.18)](https://mega.nz/file/IdYwVKzJ#AE2GAs7YVto9X7-dUoV4jrCS8vrnc9j0Mu2WcxduTMk).
+- Download (Windows x64): [Henri (v1.19)](https://mega.nz/file/kJoTADTa#bWHvRx89rfeq1_GkEuY1alSGPisvIFfIICLubTHdYjU).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -38,6 +38,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **NOTICE:** You should select all `_patchX` .resource/.pack files in order to export assets properly. Order doesn't matter.
 
 ## 📌 Versioning:
+- 1.19 - Always use higher quality hair models.
 - 1.18 - Basic support for hair materials.
 - 1.17 - Full support for vegetation/tree models.
 - 1.16 - Improved AI/NPC animation export support. Support for AI/NPC animation sets (walk cycles, etc).
