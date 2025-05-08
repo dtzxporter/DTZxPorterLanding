@@ -4,7 +4,7 @@ title: Laura
 feature-img: assets/maya.jpg
 thumbnail: assets/tools/laura.png
 description: "The Evil Within Asset Extractor"
-order: 5
+order: 6
 date: 2025-04-29
 ---
 
