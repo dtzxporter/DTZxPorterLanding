@@ -4,7 +4,7 @@ title: Colossus
 feature-img: assets/maya.jpg
 thumbnail: assets/tools/colossus.png
 description: "The Wolfenstein Asset Extractor"
-order: 6
+order: 7
 date: 2025-05-01
 ---
 
