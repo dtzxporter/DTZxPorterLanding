@@ -38,7 +38,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **NOTICE:** You should select all `_patchX` .resource/.pack files in order to export assets properly. Order doesn't matter.
 
 ## 📌 Versioning:
-- 1.20 - Support destructable models. Initial support for world entities.
+- 1.20 - Support destructible models. Initial support for world entities.
 - 1.19 - Always use higher quality hair models.
 - 1.18 - Basic support for hair materials.
 - 1.17 - Full support for vegetation/tree models.
