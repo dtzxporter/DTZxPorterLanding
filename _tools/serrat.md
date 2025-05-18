@@ -37,7 +37,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **NOTICE:** You should select all `_patchX` .resource files in order to export assets properly. Order doesn't matter.
 
 ## 📌 Versioning:
-- 1.03 - Fix for a small handfull of models.
+- 1.03 - Fix for a small handful of models.
 - 1.02 - Support for vegetation models.
 - 1.01 - Support for animations. Support for hair.
 - 1.00 - Initial Release (BETA).
