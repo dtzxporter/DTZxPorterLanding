@@ -38,7 +38,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **NOTICE:** You should select all `_patchX` .resource files in order to export assets properly. Order doesn't matter.
 
 ## 📌 Versioning:
-- 1.05 - Support for worlds.
+- 1.05 - Support for worlds. Support for bink raw files.
 - 1.04 - Fix scale of some models and animations.
 - 1.03 - Fix for a small handful of models.
 - 1.02 - Support for vegetation models.
