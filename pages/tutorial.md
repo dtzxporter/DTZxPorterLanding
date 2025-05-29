@@ -38,6 +38,8 @@ To preview an asset, you can press `(P)` to open the preview window. Select the 
   - `Shift + Middle Mouse` = Pan.
   - `Alt + Middle Mouse` = Zoom.
 
+If you hold `Alt` while selecting an asset to preview, it will allow you to preview the asset as if it's a raw file, instead of a converted asset.
+
 ## 🕵️ Searching for assets
 You can search for assets using text, or specially formatted text commands to narrow down your search. Each command must be separated by a comma `,` and up to 5 commands can be searched for at once. By default, a property command value is assumed to be equal, but you can use the operators `>`, `<`, `>=`, `<=` to change that.
 
