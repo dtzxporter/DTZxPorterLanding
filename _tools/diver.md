@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 thumbnail: assets/tools/diver.png
 description: "The Helldivers 2 Asset Extractor"
 order: 1
-date: 2025-08-26
+date: 2025-10-04
 ---
 
 # Diver - The Helldivers 2 Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the game "Helldivers 2". This software was developed by
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Diver (v1.54)](https://mega.nz/file/AAZ22DpY#eF845KLytbZbyhhwHjM0OCHuQhuLzqg9BRMdAhSDJsY).
+- Download (Windows x64): [Diver (v1.55)](https://mega.nz/file/FJRlQaAJ#ay4szboaWjWnfTcPciFVbZbB-_-IS-aKBtV8XPq2miY).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -33,7 +33,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
   - Models as [Cast, OBJ, XNALara, SMD, CoD XModel, Maya, FBX].
   - Animations as [Cast].
   - Worlds as [Cast].
-  - Sounds as [Wem, Bnk].
+  - Sounds as [Wav, Flac, Bnk].
   - Raw Files as-is.
 
 > **NOTE:** This tool does it's best to export known materials with a model. In some cases, the models use dynamic shaders, and materials (for skins, variants, etc) and you won't get textures with that model. You can export materials separately as well as images.
@@ -42,6 +42,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 There is a community effort to name assets for easier use. You can download or contribute to the database here: [hd2-name-db](https://github.com/dtzxporter/hd2-name-db).
 
 ## 📌 Versioning:
+- 1.55 - Support for audio conversion and preview. Update program library for bug fixes and improvements.
 - 1.54 - Support for exporting package metadata as text.
 - 1.53 - Initial support for worlds and terrain models.
 - 1.52 - Support vegetation models.
