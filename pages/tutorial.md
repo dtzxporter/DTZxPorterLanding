@@ -62,6 +62,9 @@ You can search for assets using text, or specially formatted text commands to na
   - `height` Searches the height property, usually for images.
     - Defaults to 0 for non-supported assets.
     - Supports `>`, `<`, and equals.
+  - `channels` Searches the channels property, usually for sounds.
+    - Defaults to 0 for non-supported assets.
+    - Supports `>`, `<`, and equals.
 - Search asset names:
   - By default, search will check if the name contains the given text.
   - If you prefix your text with `!`, it will check if the name does not contain the given text.
@@ -110,8 +113,8 @@ You can customize the export directory using the "Browse" button.
 ### Settings - Models
 - Cast - Export models in cast format. [Plugins](https://github.com/dtzxporter/cast)
 - OBJ - Export models in obj format.
-- Valve SMD - Export models in smd format. [SDK](https://developer.valvesoftware.com/wiki/Maya#Source_SDK_plug-ins)
-- XNALara - Export models in xnalara format. [Blender](https://github.com/johnzero7/XNALaraMesh)
+- Valve SMD - Export models in smd format. [Maya SDK](https://developer.valvesoftware.com/wiki/Maya#Source_SDK_plug-ins) | [Blender SDK](https://developer.valvesoftware.com/wiki/Blender_Source_Tools)
+- XNALara - Export models in xnalara format. [Blender 3.x](https://github.com/johnzero7/XNALaraMesh) | [Blender 4.x](https://github.com/Valerie-Bosco/XNALara-io-Tools)
 - CoD XModel - Export models in xmodel_export format.
 - Autodesk Maya - Export models in ma format. [Maya](https://www.autodesk.com/products/maya)
 - FBX - Export models in fbx format.
@@ -121,6 +124,7 @@ You can customize the export directory using the "Browse" button.
 ### Settings - Images
 - Image file type `DDS`:
   - Typically the source format for the game.
+  - Supports both sRGB and linear textures.
   - Requires latest [Paint.NET](https://www.getpaint.net/) or [Photoshop Plugin](https://github.com/GameTechDev/Intel-Texture-Works-Plugin).
   - Does not work properly in Blender or Maya and many other editors.
 - Image file type `PNG`:
@@ -133,7 +137,7 @@ You can customize the export directory using the "Browse" button.
   - This is a recommended format.
 - Image file type `TGA`:
   - Sometimes lossless converted from in-game formats.
-  - Doesn't support any particular color space.
+  - Does not contain color space information.
   - Will be significantly larger than any other format.
 
 Normal map conversion aids in reconstructing normal maps from the game. Does not affect the previewer.
@@ -179,4 +183,4 @@ If you're using a linux build of a tool, and the tool appears too large you can 
 - `WINIT_X11_SCALE_FACTOR=1`
 
 #### I have a problem not listed here:
-If you have an issue not listed here, join the discord server, and describe exactly what you're experiencing. Include crash files, if they exist.
+If you have an issue not listed here, join the discord server, and describe exactly what you're experiencing. Include crash files, if they exist and the steps you took to reproduce the issue.
