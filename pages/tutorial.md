@@ -113,8 +113,8 @@ You can customize the export directory using the "Browse" button.
 ### Settings - Models
 - Cast - Export models in cast format. [Plugins](https://github.com/dtzxporter/cast)
 - OBJ - Export models in obj format.
-- Valve SMD - Export models in smd format. [Maya SDK](https://developer.valvesoftware.com/wiki/Maya#Source_SDK_plug-ins) | [Blender SDK](https://developer.valvesoftware.com/wiki/Blender_Source_Tools)
-- XNALara - Export models in xnalara format. [Blender 3.x](https://github.com/johnzero7/XNALaraMesh) | [Blender 4.x](https://github.com/Valerie-Bosco/XNALara-io-Tools)
+- Valve SMD - Export models in smd format. [Maya SDK](https://developer.valvesoftware.com/wiki/Maya#Source_SDK_plug-ins) / [Blender SDK](https://developer.valvesoftware.com/wiki/Blender_Source_Tools)
+- XNALara - Export models in xnalara format. [Blender 3.x](https://github.com/johnzero7/XNALaraMesh) / [Blender 4.x](https://github.com/Valerie-Bosco/XNALara-io-Tools)
 - CoD XModel - Export models in xmodel_export format.
 - Autodesk Maya - Export models in ma format. [Maya](https://www.autodesk.com/products/maya)
 - FBX - Export models in fbx format.
