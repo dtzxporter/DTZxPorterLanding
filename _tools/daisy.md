@@ -4,7 +4,7 @@ title: Daisy
 feature-img: assets/maya.jpg
 thumbnail: assets/tools/daisy.png
 description: "The Doom 2016 Mega Texture Mod Kit"
-order: 10
+order: 11
 date: 2025-09-08
 ---
 

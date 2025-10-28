@@ -3,7 +3,7 @@ layout: post
 title: "Wraith Archon"
 thumbnail: assets/tools/wraith-archon.png
 description: "The Call of Duty Asset Extractor"
-order: 9
+order: 10
 date: 2018-09-08
 ---
 
