@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 thumbnail: assets/tools/hunter.png
 description: "The TD, TD2, AFOP, XDEF, SWOL Asset Extractor"
 order: 0
-date: 2025-10-09
+date: 2025-11-05
 ---
 
 # Hunter - The TD, TD2, AFOP, XDEF, SWOL Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the games "The Division", "The Division 2", "Avatar Fro
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Hunter (v2.19)](https://mega.nz/file/BF5CgQpL#PAtfusZ7Y0mP_H52Xmp004qYJ6DJ6yCEUoavwOq58FE).
+- Download (Windows x64): [Hunter (v2.20)](https://mega.nz/file/NBhhSZQS#DcAczZErlDUUsU9_a0cjBo9P0thSU0CD8lS0VqTIkGE).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -40,6 +40,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **NOTE:** There is no need to open the `sdf_streaming` toc file, as it only references assets in the main toc file.
 
 ## 📌 Versioning:
+- 2.20 - Update program library to fix a TGA export bug.
 - 2.19 - Update program library for bug fixes.
 - 2.18 - Update program library for bug fixes and improvements.
 - 2.17 - Update program library for ui improvements.
