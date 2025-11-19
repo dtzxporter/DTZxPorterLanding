@@ -38,7 +38,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **NOTICE:** You should select all `_patchX` .resource/.pack files in order to export assets properly. Order doesn't matter.
 
 ## 📌 Versioning:
-- 1.25 - Support for backwards compatible patchs.
+- 1.25 - Support for backwards compatible patch loading.
 - 1.24 - Update program library to fix a TGA export bug.
 - 1.23 - Update program library for bug fixes and improvements.
 - 1.22 - Support for the latest game patch.
