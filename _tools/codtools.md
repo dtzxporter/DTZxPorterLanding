@@ -2,13 +2,15 @@
 layout: post
 title: CODTools
 thumbnail: assets/tools/codtools.png
-description: "Exports xmodel, xanim export and bin files directly from Maya (2013+)"
+description: "Exports xmodel, xanim export and bin files directly from Maya (2013-2024)"
 order: 9999
 date: 2019-01-04
 ---
 
 # CODTools (Autodesk Maya Exporter)
-Exports `xmodel, xanim` export and bin files directly from Maya (2013+).
+Exports `xmodel, xanim` export and bin files directly from Maya (2013-2024).
+
+> **NOTICE:** Starting with Maya 2025+ the plugin no longer loads properly.
 
 ## Installation:
 
