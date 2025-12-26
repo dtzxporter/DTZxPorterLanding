@@ -35,7 +35,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
   - Raw Files as-is.
     - Hunter will decompile binary graph objects to their 'light' text format on export.
 
-> **NOTE:** This tool only exports assets as-is, without attempting to link models to their materials because not all games actually use materials for asset. The game uses complex scene graphs which would require too much effort to automate, however, most of a model's textures have similar names to each other. It's very easy to locate the textures for a model yourself.
+> **NOTE:** This tool exports models without their materials because the game uses complex scene graphs which would require too much effort to automate, however, most of a model's textures have similar names to each other. It's very easy to locate the textures for a model yourself.
 
 > **NOTE:** There is no need to open the `sdf_streaming` toc file, as it only references assets in the main toc file.
 
