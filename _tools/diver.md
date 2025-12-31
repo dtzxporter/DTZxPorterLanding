@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 thumbnail: assets/tools/diver.png
 description: "The Helldivers 2 Asset Extractor"
 order: 1
-date: 2025-12-09
+date: 2025-12-31
 ---
 
 # Diver - The Helldivers 2 Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the game "Helldivers 2". This software was developed by
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Diver (v1.58)](https://mega.nz/file/BVgiiLTR#vEvOz5BzRSOA0AeVL_PdXJUq1tQKFtuHGWJMuj-JtkI).
+- Download (Windows x64): [Diver (v1.59)](https://mega.nz/file/BcQyXLII#BwjBgCvt4TbvFqicvVQSiCrKCsc-Ea1dVl0COISRulw).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -42,6 +42,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 There is a community effort to name assets for easier use. You can download or contribute to the database here: [hd2-name-db](https://github.com/dtzxporter/hd2-name-db).
 
 ## 📌 Versioning:
+- 1.59 - Update program library for general improvements.
 - 1.58 - Support for the new slim version. Update program library for bug fixes and improvements.
 - 1.57 - Update program library to fix a TGA export bug.
 - 1.56 - Update program library for bug fixes.
