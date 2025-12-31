@@ -42,7 +42,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 There is a community effort to name assets for easier use. You can download or contribute to the database here: [hd2-name-db](https://github.com/dtzxporter/hd2-name-db).
 
 ## 📌 Versioning:
-- 1.59 - Update program library for general improvements.
+- 1.59 - Update program library for general improvements. Fixes for vegetation models.
 - 1.58 - Support for the new slim version. Update program library for bug fixes and improvements.
 - 1.57 - Update program library to fix a TGA export bug.
 - 1.56 - Update program library for bug fixes.
