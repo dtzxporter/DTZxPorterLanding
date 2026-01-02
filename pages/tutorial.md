@@ -7,7 +7,7 @@ feature-img: assets/donate.jpg
 ---
 
 # Game Tools Tutorial
-An overview of all of my modern game tools (released in 2023+) all tools will share the same UI and settings going forward.
+An overview of all of my modern game tools all tools will share the same UI and settings going forward.
 
 > **NOTICE:** If you're having trouble running the tools, see troubleshooting at the bottom of this page.
 
@@ -89,12 +89,14 @@ bonecount:100,!fire
 - Not Supported - The asset is currently not supported for export.
 - Exporting - The asset is currently exporting in parallel.
 - Exported - The asset was exported successfully.
-- Error - An error occured while exporting this asset, you should report the name of it to me. (Make sure you didn't run out of disk space.)
+- Error - An error occured while exporting this asset.
+
+> **NOTICE**: If you get an error status, you should report the full name of the asset to me.
 
 ## ⚙️ Tool Settings
 Here is a list of all of the configurable tool settings and a description that goes with it:
 
-### Settings - General
+### General Settings
 - Load Models - Show assets that are models.
 - Load Animations - Show assets that are animations.
 - Load Images - Show assets that are images.
@@ -102,7 +104,7 @@ Here is a list of all of the configurable tool settings and a description that g
 - Load Sounds - Show assets that are sounds.
 - Load Raw Files - Show assets that are loose files, or not directly convertable.
 
-You can customize the export directory using the "Browse" button.
+> You can customize the export directory using the "Browse" button.
 
 - Automatically scale assets - Scales assets from in-game units to source / editor units (Recommended).
   - If the game uses meters, then the units will be `*= 100`.
@@ -110,7 +112,7 @@ You can customize the export directory using the "Browse" button.
   - If the game uses centimeters, then the units will be `*= 1.0`.
 - Custom scale - Applies a user provided scale factor to the assets: `*= factor`.
 
-### Settings - Models
+### Model Settings
 - Cast - Export models in cast format. [Plugins](https://github.com/dtzxporter/cast)
 - OBJ - Export models in obj format.
 - Valve SMD - Export models in smd format. [Maya SDK](https://developer.valvesoftware.com/wiki/Maya#Source_SDK_plug-ins) / [Blender SDK](https://developer.valvesoftware.com/wiki/Blender_Source_Tools)
@@ -119,13 +121,19 @@ You can customize the export directory using the "Browse" button.
 - Autodesk Maya - Export models in ma format. [Maya](https://www.autodesk.com/products/maya)
 - FBX - Export models in fbx format.
 
+Customize how materials are exported with models.
+
+- Skip - Do not export materials with models.
+- In Models Folder - Include materials for the model in the `_images` folder next to the model.
+- In Materials Folder - Export materials in the materials folder and link to them in the model.
+
 > **WARNING:** Some model formats only support a limited amount of model features. For the best compatibility with any game, use Cast with a proper plugin.
 
-### Settings - Images
+### Image Settings
 - Image file type `DDS`:
   - Typically the source format for the game.
   - Supports both sRGB and linear textures.
-  - Requires latest [Paint.NET](https://www.getpaint.net/) or [Photoshop Plugin](https://github.com/GameTechDev/Intel-Texture-Works-Plugin).
+  - Requires latest [Paint.NET](https://www.getpaint.net/) or one of these plugins [Intel Photoshop](https://github.com/GameTechDev/Intel-Texture-Works-Plugin) / [NVIDIA Photoshop](https://developer.nvidia.com/texture-tools-exporter).
   - Does not work properly in Blender or Maya and many other editors.
 - Image file type `PNG`:
   - Lossless converted from in-game formats.
@@ -151,17 +159,19 @@ Normal map conversion aids in reconstructing normal maps from the game. Does not
   - Regenerates the Z channel from XY like the game does.
   - Ensures that Y is facing the correct "DirectX" direction.
 
-### Settings - Animations
+### Animation Settings
 - Cast - Export animations in cast format. [Plugins](https://github.com/dtzxporter/cast)
 
-### Settings - Audio
+> **WARNING:** In some editors, Cast animations will only import correctly when applied to a Cast model. For best compatibility, you should use Cast models as well, no support will be provided otherwise.
+
+### Sound Settings
 - Wav - Export audio in wav format.
   - Lossless but takes up more space than flacs.
 - Flac - Export audio in flac format.
   - Lossless and will take up less space than the wavs.
 
 ### Settings - Advanced
-- Treat all assets as raw files (Not Recommended).
+- Treat all assets as raw files.
   - Forces all assets to load and display as-is without conversion.
 
 ## 🐞 Troubleshooting
