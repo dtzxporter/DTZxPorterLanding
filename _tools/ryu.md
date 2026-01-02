@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 thumbnail: assets/tools/ryu.png
 description: "The Ninja Gaiden 4 Asset Extractor"
 order: 5
-date: 2025-01-01
+date: 2026-01-01
 ---
 
 # Ryu - The Ninja Gaiden 4 Asset Extractor
