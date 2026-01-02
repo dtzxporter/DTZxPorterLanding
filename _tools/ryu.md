@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 thumbnail: assets/tools/ryu.png
 description: "The Ninja Gaiden 4 Asset Extractor"
 order: 5
-date: 2025-12-09
+date: 2025-01-01
 ---
 
 # Ryu - The Ninja Gaiden 4 Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the game "Ninja Gaiden 4". This software was developed 
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Ryu (v1.03)](https://mega.nz/file/tABFXQxT#mP1hcHaoEA9Xi8HJnoF6Bt8k5wuei0ndsR-VokTaBD8).
+- Download (Windows x64): [Ryu (v1.04)](https://mega.nz/file/5RIFxBCR#6RejltPnNNzJjjWhcGCaVJTGE2zK9M7ls4oDw0TBjYw).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -35,6 +35,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
   - Raw Files as-is.
 
 ## 📌 Versioning:
+- 1.04 - Update program library for general improvements. General performance improvements.
 - 1.03 - Update program library for bug fixes and improvements.
 - 1.02 - Update program library to fix a TGA export bug.
 - 1.01 - Support for animations, you must re-export any models.
