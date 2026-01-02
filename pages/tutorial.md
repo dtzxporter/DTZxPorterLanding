@@ -104,7 +104,7 @@ Here is a list of all of the configurable tool settings and a description that g
 - Load Sounds - Show assets that are sounds.
 - Load Raw Files - Show assets that are loose files, or not directly convertable.
 
-> You can customize the export directory using the "Browse" button.
+You can customize the export directory using the "Browse" button.
 
 - Automatically scale assets - Scales assets from in-game units to source / editor units (Recommended).
   - If the game uses meters, then the units will be `*= 100`.
