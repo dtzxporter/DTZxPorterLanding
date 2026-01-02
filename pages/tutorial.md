@@ -170,7 +170,7 @@ Normal map conversion aids in reconstructing normal maps from the game. Does not
 - Flac - Export audio in flac format.
   - Lossless and will take up less space than the wavs.
 
-### Settings - Advanced
+### Advanced Settings
 - Treat all assets as raw files.
   - Forces all assets to load and display as-is without conversion.
 
