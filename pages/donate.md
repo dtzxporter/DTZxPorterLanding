@@ -10,7 +10,7 @@ feature-img: assets/donate.jpg
 Creating the best game ripping and modding tools takes a lot of time. Any amount contributed helps me spend more time working on them.
 
 - All contributions go directly back into games to make tools for.
-  - This includes content like DLCs, most of the games I make tools for I don't even play!
+  - This includes content like DLCs, some of the games I make tools for I don't even play!
 - I do not take requests, or give early access for donations in addition:
   - It's not fair to people who can't afford to donate.
   - Only donate if you want to support my tools and future work!
