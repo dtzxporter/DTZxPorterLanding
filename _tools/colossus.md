@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 thumbnail: assets/tools/colossus.png
 description: "The Wolfenstein Asset Extractor"
 order: 8
-date: 2025-12-15
+date: 2026-01-03
 ---
 
 # Colossus - The Wolfenstein Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the games "Wolfenstein New Order", "Wolfenstein Old Blo
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Colossus (v2.30)](https://mega.nz/file/dUhFFYqA#vNjhS8Gp98DsEV8MrUrRSecSxEpabrni1W0xTA_1wjE).
+- Download (Windows x64): [Colossus (v2.31)](https://mega.nz/file/dQ5R2JJA#E6xLy7f6yyh4-x1jd7djCm0sKYUgz0A4e06wxwhBEnk).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -43,6 +43,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **NOTICE:** World materials for WNO/WOB are exported in udim format. They are extremely large and require a lot of disk space and memory to use properly. Some software may handle them better than others.
 
 ## 📌 Versioning:
+- 2.31 - Update program library for general improvements. Fixed scale of WNO/WOB world entities.
 - 2.30 - Support for WNO/WOB world entities. Fix for handful of models from WNC/WYB that failed to export.
 - 2.29 - Optimized WNO/WOB world udims. Support for WNO/WOB world alpha layer.
 - 2.28 - Support for WNO/WOB world materials as udims. Support for lowgore editions of WNO/WOB.
