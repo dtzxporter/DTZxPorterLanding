@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 thumbnail: assets/tools/raindrop.png
 description: "The AFOP, Outlaws Mod Loader"
 order: 11
-date: 2026-03-21
+date: 2026-03-27
 ---
 
 # Raindrop - The AFOP, Outlaws Mod Loader
@@ -21,7 +21,7 @@ Allows modding the games "Avatar Frontiers of Pandora", and "Star Wars Outlaws" 
 
 > **NOTICE:** Please link back to this page in order for others to install raindrop to ensure they're using the latest version.
 
-- Download (Windows x64): [Raindrop (v1.00)](https://mega.nz/file/MFw0nL4Z#XdOLBIb7dCy__oxXFSflOQ6wcrlFBSkUBs4tv4eEKpY).
+- Download (Windows x64): [Raindrop (v1.01)](https://mega.nz/file/UZpHiDTZ#h-240tUw-NOq9AKXLY9vFwkuv0qlwkRTDQjdoVxBhnQ).
   - Windows 10+ officially supported.
   - Some users have reported success on linux via wine.
 
@@ -37,4 +37,5 @@ Raindrop loads loose files when placed in the correct folders next to the game. 
 - That's it! Be on the lookout for the "Raindrop" logo on the main menu to know it loaded properly.
 
 ## 📌 Versioning:
+- 1.01 - Improve streaming performance.
 - 1.00 - Initial Release.
