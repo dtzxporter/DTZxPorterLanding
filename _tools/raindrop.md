@@ -37,6 +37,6 @@ Raindrop loads loose files when placed in the correct folders next to the game. 
 - That's it! Be on the lookout for the "Raindrop" logo on the main menu to know it loaded properly.
 
 ## 📌 Versioning:
-- 1.02 - Fix crash that randomly occured in outlaws.
+- 1.02 - Fix crash that randomly occurred in outlaws.
 - 1.01 - Improve streaming performance.
 - 1.00 - Initial Release.
