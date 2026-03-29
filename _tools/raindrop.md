@@ -21,7 +21,7 @@ Allows modding the games "Avatar Frontiers of Pandora", and "Star Wars Outlaws" 
 
 > **NOTICE:** Please link back to this page in order for others to install raindrop to ensure they're using the latest version.
 
-- Download (Windows x64): [Raindrop (v1.01)](https://mega.nz/file/UZpHiDTZ#h-240tUw-NOq9AKXLY9vFwkuv0qlwkRTDQjdoVxBhnQ).
+- Download (Windows x64): [Raindrop (v1.02)](https://mega.nz/file/sVQWWSzJ#f3gIrit4jFzuMZoaRSXynGDjcE7dTUj8J7eXYKlkiv0).
   - Windows 10+ officially supported.
   - Some users have reported success on linux via wine.
 
@@ -37,5 +37,6 @@ Raindrop loads loose files when placed in the correct folders next to the game. 
 - That's it! Be on the lookout for the "Raindrop" logo on the main menu to know it loaded properly.
 
 ## 📌 Versioning:
+- 1.02 - Fix crash that randomly occured in outlaws.
 - 1.01 - Improve streaming performance.
 - 1.00 - Initial Release.
