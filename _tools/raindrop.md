@@ -40,7 +40,7 @@ Raindrop loads loose files when placed in the correct folders next to the game. 
 A collection of small tools that will help with modding games that Raindrop supports.
 
 - `uidrehash` Generates new hashes for the `uiddata` files in Avatar Frontiers of Pandora.
-  - Drag and drop `uidata` files into the exe.
+  - Drag and drop `uiddata` files into the exe.
   - [Download (v1.00)](https://mega.nz/file/pNQCHYQR#GLzjgZP4ysn8mvWKVtvy9IdNZyE216iYob3YqonaqGQ)
 
 ## 📌 Versioning:
