@@ -36,6 +36,13 @@ Raindrop loads loose files when placed in the correct folders next to the game. 
     - Star Wars Outlaws: `outlaws.exe`, `outlaws_plus.exe`.
 - That's it! Be on the lookout for the "Raindrop" logo on the main menu to know it loaded properly.
 
+## ⚙️ Utilities
+A collection of small tools that will help with modding games that Raindrop supports.
+
+- `uidrehash` Generates new hashes for the `uiddata` files in Avatar Frontiers of Pandora.
+  - Drag and drop `uidata` files into the exe.
+  - [Download (v1.00)](https://mega.nz/file/pNQCHYQR#GLzjgZP4ysn8mvWKVtvy9IdNZyE216iYob3YqonaqGQ)
+
 ## 📌 Versioning:
 - 1.02 - Fix crash that randomly occurred in outlaws.
 - 1.01 - Improve streaming performance.
