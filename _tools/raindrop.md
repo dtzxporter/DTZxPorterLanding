@@ -31,7 +31,7 @@ Raindrop loads loose files when placed in the correct folders next to the game. 
 ### Installation
 - Unzip the latest raindrop above.
 - Copy `dinput8.dll` to the installation directory of one of the supported titles.
-  - It should be placed next to one of the following files:
+  - It should be placed in the same folder as one of the following files:
     - Avatar Frontiers of Pandora: `afop.exe`, `afop_plus.exe`.
     - Star Wars Outlaws: `outlaws.exe`, `outlaws_plus.exe`.
 - That's it! Be on the lookout for the "Raindrop" logo on the main menu to know it loaded properly.
