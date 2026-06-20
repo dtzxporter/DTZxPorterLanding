@@ -32,6 +32,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
   - Textures as [Dds, Png, Tiff, Tga]
   - Models as [Cast, OBJ, XNALara, SMD, CoD XModel, Maya, FBX].
   - Animations as [Cast].
+  - Sounds as [Wav, Flac, Bnk].
   - Raw Files as-is.
     - Hunter will decompile binary graph objects to their 'light' text format on export.
 
@@ -40,7 +41,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **NOTE:** There is no need to open the `sdf_streaming` toc file, as it only references assets in the main toc file.
 
 ## 📌 Versioning:
-- 2.24 - Update program library for bug fixes.
+- 2.24 - Update program library for bug fixes. Support exporting sound assets.
 - 2.23 - Update program library to fix a preview bug.
 - 2.22 - Update program library for general improvements.
 - 2.21 - Update program library for bug fixes and improvements.
