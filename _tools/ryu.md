@@ -35,7 +35,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
   - Raw Files as-is.
 
 ## 📌 Versioning:
-- 1.06 - Update program library for bug fixes.
+- 1.06 - Update program library for bug fixes. Fix missing localized assets.
 - 1.05 - Update program library to fix a preview bug.
 - 1.04 - Update program library for general improvements. General performance improvements.
 - 1.03 - Update program library for bug fixes and improvements.
