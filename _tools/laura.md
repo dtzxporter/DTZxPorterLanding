@@ -9,7 +9,12 @@ date: 2026-06-20
 ---
 
 # Laura - The Evil Within Asset Extractor
-Extracts all assets from the games "Evil Within" and "Evil Within 2". This software was developed by [DTZxPorter](https://twitter.com/dtzxporter) & id-daemon.
+Extracts all assets from the games:
+
+- "Evil Within"
+- "Evil Within 2"
+
+This software was developed by [DTZxPorter](https://twitter.com/dtzxporter) & id-daemon.
 
 ## ❤️ Donate:
 - I take time out of my day to make this happen.

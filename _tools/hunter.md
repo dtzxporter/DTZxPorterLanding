@@ -9,7 +9,15 @@ date: 2026-06-20
 ---
 
 # Hunter - The TD, TD2, AFOP, XDEF, SWOL Asset Extractor
-Extracts all assets from the games "The Division", "The Division 2", "Avatar Frontiers of Pandora", "XDefiant", and "Star Wars Outlaws". This software was developed by [DTZxPorter](https://twitter.com/dtzxporter).
+Extracts all assets from the games:
+
+- "The Division"
+- "The Division 2"
+- "Avatar Frontiers of Pandora"
+- "XDefiant"
+- "Star Wars Outlaws"
+
+This software was developed by [DTZxPorter](https://twitter.com/dtzxporter).
 
 ## ❤️ Donate:
 - I take time out of my day to make this happen.
