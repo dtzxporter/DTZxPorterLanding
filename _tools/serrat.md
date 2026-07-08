@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 thumbnail: assets/tools/serrat.png
 description: "The Doom The Dark Ages Asset Extractor"
 order: 2
-date: 2026-07-07
+date: 2026-07-08
 ---
 
 # Serrat - The Doom The Dark Ages Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the game "Doom The Dark Ages". This software was develo
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Serrat (v1.20)](https://mega.nz/file/sRwVmZpL#u9Pw5pzEwKzxgVq1F3qRCLeHxydPJ-6681Dl8o94Jyg).
+- Download (Windows x64): [Serrat (v1.21)](https://mega.nz/file/xFgGFZJA#drv_1X3Q16JUNB-VVlkXrOiuvbgr5Rbvu_Bx9enz0gU).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -38,6 +38,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **NOTICE:** You should select all `_patchX` .resource files in order to export assets properly. Order doesn't matter.
 
 ## 📌 Versioning:
+- 1.21 - Support non-default scaled animations.
 - 1.20 - Support for latest game patch and dlc. Update program library for bug fixes and improvements.
 - 1.19 - Update program library for bug fixes.
 - 1.18 - Update program library to fix a preview bug.
