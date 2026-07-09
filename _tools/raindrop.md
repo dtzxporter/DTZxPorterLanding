@@ -9,7 +9,12 @@ date: 2026-03-27
 ---
 
 # Raindrop - The AFOP, Outlaws Mod Loader
-Allows modding the games "Avatar Frontiers of Pandora", and "Star Wars Outlaws" by loading assets on disk.
+Allows modding the games:
+
+- "Avatar Frontiers of Pandora"
+- "Star Wars Outlaws"
+ 
+by loading assets on disk.
 
 ## ❤️ Donate:
 - I take time out of my day to make this happen.
