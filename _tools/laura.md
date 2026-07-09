@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 thumbnail: assets/tools/laura.png
 description: "The Evil Within Asset Extractor"
 order: 7
-date: 2026-06-20
+date: 2026-07-09
 ---
 
 # Laura - The Evil Within Asset Extractor
@@ -24,7 +24,7 @@ This software was developed by [DTZxPorter](https://twitter.com/dtzxporter) & id
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Laura (v3.29)](https://mega.nz/file/EYBTkKoJ#3bpapgKBFzxthuHsxckq3MmtNUA4l7RQwWVzHkJ2MuM).
+- Download (Windows x64): [Laura (v3.30)](https://mega.nz/file/lRBihIIK#jOmB48XgKgqNc3SL05tpwwFdgo46qdGgqp7TgA3enhQ).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -48,6 +48,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **NOTICE:** Patches are automatically loaded for you.
 
 ## 📌 Versioning:
+- 3.30 - Update program library for bug fixes and improvements.
 - 3.29 - Update program library for bug fixes.
 - 3.28 - Update program library to fix a preview bug.
 - 3.27 - Update program library for general improvements. Fix small handful of EW1 specular maps.
