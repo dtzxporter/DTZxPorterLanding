@@ -21,10 +21,10 @@ Allows creation of mega texture mods that can be distributed alongside other gam
 
 > **NOTICE:** Please link back to this page in order for others to install the daisy mod to ensure they're using the latest version. Modpacks will be backwards compatible going forward.
 
-- Download (Windows x64): [Daisy Mod (v1.03)](https://mega.nz/file/oVwlGKhK#wD0GEKlcha1hWPCNs0jZFTFrZbGXvogsg0MXT_znccM).
+- Download (Windows x64): [Daisy Mod (v1.03)](https://tools.dtzxporter.com/daisy/DaisyModReleasev1.03.zip).
   - Windows 10+ officially supported.
   - Some users have reported success on linux via wine.
-- Download (Windows x64): [Daisy Editor (v1.03)](https://mega.nz/file/ZN5VlQ7C#LXUgXnn9gDZwBvF8szPqn-LQr0SVfTvqTjpn2YzSJ20).
+- Download (Windows x64): [Daisy Editor (v1.03)](https://tools.dtzxporter.com/daisy/DaisyEditorReleasev1.03.zip).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
