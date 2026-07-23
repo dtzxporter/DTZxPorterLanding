@@ -10,7 +10,7 @@ date: 2021-11-04
 # ExportX (Export2Bin Replacement)
 Converts `_export` files to `_bin` files and `vise-versa`
 
-## [>> Download <<](https://mega.nz/file/xUpnWBQK#Tr-xIJ87jw2DoJURO5NZ63ZI_1ON3kI4Zx2XtG2wF7o)
+## [>> Download <<](https://tools.dtzxporter.com/exportx/exportx.zip)
 
 ## Usage
 Either `Drag and Drop` file(s) onto the program, or use the command line -f to specify a file or folder of files to convert.
