@@ -13,7 +13,7 @@ _Download and version info:_
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [Reforge (v1.00)](https://mega.nz/file/9EIkXCoQ#KL5Ru-qTdNZ3VmdzZulTvQ0KGcpJ6VBg8JZu87ETJ-o).
+- Download Link: [Reforge (v1.00)](https://tools.dtzxporter.com/reforge/Reforgev1.00.zip).
 - Requires Visual Studio 2013 x64 Redist: [Redist](https://download.microsoft.com/download/0/5/6/056dcda9-d667-4e27-8001-8a0c6971d6b1/vcredist_x64.exe).
 
 ## ❤️ Donate:
