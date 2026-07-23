@@ -14,7 +14,7 @@ _Download and version info:_
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [DayZATool](https://mega.nz/#!IdZDXQrI!re3Tq0SoSjyhTPTCZMZe28t0vaS11q1SzkwLaO3u8JM).
+- Download Link: [DayZATool](https://tools.dtzxporter.com/dayzatool/DayZAToolv1.3.zip).
 - Requires .NET Framework (4.5): [Download](https://www.microsoft.com/en-us/download/details.aspx?id=30653).
 
 ## Donate:
