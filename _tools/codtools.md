@@ -14,7 +14,7 @@ Exports `xmodel, xanim` export and bin files directly from Maya (2013-2024).
 
 ## Installation:
 
-Download the latest [CODTools](https://mega.nz/#!REA3GaKJ!zGPZkugi8VDo7Ce0XMpQ1L7eq8evJrG5dWMgfdzyTdM) for your Maya **version** and **arch**, and save it in the following directory depending on your OS and Maya version:
+Download the latest [CODTools](https://tools.dtzxporter.com/cod_tools/CODToolsPlugins.zip) for your Maya **version** and **arch**, and save it in the following directory depending on your OS and Maya version:
 - 32bit Windows: C:\Program Files(x86)\AutoDesk\Maya-ver\bin\plug-ins\
 - 64bit Windows: C:\Program Files\AutoDesk\Maya-ver\bin\plug-ins\
 
@@ -34,7 +34,6 @@ _Models:_
 - To export a model with !!Cosmetic Bones!!, use `File->Export All` then enter in the tag name of the cosmetic root bone.
 
 _Animations:_
-
 - To export an animation quickly, set the scene time, then select the bones to export, or select nothing to export all. Use the `CODTools->Export XAnim` command to save the file.
 - To export a !!Siege Anim!! use `File->Export All` then select the `CoD SIEGE_ANIM_SOURCE` type before saving.
 - By default, SEAnim notetracks will be added to the anim, you can turn this off via `File->Export All` configuration.
