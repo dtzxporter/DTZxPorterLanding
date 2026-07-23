@@ -19,9 +19,9 @@ Converts *.seanim and *.semodel to *.cast without losing any information.
 
 > **IMPORTANT:** This software comes with no warranty what so ever.
 
-- Download (Windows x64): [SECast (v2.00)](https://mega.nz/file/hNYgTBzQ#_wjp4ZFYQSLeJIIz_kQ5dROkc0r2oQa-3DsuZA9VC4c).
-- Download (Linux x64): [SECast (v2.00)](https://mega.nz/file/NBhhmB5K#PhnskhUi48eOGqgGYYTrXQ14GtnFkTBPtx8EvQq12cE).
-- Download (macOS ARM): [SECast (v2.00)](https://mega.nz/file/JJR0xYwI#hd_rJKQgiQI-6sJjUZuiR78zzhDlH8fcsBN0e3mbopg).
+- Download (Windows x64): [SECast (v2.00)](https://tools.dtzxporter.com/secast/Secast-v2.0.0.zip).
+- Download (Linux x64): [SECast (v2.00)](https://tools.dtzxporter.com/secast/Secast-v2.0.0.AppImage).
+- Download (macOS ARM): [SECast (v2.00)](https://tools.dtzxporter.com/secast/Secast-v2.0.0app.zip).
 
 ## 👉 Usage:
 Using SECast is simple. Just drag and drop a SEAnim or SEModel or a folder to the application and it will convert in-place.
