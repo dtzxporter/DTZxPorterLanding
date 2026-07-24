@@ -46,7 +46,7 @@ A collection of small tools that will help with modding games that Raindrop supp
 
 - `uidrehash` Generates new hashes for the `uiddata` files in Avatar Frontiers of Pandora.
   - Drag and drop `uiddata` files into the exe.
-  - [Download (v1.00)](https://mega.nz/file/pNQCHYQR#GLzjgZP4ysn8mvWKVtvy9IdNZyE216iYob3YqonaqGQ)
+  - [Download (v1.00)](https://tools.dtzxporter.com/uidrehash/Uidrehash-v1.0.0.zip)
 
 ## 📌 Versioning:
 - 1.02 - Fix crash that randomly occurred in outlaws.
