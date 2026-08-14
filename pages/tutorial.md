@@ -167,7 +167,7 @@ Choose whether or not to bake animations.
 - When enabled, supported animations will export with baked keyframes for:
   - Constraints.
   - Inverse Kinematics.
-- Baked animations are not compatible with Casts constraint and ik system, so you'll need to disable those features when importing models.
+- Baked animations are not compatible with Casts constraint and ik system, so they will be disabled when you are using this setting.
 
 > **WARNING:** In some editors, Cast animations will only import correctly when applied to a Cast model. For best compatibility, you should use Cast models as well, no support will be provided otherwise.
 
