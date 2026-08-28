@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 thumbnail: assets/tools/hunter.png
 description: "The TD, TD2, AFOP, XDEF, SWOL Asset Extractor"
 order: 0
-date: 2026-08-13
+date: 2026-08-28
 ---
 
 # Hunter - The TD, TD2, AFOP, XDEF, SWOL Asset Extractor
@@ -27,7 +27,7 @@ This software was developed by [DTZxPorter](https://twitter.com/dtzxporter).
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Hunter (v2.27)](https://tools.dtzxporter.com/hunter/Hunter-v2.2.7.zip).
+- Download (Windows x64): [Hunter (v2.28)](https://tools.dtzxporter.com/hunter/Hunter-v2.2.8.zip).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -49,6 +49,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **NOTE:** There is no need to open the `sdf_streaming` toc file, as it only references assets in the main toc file.
 
 ## 📌 Versioning:
+- 2.28 - Update program library for ui improvements.
 - 2.27 - Bug fixes and improvements to graph decompiler.
 - 2.26 - Update program library for bug fixes and improvements.
 - 2.25 - Update program library for bug fixes and improvements.
