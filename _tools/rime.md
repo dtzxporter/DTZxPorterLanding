@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 thumbnail: assets/tools/rime.png
 description: "The Once Human Asset Extractor"
 order: 9
-date: 2026-08-28
+date: 2026-09-16
 ---
 
 # Rime - The Once Human Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the game "Once Human". This software was developed by [
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Rime (v1.04)](https://tools.dtzxporter.com/rime/Rime-v1.0.4.zip).
+- Download (Windows x64): [Rime (v1.05)](https://tools.dtzxporter.com/rime/Rime-v1.0.5.zip).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -35,6 +35,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
   - Raw Files as-is.
 
 ## 📌 Versioning:
+- 1.05 - Update program library for bug fixes and improvements.
 - 1.04 - Update program library for ui improvements.
 - 1.03 - Update program library for bug fixes and improvements.
 - 1.02 - Update program library for bug fixes and improvements.
