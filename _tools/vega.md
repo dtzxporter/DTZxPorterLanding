@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 thumbnail: assets/tools/vega.png
 description: "The Doom Eternal Asset Extractor"
 order: 4
-date: 2026-08-28
+date: 2026-09-16
 ---
 
 # Vega - The Doom Eternal Asset Extractor
@@ -19,7 +19,7 @@ Extracts all assets from the game "Doom Eternal". This software was developed by
 
 > **IMPORTANT:** This software comes with no warranty what so ever. Use at your own risk.
 
-- Download (Windows x64): [Vega (v2.63)](https://tools.dtzxporter.com/vega/Vega-v2.6.3.zip).
+- Download (Windows x64): [Vega (v2.64)](https://tools.dtzxporter.com/vega/Vega-v2.6.4.zip).
   - Windows 10+ officially supported.
 
 ## 👉 Usage:
@@ -38,6 +38,7 @@ Read the new game tools tutorial: [Game Tool Tutorial](https://dtzxporter.com/ga
 > **NOTICE:** You should select all `_patchX` .resource files in order to export assets properly. Order doesn't matter.
 
 ## 📌 Versioning:
+- 2.64 - Update program library for bug fixes and improvements.
 - 2.63 - Update program library for ui improvements.
 - 2.62 - Update program library for bug fixes and improvements.
 - 2.61 - Update program library for bug fixes and improvements.
