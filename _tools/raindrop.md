@@ -5,7 +5,7 @@ feature-img: assets/maya.jpg
 thumbnail: assets/tools/raindrop.png
 description: "The AFOP, Outlaws Mod Loader"
 order: 12
-date: 2026-03-27
+date: 2026-09-18
 ---
 
 # Raindrop - The AFOP, Outlaws Mod Loader
@@ -26,7 +26,7 @@ by loading assets on disk.
 
 > **NOTICE:** Please link back to this page in order for others to install raindrop to ensure they're using the latest version.
 
-- Download (Windows x64): [Raindrop (v1.02)](https://tools.dtzxporter.com/raindrop/Raindrop-v1.0.2.zip).
+- Download (Windows x64): [Raindrop (v1.03)](https://tools.dtzxporter.com/raindrop/Raindrop-v1.0.3.zip).
   - Windows 10+ officially supported.
   - Some users have reported success on linux via wine.
 
@@ -49,6 +49,7 @@ A collection of small tools that will help with modding games that Raindrop supp
   - [Download (v1.00)](https://tools.dtzxporter.com/uidrehash/Uidrehash-v1.0.0.zip)
 
 ## 📌 Versioning:
+- 1.03 - Update error to warn about other modloaders.
 - 1.02 - Fix crash that randomly occurred in outlaws.
 - 1.01 - Improve streaming performance.
 - 1.00 - Initial Release.
